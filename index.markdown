@@ -75,6 +75,7 @@ layout: default
 * [O/R Mapping の話をするよ。ActiveRecord の話をしたかった。- ひむらさん](https://www.slideshare.net/TomohikoHimura/or-mapping-activerecord)
 * [よろしい、ならばMicro-ORMだ - きよくらさん](http://www.slideshare.net/kiyokura/microorm)
 * [MySQL Cluster 解説 ＆ MySQL Cluster 7.3 最新情報 - やまさきさん](http://www.slideshare.net/yoyamasaki/mysql-cluster-mysql-cluster-73)
+* [Amzon EC2 でのデータベース入門](https://docs.google.com/viewer?url=https%3A%2F%2Fdl.dropboxusercontent.com%2Fu%2F83348419%2FAmazon%2520EC2%25E3%2581%25A7%25E3%2581%25AE%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2599%25E3%2583%25BC%25E3%2582%25B9%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E5%2585%25A5%25E9%2596%2580.pdf)
 
 Ustream や つぶやきまとめ
 
