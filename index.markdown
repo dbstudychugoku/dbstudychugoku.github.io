@@ -9,17 +9,37 @@ layout: default
 
 # 次のイベント
 
-まだ決まっていませんが、2014年に開催を予定しています。
+## [第3回　中国地方DB勉強会 in 福山](http://dbstudychugoku.doorkeeper.jp/events/9698)
 
-設定ファイルやチューニングの方法についての要望が多いので、これらをテーマにしたものや、山陰での開催を検討しています。
+第３回は福山市で午前はセミナー形式、午後からはハンズオンやディスカッションを予定しています。
 
 ### 開催日
 
-2013-10-05(土) 13:30 ~ 2013-10-05 17:30
+2014/04/12 (土) 10:00 - 17:00
 
 ### 開催場所
 
-730-0051 広島県広島市中区大手町１－５－３ サテライトキャンパスひろしま　605号室
+福山市本町1番35号 [福山市市民参画センター](http://www.city.fukuyama.hiroshima.jp/soshiki/shiminsankaku/)
+
+###  開催内容
+
+セミナーの内容は
+
+1. AWSのRDS for PostgreSQL&Linux上でのHA構成のデモ 講師：曽根
+1. 負荷分散と仕様変更に耐えるためのDB設計の話 講師：三谷さん
+
+を予定しています。
+
+午後からは
+
+1. チームに分かれてテーマに対してDB設計ハンズオン
+1. みんなでKPTなどのディスカッション+DBに関わるQ&A
+
+を予定しています。
+
+[詳細や事前申し込みはDoorkeeper からお願いします。](http://dbstudychugoku.doorkeeper.jp/events/9698)
+
+<a class="doorkeeper-registration-widget" href="http://dbstudychugoku.doorkeeper.jp/events/9698"> 第3回　中国地方DB勉強会 in 福山</a><script src="http://widgets.doorkeeper.jp/w/widget.js"></script>
 
 
 # これまでのイベント
