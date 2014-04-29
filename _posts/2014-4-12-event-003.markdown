@@ -1,0 +1,39 @@
+---
+layout: event
+title:  "第三回　中国地方DB勉強会"
+date:   2014-04-12 10:00:00 JST
+categories: events
+---
+
+# [第三回　中国地方DB勉強会](http://dbstudychugoku.doorkeeper.jp/events/9698)
+
+## 開催日
+
+2014-04-12(土) 10:00 ~ 2014-04-12 17:00
+
+## 開催場所
+
+720-0056 広島県福山市本町1番35号 福山市市民参画センター(http://www.city.fukuyama.hiroshima.jp/soshiki/shiminsankaku/)
+
+## 関連資料
+
+登壇資料
+
+
+* [AWSのRDS for PostgreSQL&Linux上でのHA構成のデモ - 曽根さん](http://www.slideshare.net/SoudaiSone/db-34069118)
+* [負荷分散と仕様変更に耐えるためのDB設計 - 三谷さん](/pdf/DBWorkshop.pdf)
+
+## 関連情報
+
+第三回 中国地方DB勉強会では参加者でグループに分かれてハンズオンをしました。
+ハンズオンの内容ですが
+
+* OracleDB
+* MySQL
+* PostgreSQL
+
+の3チームに分かれ、会員毎のFileDownloaderを作るなら？と言う想定でDB設計を行いました。
+3チームとも綺麗な正規化を行っており、大きな違いはありませんでした。
+また今後も参加者主導のコンテンツを積極的に容易したいと考えております。
+
+## 参加者のブログなど
