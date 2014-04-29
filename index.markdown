@@ -9,13 +9,13 @@ layout: default
 
 # 次のイベント
 
-## [第4回　中国地方DB勉強会 in 岡山（予定）]
+## 第4回　中国地方DB勉強会 in 岡山（予定）
 
 第４回は岡山市で実行計画についてのハンズオンを予定しています。
 PostgreSQL、MySQLを題材にする予定です。
 他のDBの希望がありましたらML等でご連絡いただけますようにお願いします。
 
-中国地方DB勉強会ML Google Group(https://groups.google.com/forum/#!forum/dbstudychugoku)
+[中国地方DB勉強会ML Google Group](https://groups.google.com/forum/#!forum/dbstudychugoku)
 
 
 # これまでのイベント
