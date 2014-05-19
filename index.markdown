@@ -9,7 +9,11 @@ layout: default
 
 # 次のイベント
 
-## 第4回　中国地方DB勉強会 in 岡山（予定）
+## 第四回　中国地方DB勉強会 in 岡山（予定）
+
+* [第四回　中国地方DB勉強会](http://localhost:4000/events/event-004.html)
+* [事前申し込み - doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/11642)
+
 
 第４回は岡山市で実行計画についてのハンズオンを予定しています。
 PostgreSQL、MySQLを題材にする予定です。
