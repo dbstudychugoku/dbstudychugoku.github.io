@@ -11,7 +11,7 @@ layout: default
 
 ## 第四回　中国地方DB勉強会 in 岡山（予定）
 
-* [第四回　中国地方DB勉強会](http://dbstudychugoku.github.io/events/event-004.html)
+* [第四回　中国地方DB勉強会](/events/event-004.html)
 * [事前申し込み - doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/11642)
 
 

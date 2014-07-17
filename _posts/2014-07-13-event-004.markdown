@@ -18,3 +18,8 @@ categories: events
 ## 開催場所
 
 [岡山県岡山市津島中１－１－１ 岡山大インキュベータ](http://www.oia.jp/institutions/detail/okayamau/detail_okayamau.html)
+
+## 登壇資料など
+
+* [まずやっとくPostgreSQLのチューニング - PDF](/pdf/20140713_postgre_tuning.pdf)
+* [ハンズオン資料 - GitHub](https://github.com/soudai/dbStudy)
