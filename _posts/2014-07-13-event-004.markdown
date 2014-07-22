@@ -22,4 +22,5 @@ categories: events
 ## 登壇資料など
 
 * [まずやっとくPostgreSQLのチューニング - PDF](/pdf/20140713_postgre_tuning.pdf)
+* [MySQL 5.6時代のパフォーマンスチューニング - slideshare](http://www.slideshare.net/yoyamasaki/20131110-tuning-onmysql56)
 * [ハンズオン資料 - GitHub](https://github.com/soudai/dbStudy)
