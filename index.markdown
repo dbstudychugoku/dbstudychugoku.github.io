@@ -9,19 +9,19 @@ layout: default
 
 # 次のイベント
 
-## 第四回　中国地方DB勉強会 in 岡山（予定）
+## 第五回　中国地方DB勉強会 in 広島
 
-* [第四回　中国地方DB勉強会](/events/event-004.html)
-* [事前申し込み - doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/11642)
+* [第五回　中国地方DB勉強会](/events/event-005.html)
+* [事前申し込み - doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/14008)
 
 
-第４回は岡山市で実行計画についてのハンズオンを予定しています。
-PostgreSQL、MySQLを題材にする予定です。
-他のDBの希望がありましたらML等でご連絡いただけますようにお願いします。
+第5回は広島市で商用、OSS入り乱れてそれぞれのトラブルシューティングを題材にセッションを行っていただきます。
+また前日に同会場で[オープンソースカンファレンス2014@広島](https://www.ospn.jp/osc2014-hiroshima)も開催されます。
+NOSQLから商用DBまで現場で一番知りたい内容にアプローチします。
 
 [中国地方DB勉強会ML Google Group](https://groups.google.com/forum/#!forum/dbstudychugoku)
 
-
+ｖ
 # これまでのイベント
 
 <ul class="posts">
