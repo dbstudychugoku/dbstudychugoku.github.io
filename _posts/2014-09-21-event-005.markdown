@@ -1,0 +1,89 @@
+---
+layout: event
+title:  "第五回　中国地方DB勉強会"
+date:   2014-09-21 10:00:00 JST
+categories: events
+---
+
+# 第五回　中国地方DB勉強会
+
+詳細、事前登録は Doorkeeper を確認してください。
+
+* [doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/14008)
+
+## 開催日
+
+2014-09-21 (日) 10:00 - 17:50
+
+## 開催場所
+
+[広島県広島市中区大手町１－５－３ サテライトキャンパスひろしま　502号室 サテライトキャンパスひろしま](https://www.pu-hiroshima.ac.jp/site/satellite/)
+
+## 開催概要
+
+9:30	10:00	会場＋受付
+
+### 日本オラクル株式会社 データベース事業統括 ソリューション本部 中部・西日本SC部 部長　林 進一
+[タイトル]
+Oracle Databaseトラブルシューティングと対策について
+
+[概要]
+Oracle Databaseの性能問題を中心に
+
+* 原因調査方法
+* チューニングアプローチ
+
+についてご説明いたします。
+オラクルカスタマーサポートをうまく活用する方法をご説明いたします。
+最後に、Oracle Databaseの最新トピック（セキュリティ対策、DB12c In Memoryなど）をご紹介いたします。
+
+### 日本オラクル株式会社 MySQLユーザ会 奥野 幹也
+第一回でも奥野さんにはご登壇いただいております。
+* [第一回中国地方DB勉強会で発表したスライドをアップロードしました。](http://nippondanji.blogspot.jp/2013/08/db.html)
+
+[タイトル]
+MySQLのトラブルシューティング（仮）
+
+[概要]
+調整中
+
+### 日本PostgreSQLユーザー会 花田 茂
+花田さんは前日に行われるオープンソースカンファレンス2014@広島でもご登壇されます。
+* [PostgreSQLで始めるOSS開発](https://www.ospn.jp/osc2014-hiroshima/modules/eguide/event.php?eid=10)
+
+[タイトル]
+PostgreSQLのトラブルシューティング
+
+[概要]
+PostgreSQLの運用で発生しやすいトラブルとその対処方法ご教示します。
+さらに加えて、いざといういときに 慌てない/困らない ための
+
+* 設計・構築時に気を付けておくべきポイント
+* 定常的な監視方法
+
+などについてお話します。
+
+### ヒーロー島/Microsoft MVP 上本 亮介 
+
+[タイトル]
+SQLServerのトラブルシューティング（仮）
+
+[概要]
+調整中
+
+### オライリージャパンのMongoDBインアクションの翻訳者 玉川 竜司
+<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=soudai1025-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4873115906" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
+[タイトル]
+MongoDBの特徴とトラブルシューティング
+
+[概要]
+MongoDBは、NoSQLデータベースとして広く普及しています。
+ですがリレーショナルデータベースに比べると、まだまだその特徴をご存じない方も多いです。
+本セッションでは、
+
+* MongoDBの機能面での特徴
+* 通常のバックアップ/リストア
+* レプリカセットを使った高可用性システム
+
+について紹介します

@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "第四回　中国地方DB勉強会"
-date:   2014-04-12 10:00:00 JST
+date:   2014-07-13 10:00:00 JST
 categories: events
 ---
 
