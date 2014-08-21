@@ -158,3 +158,29 @@ ul.posts span {
 .post pre.terminal code {
   background-color: #333;
 }
+
+table {
+    border: 1px solid #ddd;
+    border-collapse: seprate;
+}
+
+thead tr:first-child th {
+    padding: 8px;
+    line-height: 20px;
+    text-align: center;
+    border-bottom: 1px solid #dddddd;
+}
+
+table td {
+    padding: 8px;
+    line-height: 20px;
+    text-align: left;
+    vertical-align: top;
+    border-top: 1px solid #dddddd;
+    border-left: 1px solid #dddddd;
+}
+
+table th {
+    background-color: whitesmoke;
+    font-weight: bold;
+}

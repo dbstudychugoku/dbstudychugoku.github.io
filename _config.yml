@@ -5,3 +5,6 @@ timezone: Asia/Tokyo
 safe: true
 exclude: ['Gemfile','Gemfile.lock','Rakefile','vendor']
 permalink: none
+
+redcarpet:
+  extensions: ['tables']

@@ -19,15 +19,28 @@ categories: events
 
 [広島県広島市中区大手町１－５－３ サテライトキャンパスひろしま　502号室 サテライトキャンパスひろしま](https://www.pu-hiroshima.ac.jp/site/satellite/)
 
-## 開催概要
+## タイムテーブル
 
-9:30	10:00	会場＋受付
+開始時間 | 終了時間 | タイトル | 講師
+---|------------- | ------------- | -------------
+09:30 | 10:00 | 会場＋受付 |
+10:00 | 11:00 | Oracle Databaseトラブルシューティングと対策について|OracleDB(Oracle社　林さん）
+11:00 | 11:10 | 10分休憩
+11:10 | 12:10 | MySQLのトラブルシューティング|日本MySQLユーザー会（Oracle社 奥野さん）
+12:10 | 13:00 | 昼休憩
+13:00 | 14:00 | PostgreSQLのトラブルシューティング|日本PostgreSQLユーザー会(メトロシステムズ　花田さん）
+14:00 | 14:10 | 10分休憩
+14:10 | 15:10 | SQLServerのトラブルシューティング|ヒーロー島/Microsoft MVP(有限会社オルビス 上本さん)
+15:10 | 15:20 | 10分休憩
+15:20 | 16:20 | MongoDBの特徴とトラブルシューティング|オライリージャパンのMongoDBインアクションの翻訳者（玉川さん）
+16:20 | 16:30 | 10分休憩
+16:30 | 17:30 | みんなでKPTなどのディスカッション+DBに関わるQ&A
+17:30 | 17:40 | クロージング
 
-### 日本オラクル株式会社 データベース事業統括 ソリューション本部 中部・西日本SC部 部長　林 進一
-[タイトル]
-Oracle Databaseトラブルシューティングと対策について
+## セッション詳細
 
-[概要]
+### Oracle Databaseトラブルシューティングと対策について
+
 Oracle Databaseの性能問題を中心に
 
 * 原因調査方法
@@ -37,24 +50,27 @@ Oracle Databaseの性能問題を中心に
 オラクルカスタマーサポートをうまく活用する方法をご説明いたします。
 最後に、Oracle Databaseの最新トピック（セキュリティ対策、DB12c In Memoryなど）をご紹介いたします。
 
-### 日本オラクル株式会社 MySQLユーザ会 奥野 幹也
-第一回でも奥野さんにはご登壇いただいております。
-* [第一回中国地方DB勉強会で発表したスライドをアップロードしました。](http://nippondanji.blogspot.jp/2013/08/db.html)
+* 講師
 
-[タイトル]
-MySQLのトラブルシューティング（仮）
+日本オラクル株式会社 データベース事業統括 ソリューション本部 中部・西日本SC部 部長
 
-[概要]
+林 進一
+
+### MySQLのトラブルシューティング（仮）
+
 調整中
 
-### 日本PostgreSQLユーザー会 花田 茂
-花田さんは前日に行われるオープンソースカンファレンス2014@広島でもご登壇されます。
-* [PostgreSQLで始めるOSS開発](https://www.ospn.jp/osc2014-hiroshima/modules/eguide/event.php?eid=10)
+* 講師
 
-[タイトル]
-PostgreSQLのトラブルシューティング
+日本オラクル株式会社 MySQLユーザ会 奥野 幹也
 
-[概要]
+第一回でも奥野さんにはご登壇いただいております。
+
+* [第一回中国地方DB勉強会で発表したスライドをアップロードしました。](http://nippondanji.blogspot.jp/2013/08/db.html)
+
+
+### PostgreSQLのトラブルシューティング
+
 PostgreSQLの運用で発生しやすいトラブルとその対処方法ご教示します。
 さらに加えて、いざといういときに 慌てない/困らない ための
 
@@ -63,21 +79,25 @@ PostgreSQLの運用で発生しやすいトラブルとその対処方法ご教�
 
 などについてお話します。
 
-### ヒーロー島/Microsoft MVP 上本 亮介 
+* 講師
 
-[タイトル]
-SQLServerのトラブルシューティング（仮）
+日本PostgreSQLユーザー会 花田 茂
 
-[概要]
+花田さんは前日に行われるオープンソースカンファレンス2014@広島でもご登壇されます。
+* [PostgreSQLで始めるOSS開発](https://www.ospn.jp/osc2014-hiroshima/modules/eguide/event.php?eid=10)
+
+### SQLServerのトラブルシューティング（仮）
+
 調整中
 
-### オライリージャパンのMongoDBインアクションの翻訳者 玉川 竜司
-<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=soudai1025-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4873115906" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
-[タイトル]
-MongoDBの特徴とトラブルシューティング
+* 講師
 
-[概要]
+ヒーロー島/Microsoft MVP 上本 亮介
+
+
+### MongoDBの特徴とトラブルシューティング
+
 MongoDBは、NoSQLデータベースとして広く普及しています。
 ですがリレーショナルデータベースに比べると、まだまだその特徴をご存じない方も多いです。
 本セッションでは、
@@ -87,3 +107,9 @@ MongoDBは、NoSQLデータベースとして広く普及しています。
 * レプリカセットを使った高可用性システム
 
 について紹介します
+
+* 講師
+
+オライリージャパンのMongoDBインアクションの翻訳者 玉川 竜司
+
+<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=soudai1025-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4873115906" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>

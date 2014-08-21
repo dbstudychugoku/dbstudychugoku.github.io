@@ -21,7 +21,6 @@ NOSQLから商用DBまで現場で一番知りたい内容にアプローチし�
 
 [中国地方DB勉強会ML Google Group](https://groups.google.com/forum/#!forum/dbstudychugoku)
 
-ｖ
 # これまでのイベント
 
 <ul class="posts">
