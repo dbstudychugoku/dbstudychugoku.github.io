@@ -71,7 +71,13 @@ SQLServerのトラブルシューティング（仮）
 <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=soudai1025-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=4873115906" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 [タイトル]
-MongoDBのトラブルシューティング（仮）
+MongoDBの特徴とトラブルシューティング
 
 [概要]
-調整中
+MongoDBは、NoSQLデータベースとして広く普及しています。
+ですがリレーショナルデータベースに比べると、まだまだその特徴をご存じない方も多いです。
+本セッションでは、
+* MongoDBの機能面での特徴
+* 通常のバックアップ/リストア
+* レプリカセットを使った高可用性システム
+について紹介します
