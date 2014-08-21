@@ -84,6 +84,7 @@ PostgreSQLの運用で発生しやすいトラブルとその対処方法ご教�
 日本PostgreSQLユーザー会 花田 茂
 
 花田さんは前日に行われるオープンソースカンファレンス2014@広島でもご登壇されます。
+
 * [PostgreSQLで始めるOSS開発](https://www.ospn.jp/osc2014-hiroshima/modules/eguide/event.php?eid=10)
 
 ### SQLServerのトラブルシューティング（仮）
