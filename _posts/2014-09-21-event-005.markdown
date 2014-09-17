@@ -30,7 +30,7 @@ categories: events
 12:10 | 13:00 | 昼休憩
 13:00 | 14:00 | PostgreSQLのトラブルシューティング|日本PostgreSQLユーザー会(メトロシステムズ　花田さん）
 14:00 | 14:10 | 10分休憩
-14:10 | 15:10 | SQLServerのトラブルシューティング|ヒーロー島/Microsoft MVP(有限会社オルビス 上本さん)
+14:10 | 15:10 | SQL Server のバックアップ事始め|ヒーロー島/Microsoft MVP(有限会社オルビス 上本さん)
 15:10 | 15:20 | 10分休憩
 15:20 | 16:20 | MongoDBの特徴とトラブルシューティング|オライリージャパンのMongoDBインアクションの翻訳者（玉川さん）
 16:20 | 16:30 | 10分休憩
@@ -87,9 +87,10 @@ PostgreSQLの運用で発生しやすいトラブルとその対処方法ご教�
 
 * [PostgreSQLで始めるOSS開発](https://www.ospn.jp/osc2014-hiroshima/modules/eguide/event.php?eid=10)
 
-### SQLServerのトラブルシューティング（仮）
+### SQL Server のバックアップ事始め
 
-調整中
+バックアップを漫然と行っていては、いざという時途方に暮れることになりかねません。
+このセッションでは、Microsoft SQL Server のバックアップと復旧について押さえておきたいポイントをお伝えします。
 
 
 * 講師
