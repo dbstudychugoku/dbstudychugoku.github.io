@@ -19,6 +19,17 @@ categories: events
 
 [広島県広島市中区大手町１－５－３ サテライトキャンパスひろしま　502号室 サテライトキャンパスひろしま](https://www.pu-hiroshima.ac.jp/site/satellite/)
 
+## 関連資料
+
+登壇資料など
+
+* [漢(オトコ)のコンピュータ道: OSC広島と中国地方DB勉強会に参加しました。](http://nippondanji.blogspot.jp/2014/09/oscdb.html)
+
+つぶやきまとめなど
+
+* [Togetter](http://togetter.com/li/721903)
+* [sekicoco](http://sekico.co/zaseki/385)
+
 ## タイムテーブル
 
 開始時間 | 終了時間 | タイトル | 講師
