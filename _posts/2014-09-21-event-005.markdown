@@ -24,6 +24,12 @@ categories: events
 登壇資料など
 
 * [漢(オトコ)のコンピュータ道: OSC広島と中国地方DB勉強会に参加しました。](http://nippondanji.blogspot.jp/2014/09/oscdb.html)
+* [MySQLトラブル解析入門 - 第5回中国地方DB勉強会 奥野 幹也](http://www.slideshare.net/nippondanji/mysql-39352432)
+* [PostgreSQLのトラブルシューティング＠第5回中国地方DB勉強会 - 株式会社メトロシステムズ 花田 茂](http://www.slideshare.net/babystarmonja/postgresql5db)
+* [データベース勉強会 In 広島 mongodb - 玉川竜司@大阪](http://www.slideshare.net/dragan10/in-mongodb)
+* [PostgreSQL 9.4 SELECT 文の 微妙な強化 - ぬこ＠横浜](http://www.slideshare.net/toshiharada/pgunconf-pg94select)
+* [my sql-postgresql勉強会#6 LT 私的なPostgreSQLの楽しみ方 - ぬこ＠横浜](http://www.slideshare.net/toshiharada/my-sqlpostgresql6-lt-postgresql)
+
 
 つぶやきまとめなど
 
