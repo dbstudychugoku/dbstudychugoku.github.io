@@ -12,17 +12,15 @@ layout: default
 
 <article class="post-content">
 
-## 第五回　中国地方DB勉強会 in 広島
+## 第六回　中国地方DB勉強会 in 山口
 
-2014年9月21日
+2014年11月23日
 
-* [第五回　中国地方DB勉強会](/events/event-005.html)
-* [事前申し込み - doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/14008)
+* [第六回　中国地方DB勉強会](/events/event-006.html)
 
-
-第5回は広島市で商用、OSS入り乱れてそれぞれのトラブルシューティングを題材にセッションを行っていただきます。
-また前日に同会場で[オープンソースカンファレンス2014@広島](https://www.ospn.jp/osc2014-hiroshima)も開催されます。
-NOSQLから商用DBまで現場で一番知りたい内容にアプローチします。
+ついに山口で初開催します!
+テーマはクラウドデータベース。
+RDSやBigQuery、CloudDBなどなどを予定しています。
 
 </article>
 
