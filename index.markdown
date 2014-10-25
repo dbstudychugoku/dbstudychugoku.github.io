@@ -17,9 +17,12 @@ layout: default
 2014年11月23日
 
 * [第六回　中国地方DB勉強会](/events/event-006.html)
+* [doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/16775)
 
 ついに山口で初開催します!
+
 テーマはクラウドデータベース。
+
 RDSやBigQuery、CloudDBなどなどを予定しています。
 
 </article>
