@@ -1,0 +1,75 @@
+---
+layout: event
+title:  "第六回　中国地方DB勉強会"
+date:   2014-11-23 10:00:00 JST
+categories: events
+---
+
+# 第六回　中国地方DB勉強会
+
+テーマ「クラウドデータベース」
+
+* [事前申し込み doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/16775)
+
+## 開催日
+
+2014-11-23 (日) 13:00 - 17:00
+
+## 開催場所
+
+[山口県山口市小郡黄金町2-24 YICスタジオ 401教室](http://www.yic.ac.jp/classroom/)
+
+# タイムテーブル
+
+時刻 | タイトル | 講師
+---- | ---- | ----
+13:00 ~ 13:50 | すぐに始めれるクラウド、PostgreSQLとHeroku | 曽根さん
+14:00 ~ 14:50 | 調整中 | 玉川さん
+15:00 ~ 15:50 | BigQueryとCloudSQLの紹介　〜力技で大量のデータを解析する〜 | 横山さん
+16:00 ~ 16:50 | MySQL5.7の最新事情 | 梶山さん
+17:00 ~ 17:50 | KPTかハンズオン |
+17:50 ~ 18:00 | クロージング |
+
+# すぐに始めれるクラウド、PostgreSQLとHeroku
+
+* 講師 曽根 壮大 [@soudai1025](https://twitter.com/soudai1025)
+
+## 概要
+
+AWSを使ったPaasであるHerokuの簡単な紹介と実際の利用デモを行います。
+これを見れば今日からクラウドですぐ開発始めれます！！
+
+## AWSのデータベースサービス全部紹介
+
+* 講師 [Sky株式会社](http://www.skygroup.jp) 玉川 竜司 [@tamagawa_ryuji](https://twitter.com/tamagawa_ryuji)
+
+## 概要
+
+AWSで使えるデータベースには、Oracle、SQL Server、MySQL、PostgreSQLのマネージドサービスであるRDSや、NoSQL系のデータベースであるDynamoDBがあります。
+さらには自分の持っているSQL ServerやOracleのライセンスを持ち込んで動かすこともできます。
+このセッションでは、それぞれの違いを、技術面だけではなく、クラウドならではのライセンスのことも含めて紹介します。
+
+# BigQueryとCloudSQLの紹介　〜力技で大量のデータを解析する〜
+
+* [GDD中国](https://sites.google.com/site/gdgchugokuofficial/) 横山 隆司 [+TakashiYokoyama](https://plus.google.com/+TakashiYokoyama/)
+
+## 概要
+
+BigQueryの使い方をデモを中心に紹介します。
+おまけで、Cloud SQLもね。
+
+# MySQL5.7の最新事情
+
+* 講師 [MySQLユーザ会](http://www.mysql.gr.jp/) 梶山 隆輔
+
+## 概要
+
+MySQLは多くのクラウドサービスのインフラや超大規模Webサイトのバックエンド として広く利用されています。本セッションではMySQLサーバの最新の開発動向 やツール類の情報をご紹介いたします。
+
+
+# 懇親会
+
+楽処　ふるさと
+http://www.hurusato.tank.jp/index.html
+
+参加費は参加者で割り勘ですが3500円程度と考えています。
