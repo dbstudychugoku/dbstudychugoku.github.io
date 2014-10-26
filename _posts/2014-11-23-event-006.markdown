@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "第六回　中国地方DB勉強会"
-date:   2014-09-21 10:00:00 JST
+date:   2014-11-23 10:00:00 JST
 categories: events
 ---
 
@@ -62,6 +62,14 @@ BigQueryの使い方をデモを中心に紹介します。
 
 * 講師 [MySQLユーザ会](http://www.mysql.gr.jp/) 梶山 隆輔
 
-# 概要
+## 概要
 
 MySQLは多くのクラウドサービスのインフラや超大規模Webサイトのバックエンド として広く利用されています。本セッションではMySQLサーバの最新の開発動向 やツール類の情報をご紹介いたします。
+
+
+# 懇親会
+
+楽処　ふるさと
+http://www.hurusato.tank.jp/index.html
+
+参加費は参加者で割り勘ですが3500円程度と考えています。
