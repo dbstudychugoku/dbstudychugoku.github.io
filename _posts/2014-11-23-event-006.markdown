@@ -39,13 +39,15 @@ categories: events
 AWSを使ったPaasであるHerokuの簡単な紹介と実際の利用デモを行います。
 これを見れば今日からクラウドですぐ開発始めれます！！
 
-## セッションタイトル調整中
+## AWSのデータベースサービス全部紹介
 
 * 講師 [Sky株式会社](http://www.skygroup.jp) 玉川 竜司 [@tamagawa_ryuji](https://twitter.com/tamagawa_ryuji)
 
 ## 概要
 
-調整中
+AWSで使えるデータベースには、Oracle、SQL Server、MySQL、PostgreSQLのマネージドサービスであるRDSや、NoSQL系のデータベースであるDynamoDBがあります。
+さらには自分の持っているSQL ServerやOracleのライセンスを持ち込んで動かすこともできます。
+このセッションでは、それぞれの違いを、技術面だけではなく、クラウドならではのライセンスのことも含めて紹介します。
 
 # BigQueryとCloudSQLの紹介　〜力技で大量のデータを解析する〜
 
