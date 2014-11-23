@@ -10,6 +10,7 @@ categories: events
 テーマ「クラウドデータベース」
 
 * [事前申し込み doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/16775)
+* [Togetter](http://togetter.com/li/748936)
 
 ## 開催日
 
