@@ -12,6 +12,29 @@ categories: events
 * [事前申し込み doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/16775)
 * [Togetter](http://togetter.com/li/748936)
 
+## 発表者資料
+
+* すぐに始めれるクラウド、PostgreSQLとHeroku
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/42070449" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SoudaiSone/ss-42070449" title="すぐ始めれるクラウド" target="_blank">すぐ始めれるクラウド</a> </strong> from <strong><a href="//www.slideshare.net/SoudaiSone" target="_blank">Soudai Sone</a></strong> </div>
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/DHiOCG5QD64?rel=0" frameborder="0" allowfullscreen></iframe>
+
+* AWSのデータベースサービス全部紹介
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/l9tg3jF99P0?rel=0" frameborder="0" allowfullscreen></iframe>
+
+* MySQL5.7の最新事情
+
+[スライド](/pdf/20141123_MySQL.pdf)
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/_TF1fVHyeMs?rel=0" frameborder="0" allowfullscreen></iframe>
+
+* BigQueryとCloudSQLの紹介　〜力技で大量のデータを解析する〜
+
+[スライド](https://docs.google.com/presentation/d/1cDkN6pbLP6c5dzMtz-Nv--HHq6rxMMC8O_a5NhXMvSA/edit#slide=id.p)
+
+
 ## 開催日
 
 2014-11-23 (日) 13:00 - 17:00
@@ -25,7 +48,7 @@ categories: events
 時刻 | タイトル | 講師
 ---- | ---- | ----
 13:00 ~ 13:50 | すぐに始めれるクラウド、PostgreSQLとHeroku | 曽根さん
-14:00 ~ 14:50 | 調整中 | 玉川さん
+14:00 ~ 14:50 | AWSのデータベースサービス全部紹介 | 玉川さん
 15:00 ~ 15:50 | BigQueryとCloudSQLの紹介　〜力技で大量のデータを解析する〜 | 横山さん
 16:00 ~ 16:50 | MySQL5.7の最新事情 | 梶山さん
 17:00 ~ 17:50 | KPTかハンズオン |
