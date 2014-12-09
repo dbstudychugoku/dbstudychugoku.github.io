@@ -1,0 +1,28 @@
+---
+layout: event
+title:  "第七回 中国地方DB勉強会 in 松江"
+date:   2014-01-31 13:00:00 JST
+categories: events
+---
+
+# 第七回　中国地方DB勉強会 in 松江
+
+## 開催日
+
+2015年1月31日 (日) 13:00 - 17:00
+
+## Postgres
+
+* 講師 原田さん [@nuko_yokohama](https://twitter.com/nuko_yokohama)
+
+## MySQL
+
+* 講師 [MySQLユーザ会](http://www.mysql.gr.jp/) 梶山 隆輔さん
+
+## 未定
+
+* 講師 [Sky株式会社](http://www.skygroup.jp) 玉川 竜司 [@tamagawa_ryuji](https://twitter.com/tamagawa_ryuji)
+
+# 未定
+
+* 講師 モンスター・ラボ [山口](http://monstar-lab.com/business_producer/yamaguchi-tomohiro) さん

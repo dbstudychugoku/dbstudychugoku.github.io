@@ -12,18 +12,14 @@ layout: default
 
 <article class="post-content">
 
-## 第六回　中国地方DB勉強会 in 山口
+## 第七回 中国地方DB勉強会 in 松江
 
-2014年11月23日
+2015年1月31日(日)
 
-* [第六回　中国地方DB勉強会](/events/event-006.html)
-* [doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/16775)
+* [第七回　中国地方DB勉強会](/events/event-007.html)
+* [doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/18385)
 
-ついに山口で初開催します!
-
-テーマはクラウドデータベース。
-
-RDSやBigQuery、CloudDBなどなどを予定しています。
+やってまいりました、松江でございます。
 
 </article>
 
