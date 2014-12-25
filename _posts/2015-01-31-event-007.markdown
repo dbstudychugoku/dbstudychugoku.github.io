@@ -7,6 +7,10 @@ categories: events
 
 # 第七回　中国地方DB勉強会 in 松江
 
+## 事前申し込み
+
+* [doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/18385)
+
 ## 開催日
 
 2015年1月31日 (日) 13:00 - 17:00
