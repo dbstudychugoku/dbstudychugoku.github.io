@@ -11,17 +11,40 @@ categories: events
 
 2015年1月31日 (日) 13:00 - 17:00
 
-## Postgres
+## 講師
+
+* 原田さん [@nuko_yokohama](https://twitter.com/nuko_yokohama)
+* [MySQLユーザ会](http://www.mysql.gr.jp/) 梶山 隆輔さん
+* [Sky株式会社](http://www.skygroup.jp) 玉川 竜司 [@tamagawa_ryuji](https://twitter.com/tamagawa_ryuji)
+* モンスター・ラボ [山口](http://monstar-lab.com/business_producer/yamaguchi-tomohiro) さん
+
+# セッション内容
+
+## ドキュメント指向データベースとしてのPostgreSQL 9.4
 
 * 講師 原田さん [@nuko_yokohama](https://twitter.com/nuko_yokohama)
 
-## MySQL
+2014/12/19に無事にリリースされた、PostgreSQL 9.4。
+この新しいバージョンには様々な新機能や改善項目が含まれています。
+本セッションでは、PostgreSQL 9.4の新機能や改善項目の概要をまず紹介します。
+また、新機能のうち特に注目されているJSONBについて詳しく紹介し、
+ドキュメント指向データベースとしてPostgreSQLを利用できるかを話します。
+
+## MySQL最新事情
 
 * 講師 [MySQLユーザ会](http://www.mysql.gr.jp/) 梶山 隆輔さん
 
-## 未定
+本セッションではMySQLサーバの最新の開発動向のご紹介やMySQL Workbenchなど のツールのデモを行います。MySQLはクラウドのインフラやWebサイトのバックエ ンドでの要件に対応するため、NoSQL APIや分散型クラスタ機能などの追加を続 けています。
+
+
+## AWSのデータベースサービス全部紹介
 
 * 講師 [Sky株式会社](http://www.skygroup.jp) 玉川 竜司 [@tamagawa_ryuji](https://twitter.com/tamagawa_ryuji)
+
+AWSで使えるデータベースには、Oracle、SQL Server、MySQL、PostgreSQLのマネージドサービスであるRDSや、NoSQL系のデータベースであるDynamoDBがあります。
+さらには自分の持っているSQL ServerやOracleのライセンスを持ち込んで動かすこともできます。
+このセッションでは、それぞれの違いを、技術面だけではなく、クラウドならではのライセンスのことも含めて紹介します。
+
 
 # 未定
 
