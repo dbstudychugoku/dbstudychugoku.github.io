@@ -20,6 +20,7 @@ categories: events
 * 原田さん [@nuko_yokohama](https://twitter.com/nuko_yokohama)
 * [MySQLユーザ会](http://www.mysql.gr.jp/) 梶山 隆輔さん
 * [Sky株式会社](http://www.skygroup.jp) 玉川 竜司 [@tamagawa_ryuji](https://twitter.com/tamagawa_ryuji)
+* [小松電機産業](http://www.komatsuelec.co.jp/) 広江さん
 * モンスター・ラボ [山口](http://monstar-lab.com/business_producer/yamaguchi-tomohiro) さん
 
 # セッション内容
@@ -49,7 +50,13 @@ AWSで使えるデータベースには、Oracle、SQL Server、MySQL、PostgreS
 さらには自分の持っているSQL ServerやOracleのライセンスを持ち込んで動かすこともできます。
 このセッションでは、それぞれの違いを、技術面だけではなく、クラウドならではのライセンスのことも含めて紹介します。
 
+## 上下水道インフラ監視/制御システムにおけるPostgreSQL運用事例
 
-# 未定
+* 講師 [小松電機産業](http://www.komatsuelec.co.jp/) 広江さん
+
+業務でPostgreSQLを使ってきた上で、今までの苦い経験と現状の運用についてお話しします。
+Riakも利用していて、こちらの紹介もする予定です。
+
+## 未定
 
 * 講師 モンスター・ラボ [山口](http://monstar-lab.com/business_producer/yamaguchi-tomohiro) さん
