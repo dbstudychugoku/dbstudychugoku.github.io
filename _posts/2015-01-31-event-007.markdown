@@ -23,6 +23,17 @@ categories: events
 * [小松電機産業](http://www.komatsuelec.co.jp/) 広江さん
 * モンスター・ラボ [山口](http://monstar-lab.com/business_producer/yamaguchi-tomohiro) さん
 
+## タイムテーブル
+
+時刻 | タイトル | 講師
+---- | ---- | ----
+13:00 〜 13:50 | ドキュメント指向データベースとしてのPostgreSQL 9.4 | 原田さん
+14:00 〜 14:50 | MySQL最新事情 | 梶山さん
+15:00 〜 15:20 | 上下水道インフラ監視/制御システムにおけるPostgreSQL運用事例 | 広江さん
+15:30 〜 15:50 | 未定 | 山口さん
+16:00 〜 16:50 | AWSのデータベースサービス全部紹介 | 玉川さん
+16:50 〜 17:00 | | クロージング |
+
 # セッション内容
 
 ## ドキュメント指向データベースとしてのPostgreSQL 9.4
@@ -42,13 +53,6 @@ categories: events
 本セッションではMySQLサーバの最新の開発動向のご紹介やMySQL Workbenchなど のツールのデモを行います。MySQLはクラウドのインフラやWebサイトのバックエ ンドでの要件に対応するため、NoSQL APIや分散型クラスタ機能などの追加を続 けています。
 
 
-## AWSのデータベースサービス全部紹介
-
-* 講師 [Sky株式会社](http://www.skygroup.jp) 玉川 竜司 [@tamagawa_ryuji](https://twitter.com/tamagawa_ryuji)
-
-AWSで使えるデータベースには、Oracle、SQL Server、MySQL、PostgreSQLのマネージドサービスであるRDSや、NoSQL系のデータベースであるDynamoDBがあります。
-さらには自分の持っているSQL ServerやOracleのライセンスを持ち込んで動かすこともできます。
-このセッションでは、それぞれの違いを、技術面だけではなく、クラウドならではのライセンスのことも含めて紹介します。
 
 ## 上下水道インフラ監視/制御システムにおけるPostgreSQL運用事例
 
@@ -60,3 +64,11 @@ Riakも利用していて、こちらの紹介もする予定です。
 ## 未定
 
 * 講師 モンスター・ラボ [山口](http://monstar-lab.com/business_producer/yamaguchi-tomohiro) さん
+
+## AWSのデータベースサービス全部紹介
+
+* 講師 [Sky株式会社](http://www.skygroup.jp) 玉川 竜司 [@tamagawa_ryuji](https://twitter.com/tamagawa_ryuji)
+
+AWSで使えるデータベースには、Oracle、SQL Server、MySQL、PostgreSQLのマネージドサービスであるRDSや、NoSQL系のデータベースであるDynamoDBがあります。
+さらには自分の持っているSQL ServerやOracleのライセンスを持ち込んで動かすこともできます。
+このセッションでは、それぞれの違いを、技術面だけではなく、クラウドならではのライセンスのことも含めて紹介します。
