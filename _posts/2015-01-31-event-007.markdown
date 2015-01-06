@@ -30,7 +30,7 @@ categories: events
 13:00 〜 13:50 | ドキュメント指向データベースとしてのPostgreSQL 9.4 | 原田さん
 14:00 〜 14:50 | MySQL最新事情 | 梶山さん
 15:00 〜 15:20 | 上下水道インフラ監視/制御システムにおけるPostgreSQL運用事例 | 広江さん
-15:30 〜 15:50 | 未定 | 山口さん
+15:30 〜 15:50 | Amazon Redshiftを使ったデータ解析 | 山口さん
 16:00 〜 16:50 | AWSのデータベースサービス全部紹介 | 玉川さん
 16:50 〜 17:00 | クロージング |
 
@@ -61,7 +61,10 @@ categories: events
 業務でPostgreSQLを使ってきた上で、今までの苦い経験と現状の運用についてお話しします。
 Riakも利用していて、こちらの紹介もする予定です。
 
-## 未定
+## Amazon Redshiftを使ったデータ解析
+
+ビッグデータ向けのデータベースとして注目される、Amazon Redshiftの概要を説明し、
+Redshiftに保存されたデータを可視化ツールを使って解析するデモを行う予定です。
 
 * 講師 モンスター・ラボ [山口](http://monstar-lab.com/business_producer/yamaguchi-tomohiro) さん
 
