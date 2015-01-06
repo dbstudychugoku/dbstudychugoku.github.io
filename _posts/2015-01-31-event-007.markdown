@@ -61,13 +61,6 @@ categories: events
 業務でPostgreSQLを使ってきた上で、今までの苦い経験と現状の運用についてお話しします。
 Riakも利用していて、こちらの紹介もする予定です。
 
-## Amazon Redshiftを使ったデータ解析
-
-ビッグデータ向けのデータベースとして注目される、Amazon Redshiftの概要を説明し、
-Redshiftに保存されたデータを可視化ツールを使って解析するデモを行う予定です。
-
-* 講師 モンスター・ラボ [山口](http://monstar-lab.com/business_producer/yamaguchi-tomohiro) さん
-
 ## AWSのデータベースサービス全部紹介
 
 * 講師 [Sky株式会社](http://www.skygroup.jp) 玉川 竜司 [@tamagawa_ryuji](https://twitter.com/tamagawa_ryuji)
@@ -75,3 +68,11 @@ Redshiftに保存されたデータを可視化ツールを使って解析する
 AWSで使えるデータベースには、Oracle、SQL Server、MySQL、PostgreSQLのマネージドサービスであるRDSや、NoSQL系のデータベースであるDynamoDBがあります。
 さらには自分の持っているSQL ServerやOracleのライセンスを持ち込んで動かすこともできます。
 このセッションでは、それぞれの違いを、技術面だけではなく、クラウドならではのライセンスのことも含めて紹介します。
+
+## Amazon Redshiftを使ったデータ解析
+
+ビッグデータ向けのデータベースとして注目される、Amazon Redshiftの概要を説明し、
+Redshiftに保存されたデータを可視化ツールを使って解析するデモを行う予定です。
+
+* 講師 モンスター・ラボ [山口](http://monstar-lab.com/business_producer/yamaguchi-tomohiro) さん
+
