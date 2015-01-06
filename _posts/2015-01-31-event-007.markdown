@@ -71,8 +71,7 @@ AWSで使えるデータベースには、Oracle、SQL Server、MySQL、PostgreS
 
 ## Amazon Redshiftを使ったデータ解析
 
-ビッグデータ向けのデータベースとして注目される、Amazon Redshiftの概要を説明し、
-Redshiftに保存されたデータを可視化ツールを使って解析するデモを行う予定です。
-
 * 講師 モンスター・ラボ [山口](http://monstar-lab.com/business_producer/yamaguchi-tomohiro) さん
 
+ビッグデータ向けのデータベースとして注目される、Amazon Redshiftの概要を説明し、
+Redshiftに保存されたデータを可視化ツールを使って解析するデモを行う予定です。
