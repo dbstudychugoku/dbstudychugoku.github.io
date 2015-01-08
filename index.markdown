@@ -14,7 +14,7 @@ layout: default
 
 ## 第七回 中国地方DB勉強会 in 松江
 
-2015年1月31日(日)
+2015年1月31日(土)
 
 * [第七回　中国地方DB勉強会](/events/event-007.html)
 * [doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/18385)
