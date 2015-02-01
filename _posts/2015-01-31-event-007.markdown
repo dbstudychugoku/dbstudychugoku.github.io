@@ -7,6 +7,8 @@ categories: events
 
 # 第七回　中国地方DB勉強会 in 松江
 
+* [Towgetter](http://togetter.com/li/777038)
+
 ## 事前申し込み
 
 * [doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/18385)
