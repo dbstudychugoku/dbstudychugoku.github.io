@@ -7,7 +7,35 @@ categories: events
 
 # 第七回　中国地方DB勉強会 in 松江
 
-* [Towgetter](http://togetter.com/li/777038)
+* [Togetter](http://togetter.com/li/777038)
+
+## ドキュメント指向データベースとしてのPostgreSQL 9.4
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xTjsPoPfm2Q?list=PLeE5Q8p_7u111x4Yg5t2ZKN7tTKEHCdG1" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/44116276" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/toshiharada/chugokudb-study20150131" title="Chugokudb study-20150131" target="_blank">Chugokudb study-20150131</a> </strong> from <strong><a href="//www.slideshare.net/toshiharada" target="_blank">Toshi Harada</a></strong> </div>
+
+<h2>MySQL最新事情</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ajz4Vd3PYnY?list=PLeE5Q8p_7u111x4Yg5t2ZKN7tTKEHCdG1" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/44098227" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/rkajiyama/20150131-chugokudbshimanemysql" title="20150131 ChugokuDB-Shimane-MySQL" target="_blank">20150131 ChugokuDB-Shimane-MySQL</a> </strong> from <strong><a href="//www.slideshare.net/rkajiyama" target="_blank">Ryusuke Kajiyama</a></strong> </div>
+
+<h2>上下水道インフラ監視/制御システムにおけるPostgreSQL運用事例</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vbT8gEt99l4?list=PLeE5Q8p_7u111x4Yg5t2ZKN7tTKEHCdG1" frameborder="0" allowfullscreen></iframe>
+
+* [スライド](https://www.youtube.com/redirect?q=https%3A%2F%2Fgithub.com%2Fhiroeorz%2Fpresentations%2Fblob%2Fmaster%2Fchugoku-db%2Fchugoku_db_komatsu.pdf%3Fraw%3Dtrue&redir_token=mzfBsUF6IIBNGw5GZxVsx9zm8vl8MTQyMzgyNTg2OEAxNDIzNzM5NDY4)
+
+<h2>Amazon Redshiftを使ったデータ解析</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q9x1yAHqw1c?list=PLeE5Q8p_7u111x4Yg5t2ZKN7tTKEHCdG1" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/44140812" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tt_yamaguchi/red-44140812" title="Amazon Redshiftを使ったデータ分析" target="_blank">Amazon Redshiftを使ったデータ分析</a> </strong> from <strong><a href="//www.slideshare.net/tt_yamaguchi" target="_blank">Tomohiro Yamaguchi</a></strong> </div>
+
+<h2>AWSのデータベース全部紹介＆BigQuery</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q0AEXicSvTU?list=PLeE5Q8p_7u111x4Yg5t2ZKN7tTKEHCdG1" frameborder="0" allowfullscreen></iframe>
 
 ## 事前申し込み
 
