@@ -25,7 +25,7 @@ categories: events
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vbT8gEt99l4?list=PLeE5Q8p_7u111x4Yg5t2ZKN7tTKEHCdG1" frameborder="0" allowfullscreen></iframe>
 
-* [スライド](https://www.youtube.com/redirect?q=https%3A%2F%2Fgithub.com%2Fhiroeorz%2Fpresentations%2Fblob%2Fmaster%2Fchugoku-db%2Fchugoku_db_komatsu.pdf%3Fraw%3Dtrue&redir_token=mzfBsUF6IIBNGw5GZxVsx9zm8vl8MTQyMzgyNTg2OEAxNDIzNzM5NDY4)
+* [スライド](https://github.com/hiroeorz/presentations/blob/master/chugoku-db/chugoku_db_komatsu.pdf?raw=true)
 
 <h2>Amazon Redshiftを使ったデータ解析</h2>
 
