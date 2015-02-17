@@ -37,6 +37,8 @@ categories: events
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q0AEXicSvTU?list=PLeE5Q8p_7u111x4Yg5t2ZKN7tTKEHCdG1" frameborder="0" allowfullscreen></iframe>
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/44688729" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/dragan10/20150131-in-mongodb" title="AWSのデータベースサービス全部紹介@中国データベース勉強会 in 松江 20150131" target="_blank">AWSのデータベースサービス全部紹介@中国データベース勉強会 in 松江 20150131</a> </strong> from <strong><a href="//www.slideshare.net/dragan10" target="_blank">玉川 竜司</a></strong> </div>
+
 ## 事前申し込み
 
 * [doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/18385)
