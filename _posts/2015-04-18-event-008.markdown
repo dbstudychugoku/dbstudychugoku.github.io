@@ -1,0 +1,50 @@
+---
+layout: event
+title:  "第八回 中国地方DB勉強会 in 福山"
+date:   2015-04-18 13:00:00 JST
+categories: events
+---
+
+# 第八回　中国地方DB勉強会 in 福山
+
+## 事前申し込み
+
+* [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/22049)
+
+## 開催日
+
+2015年4月18日 (土) 13:00 - 17:00
+
+## 講師
+
+* [株式会社　はてな](http://hatenacorp.jp/) 粕屋さん [@daiksy](https://twitter.com/daiksy)
+* [NTTデータ](http://www.nttdata.com/jp/ja/index.html) 笠原さん
+
+## タイムテーブル
+
+時刻 | タイトル | 講師
+---- | ---- | ---- | ----
+12：45〜13：00 | 受付
+13:00 〜 13:50 | MackerelでのPostgreSQLの話(仮) | 粕谷さん
+14:00 〜 14:50 | PostgreSQLの話(仮) | 笠原さん
+15:00 〜 16:50 | データベース設計や実務で困ったことなどの意見交換会 | 曽根
+16:50 〜 17:00 | クロージング |
+
+# セッション内容
+
+## MackerelでのPostgreSQLの話(仮)
+
+* [株式会社　はてな](http://hatenacorp.jp/) 粕屋さん [@daiksy](https://twitter.com/daiksy)
+
+調整中
+
+## PostgreSQLの話(仮)
+
+* [NTTデータ](http://www.nttdata.com/jp/ja/index.html) 笠原さん
+
+調整中
+
+# 懇親会
+
+福山駅周辺を検討中です。
+懇親会費は4000円程度と考えています。

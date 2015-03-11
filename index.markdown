@@ -12,17 +12,14 @@ layout: default
 
 <article class="post-content">
 
-## 第七回 中国地方DB勉強会 in 松江
+## 第八回 中国地方DB勉強会 in 福山
 
-2015年1月31日(土)
+2015年4月18日(土) 13:00 - 18:00
 
-* [第七回　中国地方DB勉強会](/events/event-007.html)
-* [doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/18385)
-
-やってまいりました、松江でございます。
+* [第八回　中国地方DB勉強会](/events/event-008.html)
+* [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/22049)
 
 </article>
-
 
 <footer>
 <article class="post-content">
