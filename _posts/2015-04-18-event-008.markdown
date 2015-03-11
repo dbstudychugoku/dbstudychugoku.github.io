@@ -25,16 +25,16 @@ categories: events
 時刻 | タイトル | 講師
 ---- | ---- | ---- | ----
 12：45〜13：00 | 受付
-13:00 〜 13:50 | MackerelでのPostgreSQLの話(仮) | 粕谷さん
+13:00 〜 13:50 | Mackerelの話(仮) | 粕谷さん
 14:00 〜 14:50 | PostgreSQLの話(仮) | 笠原さん
 15:00 〜 16:50 | データベース設計や実務で困ったことなどの意見交換会 | 曽根
 16:50 〜 17:00 | クロージング |
 
 # セッション内容
 
-## MackerelでのPostgreSQLの話(仮)
+## Mackerelの話(仮)
 
-* [株式会社　はてな](http://hatenacorp.jp/) 粕屋さん [@daiksy](https://twitter.com/daiksy)
+* [株式会社　はてな](http://hatenacorp.jp/) 粕谷さん [@daiksy](https://twitter.com/daiksy)
 
 調整中
 
