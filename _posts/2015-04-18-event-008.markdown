@@ -17,7 +17,7 @@ categories: events
 
 ## 講師
 
-* [株式会社　はてな](http://hatenacorp.jp/) 粕屋さん [@daiksy](https://twitter.com/daiksy)
+* [株式会社　はてな](http://hatenacorp.jp/) 粕谷さん [@daiksy](https://twitter.com/daiksy)
 * [NTTデータ](http://www.nttdata.com/jp/ja/index.html) 笠原さん
 
 ## タイムテーブル
@@ -32,11 +32,11 @@ categories: events
 
 # セッション内容
 
-## MackerelでのPostgreSQLの話(仮)
+## Mackerelの話(仮)
 
 各データストアがMackerelでどのように利用されているのかの概観をお話しようと思います！
 
-* [株式会社　はてな](http://hatenacorp.jp/) 粕屋さん [@daiksy](https://twitter.com/daiksy)
+* [株式会社　はてな](http://hatenacorp.jp/) 粕谷さん [@daiksy](https://twitter.com/daiksy)
 
 ## PostgreSQLの話(仮)
 
