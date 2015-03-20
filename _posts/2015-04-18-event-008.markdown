@@ -26,23 +26,25 @@ categories: events
 ---- | ---- | ---- | ----
 12：45〜13：00 | 受付
 13:00 〜 13:50 | Mackerelを支えるデータストア - PostgreSQL, Redis, Graphite | 粕谷さん
-14:00 〜 14:50 | PostgreSQLの話(仮) | 笠原さん
+14:00 〜 14:50 | PostgreSQLの運用・監視にまつわるエトセトラ | 笠原さん
 15:00 〜 16:50 | データベース設計や実務で困ったことなどの意見交換会 | 曽根
 16:50 〜 17:00 | クロージング |
 
 # セッション内容
 
-## Mackerelの話(仮)
+## Mackerelを支えるデータストア - PostgreSQL, Redis, Graphite
 
 各データストアがMackerelでどのように利用されているのかの概観をお話しようと思います！
 
 * [株式会社　はてな](http://hatenacorp.jp/) 粕谷さん [@daiksy](https://twitter.com/daiksy)
 
-## PostgreSQLの話(仮)
+## PostgreSQLの運用・監視にまつわるエトセトラ
+
+概要:PostgreSQLの運用または開発にあたり、特に有用な情報収集や監視方法などを、PostgreSQLのメカニズムや実例を交えて解説します。
+加えて、監視を簡単かつ効率よく行う際に役立つ外部ツール(Hinemos, pg_statsinfo)の紹介をします。
+これからPostgreSQLを使おうとしている方、運用でお悩みの方など、初級～中級者向けの講演内容を予定しています
 
 * [NTTデータ](http://www.nttdata.com/jp/ja/index.html) 笠原さん
-
-調整中
 
 # 懇親会
 
