@@ -34,7 +34,7 @@ categories: events
 
 ## Mackerelを支えるデータストア - PostgreSQL, Redis, Graphite
 
-各データストアがMackerelでどのように利用されているのかの概観をお話しようと思います！
+はてなが提供するサーバーマネジメントサービスMackerelでは、グラフ描画やメトリックの集計などそれぞれの用途に応じて複数のデータストアを組み合わせています。これらのデータストアがMackerelのどの部分でどのように使われてるのか。全体の構成やそれぞれの概観についてお話します。
 
 * [株式会社　はてな](http://hatenacorp.jp/) 粕谷さん [@daiksy](https://twitter.com/daiksy)
 
