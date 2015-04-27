@@ -16,8 +16,8 @@ layout: default
 
 2015年4月18日(土) 13:00 - 18:00
 
-* [第八回　中国地方DB勉強会](/events/event-008.html)
-* [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/22049)
+* [第9回　中国地方DB勉強会](/events/event-009.html)
+* [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/23735)
 
 </article>
 
