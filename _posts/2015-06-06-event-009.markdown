@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "第八回 中国地方DB勉強会 in 鳥取"
+title:  "第九回 中国地方DB勉強会 in 鳥取"
 date:   2015-04-18 13:00:00 JST
 categories: events
 ---

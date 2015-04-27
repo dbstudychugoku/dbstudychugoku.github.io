@@ -12,11 +12,11 @@ layout: default
 
 <article class="post-content">
 
-## 第八回 中国地方DB勉強会 in 福山
+## 第九回 中国地方DB勉強会 in 福山
 
-2015年4月18日(土) 13:00 - 18:00
+2015年6月6日(土) 13:00 - 18:00
 
-* [第9回　中国地方DB勉強会](/events/event-009.html)
+* [第九回　中国地方DB勉強会](/events/event-009.html)
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/23735)
 
 </article>
