@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "第九回 中国地方DB勉強会 in 鳥取"
-date:   2015-04-18 13:00:00 JST
+date:   2015-06-06 13:00:00 JST
 categories: events
 ---
 
@@ -17,7 +17,7 @@ categories: events
 
 ## 講師
 
-* パトさん
+* パトさん [@patorash](https://twitter.com/patorash/)
 * [日本オラクル MySQL GBU](http://www.mysql.gr.jp/) 梶山さん [@RKajiyama](https://twitter.com/rkajiyama)
 
 # セッション内容
