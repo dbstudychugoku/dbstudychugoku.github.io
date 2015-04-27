@@ -9,6 +9,16 @@ categories: events
 
 * [Togetter](http://togetter.com/li/810028)
 
+## 発表資料
+
+* PostgreSQLの運用・監視にまつわるエトセトラ
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FBnxb7iLVEPFli" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/hadoopxnttdata/postgresql-operations-monitoring-etc" title="PostgreSQLの運用・監視にまつわるエトセトラ" target="_blank">PostgreSQLの運用・監視にまつわるエトセトラ</a> </strong> from <strong><a href="//www.slideshare.net/hadoopxnttdata" target="_blank">NTT DATA OSS Professional Services</a></strong> </div>
+
+* [中国地方DB勉強会で登壇してきた - だいくしー(@daiksy)のはてなブログ](http://daiksy.hatenablog.jp/entry/2015/04/19/193735)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/K8RvajoQTuhQft" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/daiksy/db-47159821" title="中国地方Db勉強会" target="_blank">中国地方Db勉強会</a> </strong> from <strong><a href="//www.slideshare.net/daiksy" target="_blank">Daisuke Kasuya</a></strong> </div>
+
 ## 事前申し込み
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/22049)
