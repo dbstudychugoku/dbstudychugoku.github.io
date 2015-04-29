@@ -12,7 +12,7 @@ layout: default
 
 <article class="post-content">
 
-## 第九回 中国地方DB勉強会 in 福山
+## 第九回 中国地方DB勉強会 in 鳥取
 
 2015年6月6日(土) 13:00 - 18:00
 
