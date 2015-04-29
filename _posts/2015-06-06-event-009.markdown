@@ -5,7 +5,7 @@ date:   2015-06-06 13:00:00 JST
 categories: events
 ---
 
-# 第八回　中国地方DB勉強会 in 福山
+# 第九回 中国地方DB勉強会 in 鳥取
 
 ## 事前申し込み
 
