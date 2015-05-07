@@ -17,19 +17,20 @@ categories: events
 
 ## 講師
 
-* パトさん [@patorash](https://twitter.com/patorash/)
+* 株式会社リゾーム システム開発部 尾古さん [@patorash](https://twitter.com/patorash/)
 * [日本オラクル MySQL GBU](http://www.mysql.gr.jp/) 梶山さん [@RKajiyama](https://twitter.com/rkajiyama)
 
 # セッション内容
 
-## PostgreSQLのPostGISとHerokuとActive Recordな話
+## 便利なHerokuとActiveRecordの速度改善Tips
 
-調整中
+弊社のサービスはHeroku上にてRails+Postgresqlで運用しています。
+今回は弊社のサービスで使う予定のPostGISのことと、ActiveRecordの速度を改善するためにTipsについて紹介します。
 
-パトさん
+株式会社リゾーム システム開発部 尾古豊明 [@patorash](https://twitter.com/patorash/)
 
 ## MySQL 5.7 RC登場！次のMySQLはここが違うっ！
 
 MySQLサーバの次世代版に向けて2015年4月にMySQL 5.7のリリース候補 (RC)版が公開されました。同時に実験室(Labs)版としてインデックス対応のJSON データ型を実装したMySQL JSONも公開され、新しいMySQLの全体象が見えてきて います。今回はMySQL 5.7 RCを中心に最新の実装をご紹介いたします。
 
-[日本オラクル MySQL GBU](http://www.mysql.gr.jp/) 梶山さん [@RKajiyama](https://twitter.com/rkajiyama)
+[日本オラクル MySQL GBU](http://www.mysql.gr.jp/) 梶山 [@RKajiyama](https://twitter.com/rkajiyama)
