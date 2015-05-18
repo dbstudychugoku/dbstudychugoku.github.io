@@ -11,6 +11,10 @@ categories: events
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/23735)
 
+## 開催場所
+
+鳥取県米子市末広町294 [米子コンベンションセンター 第3会議室](http://www.bigship.or.jp/)
+
 ## 開催日
 
 2015年6月6日 (土) 13:00 - 18:00
