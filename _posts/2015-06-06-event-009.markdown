@@ -1,11 +1,11 @@
 ---
 layout: event
-title:  "第九回 中国地方DB勉強会 in 鳥取"
+title:  "第九回 中国地方DB勉強会 in 米子"
 date:   2015-06-06 13:00:00 JST
 categories: events
 ---
 
-# 第九回 中国地方DB勉強会 in 鳥取
+# 第九回 中国地方DB勉強会 in 米子
 
 ## 事前申し込み
 
