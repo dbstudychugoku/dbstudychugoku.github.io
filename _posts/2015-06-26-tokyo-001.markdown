@@ -1,0 +1,39 @@
+---
+layout: event
+title:  "MyNA・JPUG合同DB勉強会 in 東京"
+date:   2015-06-26 13:30:00 JST
+categories: events
+---
+
+# MyNA・JPUG合同DB勉強会 in 東京
+
+## 事前申し込み
+
+* [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/25804)
+
+## 開催場所
+
+東京都渋谷区恵比寿4-20-3 恵比寿ガーデンプレイスタワー21F [株式会社DMM.com ラボ 本社・東京事業所](http://labo.dmm.com/about/access/)
+
+## 開催日
+
+2015年6月26日 (金) 13:30 - 18:30
+
+## 講師
+
+調整中です。
+
+# タイムテーブル
+
+開始時間 | 終了時間| タイトル| 講師
+---|------------- | ------------- | -------------
+13:15|13:30|開場・受付||
+13:30|13:40|オープニング(会場ご案内等)||
+13:40|14:20|基調講演|調整中|
+14:30|15:00|FDWの話|JPUG 調整中|
+15:05|15:45|JSONBの話|NTTデータ 調整中|
+15:50|16:20|RedShift、DynamoDB、RDSの話|AWS 調整中|
+16:30|17:20|MySQL JSON, HTTP Plugin for MySQL, memcached APIなど|調整中|
+17:30|18:20|トランザクション対応NoSQLとしてのMySQL Cluster|調整中|
+18:20|18:30|クロージング||
+18:40|20:30|ビアバッシュ|懇親会希望者|

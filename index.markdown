@@ -19,6 +19,13 @@ layout: default
 * [第九回　中国地方DB勉強会](/events/event-009.html)
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/23735)
 
+## MyNA・JPUG合同DB勉強会 in 東京
+
+2015年6月26日（金） 13:30 - 18:30
+
+* [MyNA・JPUG合同DB勉強会 in 東京](/events/event-tokyo-001.html)
+* [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/25804)
+
 </article>
 
 <footer>
