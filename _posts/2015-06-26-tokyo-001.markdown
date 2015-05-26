@@ -33,7 +33,8 @@ categories: events
 14:30|15:00|FDWの話|JPUG 調整中|
 15:05|15:45|JSONBの話|NTTデータ 調整中|
 15:50|16:20|RedShift、DynamoDB、RDSの話|AWS 調整中|
-16:30|17:20|MySQL JSON, HTTP Plugin for MySQL, memcached APIなど|調整中|
-17:30|18:20|トランザクション対応NoSQLとしてのMySQL Cluster|調整中|
+16:30|16:55|MySQL JSON, HTTP Plugin for MySQLなど |調整中|
+17:55|17:20|トランザクション対応NoSQLとしてのMySQL Cluster|調整中|
+17:20|18:20| Handlerさんコンニチワ 〜主にInnoDB memcached PluginとNDB memcached Engineの違いについて〜|[@yoku0825](https://twitter.com/yoku0825)さん|
 18:20|18:30|クロージング||
 18:40|20:30|ビアバッシュ|懇親会希望者|
