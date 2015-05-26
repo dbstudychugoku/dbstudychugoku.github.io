@@ -23,7 +23,7 @@ layout: default
 
 2015年6月26日（金） 13:30 - 18:30
 
-* [MyNA・JPUG合同DB勉強会 in 東京](/events/event-tokyo-001.html)
+* [MyNA・JPUG合同DB勉強会 in 東京](/events/tokyo-001.html)
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/25804)
 
 </article>
