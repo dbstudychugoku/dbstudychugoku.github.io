@@ -23,6 +23,7 @@ categories: events
 
 * 株式会社リゾーム システム開発部 尾古さん [@patorash](https://twitter.com/patorash/)
 * [日本オラクル MySQL GBU](http://www.mysql.gr.jp/) 梶山さん [@RKajiyama](https://twitter.com/rkajiyama)
+* [日本PostgreSQLユーザ会](https://www.postgresql.jp/) 曽根 壮大 [@soudai1025](https://twitter.com/soudai1025)
 
 # セッション内容
 
@@ -56,4 +57,4 @@ RDBの使い方を学ぶと実装が楽に、そして変更に強くなりま�
 今から Web アプリケーションを作ってみたいと思ってる人
 
 
-日本PostgreSQLユーザ会 曽根 壮大 [@soudai1025](https://twitter.com/soudai1025)
+[日本PostgreSQLユーザ会](https://www.postgresql.jp/) 曽根 壮大 [@soudai1025](https://twitter.com/soudai1025)
