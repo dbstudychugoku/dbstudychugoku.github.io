@@ -25,16 +25,16 @@ categories: events
 
 # タイムテーブル
 
-開始時間 | 終了時間| タイトル| 講師
----|------------- | ------------- | -------------
-13:15|13:30|開場・受付||
-13:30|13:40|オープニング(会場ご案内等)||
-13:40|14:20|基調講演|調整中|
-14:30|15:00|FDWの話|JPUG 調整中|
-15:05|15:45|JSONBの話|NTTデータ 調整中|
-15:50|16:20|RedShift、DynamoDB、RDSの話|AWS 調整中|
-16:30|16:55|MySQL JSON, HTTP Plugin for MySQLなど |調整中|
-17:55|17:20|トランザクション対応NoSQLとしてのMySQL Cluster|調整中|
-17:20|18:20| Handlerさんコンニチワ 〜主にInnoDB memcached PluginとNDB memcached Engineの違いについて〜|[@yoku0825](https://twitter.com/yoku0825)さん|
-18:20|18:30|クロージング||
-18:40|20:30|ビアバッシュ|懇親会希望者|
+時間 | タイトル| 講師
+------------ | ------------- | -------------
+13:15 - 13:30|開場・受付||
+13:30 - 13:40|オープニング(会場ご案内等)||
+13:40 - 14:20|基調講演(仮)|MyNA 奥野|
+14:30 - 15:00|PostgreSQLから見るNoSQL（FDWの話）|JPUG 曽根|
+15:05 - 15:45|PostgreSQLか9.5とJSONBの話(仮)|NTTデータ 澤田、藤井|
+15:50 - 16:20|DynamoDBの話(仮)|AWS 森|
+16:30 - 16:55|MySQL JSON, HTTP Plugin for MySQLなど |調整中|
+16:55 - 17:20|トランザクション対応NoSQLとしてのMySQL Cluster|調整中|
+17:20 - 18:20| Handlerさんコンニチワ 〜主にInnoDB memcached PluginとNDB memcached Engineの違いについて〜|[@yoku0825](https://twitter.com/yoku0825)さん|
+18:20 - 18:30|クロージング||
+18:40 - 20:30|ビアバッシュ|懇親会希望者|
