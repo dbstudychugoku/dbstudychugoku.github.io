@@ -9,6 +9,24 @@ categories: events
 
 * [当日のツイート](http://togetter.com/li/831265)
 
+## 当日のライブ配信
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pMLFqia7ThY" frameborder="0" allowfullscreen></iframe>
+
+## 発表資料
+
+* 便利なHerokuと active recordの 速度改善tips
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BhwZDlKTT9zAYW" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/chariderpato/heroku-active-record-tips" title="便利なHerokuと active recordの 速度改善tips" target="_blank">便利なHerokuと active recordの 速度改善tips</a> </strong> from <strong><a href="//www.slideshare.net/chariderpato" target="_blank">豊明 尾古</a></strong> </div>
+
+* 第九回中国地方DB勉強会 in 米子 MySQL 5.7+
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/g0Ls9fXtw0QVgB" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/rkajiyama/20150606-chugoku-dbstateofdolphinjppptx" title="第九回中国地方DB勉強会 in 米子 MySQL 5.7+" target="_blank">第九回中国地方DB勉強会 in 米子 MySQL 5.7+</a> </strong> from <strong><a href="//www.slideshare.net/rkajiyama" target="_blank">Ryusuke Kajiyama</a></strong> </div>
+
+* Webで役立つRDBの使い方
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/6qGkTnUDoUz0nB" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SoudaiSone/webrdb" title="Webで役立つRDBの使い方" target="_blank">Webで役立つRDBの使い方</a> </strong> from <strong><a href="//www.slideshare.net/SoudaiSone" target="_blank">Soudai Sone</a></strong> </div>
+
 ## 事前申し込み
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/23735)
