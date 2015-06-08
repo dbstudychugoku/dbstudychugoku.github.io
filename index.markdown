@@ -12,19 +12,19 @@ layout: default
 
 <article class="post-content">
 
-## 第九回 中国地方DB勉強会 in 米子
-
-2015年6月6日(土) 13:00 - 18:00
-
-* [第九回　中国地方DB勉強会](/events/event-009.html)
-* [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/23735)
-
 ## MyNA・JPUG合同DB勉強会 in 東京
 
 2015年6月26日（金） 13:30 - 18:30
 
 * [MyNA・JPUG合同DB勉強会 in 東京](/events/tokyo-001.html)
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/25804)
+
+## 第10回 中国地方DB勉強会 in 岡山 ～日本AWSユーザ会・PostgreSQLユーザ会(JAWS-UG・JPUG) 合同勉強会～
+
+2015年7月18日 (土) 10:00 - 18:30
+
+* [第10回 中国地方DB勉強会 in 岡山 ～日本AWSユーザ会・PostgreSQLユーザ会(JAWS-UG・JPUG) 合同勉強会～](/events/event-010.html)
+* [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/26563)
 
 </article>
 
