@@ -5,9 +5,10 @@ date:   2015-06-26 13:30:00 JST
 categories: events
 ---
 
-![DMM.com ラボ](/images/DMM.com-Labo.png)
+[![DMM.com ラボ](/images/DMM.com-Labo.png)](http://labo.dmm.com/)
 
-![まほろば工房](/images/mahoroba_234.png)
+[![まほろば工房](/images/mahoroba_234.png)](http://www.ate-mahoroba.jp/)
+
 
 # MyNA・JPUG合同DB勉強会 in 東京
 
