@@ -5,6 +5,9 @@ date:   2015-06-26 13:30:00 JST
 categories: events
 ---
 
+![DMM.com ラボ](/images/DMM.com-Labo.png)
+![まほろば工房](/images/mahoroba_234.png)
+
 # MyNA・JPUG合同DB勉強会 in 東京
 
 ## 事前申し込み
@@ -33,8 +36,8 @@ categories: events
 14:30 - 15:00|PostgreSQLから見るNoSQL（FDWの話）|JPUG 曽根|
 15:05 - 15:45|JSONBはPostgreSQL9.5でいかに改善されたのか？今後の展望は？|NTTデータ 澤田、藤井|
 15:50 - 16:20|DynamoDBの話(仮)|ADSJ 森|
-16:30 - 16:55|MySQL JSON, HTTP Plugin for MySQLなど |調整中|
-16:55 - 17:20|トランザクション対応NoSQLとしてのMySQL Cluster|調整中|
+16:30 - 16:55|MySQL JSON, HTTP Plugin for MySQLなど |MySQL 梶山|
+16:55 - 17:20|トランザクション対応NoSQLとしてのMySQL Cluster|MySQL 杉山|
 17:20 - 18:20| Handlerさんコンニチワ 〜主にInnoDB memcached PluginとNDB memcached Engineの違いについて〜|[@yoku0825](https://twitter.com/yoku0825)さん|
 18:20 - 18:30|クロージング||
 18:40 - 20:30|ビアバッシュ|懇親会希望者|
