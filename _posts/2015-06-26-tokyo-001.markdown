@@ -6,6 +6,7 @@ categories: events
 ---
 
 ![DMM.com ラボ](/images/DMM.com-Labo.png)
+
 ![まほろば工房](/images/mahoroba_234.png)
 
 # MyNA・JPUG合同DB勉強会 in 東京
