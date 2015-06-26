@@ -12,6 +12,12 @@ categories: events
 
 # MyNA・JPUG合同DB勉強会 in 東京
 
+* [Togetter](http://togetter.com/li/839621)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/mmzc5LKCTJH6lQ" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SoudaiSone/postgre-sqlnosql" title="Postgre sqlから見るnosql" target="_blank">Postgre sqlから見るnosql</a> </strong> from <strong><a href="//www.slideshare.net/SoudaiSone" target="_blank">Soudai Sone</a></strong> </div>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/mWa9dE1lP6RWI0" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ShinyaSugiyama/no-sql-with-mysql-cluster" title="No sql with mysql cluster (MyNA・JPUG合同DB勉強会)" target="_blank">No sql with mysql cluster (MyNA・JPUG合同DB勉強会)</a> </strong> from <strong><a href="//www.slideshare.net/ShinyaSugiyama" target="_blank">Shinya Sugiyama</a></strong> </div>
+
 ## 事前申し込み
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/25804)
