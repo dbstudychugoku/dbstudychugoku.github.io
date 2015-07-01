@@ -1,5 +1,4 @@
 name: '中国地方DB勉強会'
-markdown: redcarpet
 timezone: Asia/Tokyo
 exclude: ['Gemfile','Gemfile.lock','Rakefile','vendor']
 permalink: none

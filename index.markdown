@@ -3,28 +3,21 @@ title: '中国地方DB勉強会'
 layout: default
 ---
 
-<header class="post-header">
-<h1>{{ page.title }}</h1>
+<header class="post-header" markdown="1">
+# {{ page.title }}
 隔月程度でDBに関する勉強会を中国地方で開催しています。
 
 主催：[PostgreSQLユーザ会中国支部](http://www.postgresql.jp/branch)
 </header>
 
-<article class="post-content">
-
-## 第10回 中国地方DB勉強会 in 岡山 ～日本AWSユーザ会・PostgreSQLユーザ会(JAWS-UG・JPUG) 合同勉強会～
-
-2015年7月18日 (土) 10:00 - 18:30
-
-* [第10回 中国地方DB勉強会 in 岡山 ～日本AWSユーザ会・PostgreSQLユーザ会(JAWS-UG・JPUG) 合同勉強会～](/events/event-010.html)
-* [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/26563)
-
+<article class="post-content" markdown="1">
+{% include next.md %}
 </article>
 
 <footer>
 <article class="post-content">
 
-## これまでのイベント
+<h2>これまでのイベント</h2>
 
 <ul class="posts">
 {% for post in site.posts reversed limit:10 %}
@@ -32,9 +25,9 @@ layout: default
 {% endfor %}
 </ul>
 
-## ML
+<h2>ML</h2>
 
-[中国地方DB勉強会ML Google Group](https://groups.google.com/forum/#!forum/dbstudychugoku)
+<a href="https://groups.google.com/forum/#!forum/dbstudychugoku">中国地方DB勉強会ML Google Group</a>
 
 </article>
 </footer>

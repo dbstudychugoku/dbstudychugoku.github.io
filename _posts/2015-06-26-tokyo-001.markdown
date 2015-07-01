@@ -24,6 +24,10 @@ categories: events
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/bG4IkBh5Z7bujS" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nippondanji/7-nosql" title="データモデルについて知っておくべき7つのこと 〜NoSQLに手を出す前に〜" target="_blank">データモデルについて知っておくべき7つのこと 〜NoSQLに手を出す前に〜</a> </strong> from <strong><a href="//www.slideshare.net/nippondanji" target="_blank">Mikiya Okuno</a></strong> </div>
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/qSfuMANFg5fxDf" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/rkajiyama/20150626-no-sqljppptx" title="MySQLのNoSQL機能 - MySQL JSON &amp; HTTP Plugin for MySQL" target="_blank">MySQLのNoSQL機能 - MySQL JSON &amp; HTTP Plugin for MySQL</a> </strong> from <strong><a href="//www.slideshare.net/rkajiyama" target="_blank">Ryusuke Kajiyama</a></strong> </div>
+
+* PDF: [MySQLのNoSQL機能 - MySQL JSON & HTTP Plugin for MySQL](pdf/tyokyo01-dynamodb-MyNA.pdf)
+
 ## 関連記事など
 
 * [#ChugokuDB MyNA/JPUG 合同DB勉強会 in 東京 に行ってきた #メモ #レポート #MySQL #PostgreSQL - #garagekidztweetz](http://garagekidztweetz.hatenablog.com/entry/chugokudb-at-tokyo-nosql-mysql-postgresql)
