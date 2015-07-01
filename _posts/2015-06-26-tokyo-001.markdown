@@ -18,6 +18,8 @@ categories: events
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/mWa9dE1lP6RWI0" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ShinyaSugiyama/no-sql-with-mysql-cluster" title="No sql with mysql cluster (MyNA・JPUG合同DB勉強会)" target="_blank">No sql with mysql cluster (MyNA・JPUG合同DB勉強会)</a> </strong> from <strong><a href="//www.slideshare.net/ShinyaSugiyama" target="_blank">Shinya Sugiyama</a></strong> </div>
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/vpz7knGv7QSQlk" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yoku0825/handler-49926023" title="Handlerさんコンニチワ" target="_blank">Handlerさんコンニチワ</a> </strong> from <strong><a href="//www.slideshare.net/yoku0825" target="_blank">yoku0825</a></strong> </div>
+
 * 関連記事[日々の覚書: MySQLのHandlerレイヤーが何をしているのか探る旅 at #ChugokuDB](http://yoku0825.blogspot.jp/2015/06/mysqlhandler-at-chugokudb.html)
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/9euG6i9sw1j1QP" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/hadoopxnttdata/jsonb-postgresql-95-nttdata" title="JSONBはPostgreSQL9.5でいかに改善されたのか" target="_blank">JSONBはPostgreSQL9.5でいかに改善されたのか</a> </strong> from <strong><a href="//www.slideshare.net/hadoopxnttdata" target="_blank">NTT DATA OSS Professional Services</a></strong> </div>
@@ -26,7 +28,7 @@ categories: events
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/qSfuMANFg5fxDf" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/rkajiyama/20150626-no-sqljppptx" title="MySQLのNoSQL機能 - MySQL JSON &amp; HTTP Plugin for MySQL" target="_blank">MySQLのNoSQL機能 - MySQL JSON &amp; HTTP Plugin for MySQL</a> </strong> from <strong><a href="//www.slideshare.net/rkajiyama" target="_blank">Ryusuke Kajiyama</a></strong> </div>
 
-* PDF: [MySQLのNoSQL機能 - MySQL JSON & HTTP Plugin for MySQL](pdf/tyokyo01-dynamodb-MyNA.pdf)
+* PDF: [Amazon DynamoDB Amazon Data Services Japan 森 祐孝](pdf/tyokyo01-dynamodb-MyNA.pdf)
 
 ## 関連記事など
 
