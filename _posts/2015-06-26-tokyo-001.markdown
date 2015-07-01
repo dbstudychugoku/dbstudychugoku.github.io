@@ -18,6 +18,16 @@ categories: events
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/mWa9dE1lP6RWI0" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ShinyaSugiyama/no-sql-with-mysql-cluster" title="No sql with mysql cluster (MyNA・JPUG合同DB勉強会)" target="_blank">No sql with mysql cluster (MyNA・JPUG合同DB勉強会)</a> </strong> from <strong><a href="//www.slideshare.net/ShinyaSugiyama" target="_blank">Shinya Sugiyama</a></strong> </div>
 
+* 関連記事[日々の覚書: MySQLのHandlerレイヤーが何をしているのか探る旅 at #ChugokuDB](http://yoku0825.blogspot.jp/2015/06/mysqlhandler-at-chugokudb.html)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/9euG6i9sw1j1QP" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/hadoopxnttdata/jsonb-postgresql-95-nttdata" title="JSONBはPostgreSQL9.5でいかに改善されたのか" target="_blank">JSONBはPostgreSQL9.5でいかに改善されたのか</a> </strong> from <strong><a href="//www.slideshare.net/hadoopxnttdata" target="_blank">NTT DATA OSS Professional Services</a></strong> </div>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bG4IkBh5Z7bujS" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nippondanji/7-nosql" title="データモデルについて知っておくべき7つのこと 〜NoSQLに手を出す前に〜" target="_blank">データモデルについて知っておくべき7つのこと 〜NoSQLに手を出す前に〜</a> </strong> from <strong><a href="//www.slideshare.net/nippondanji" target="_blank">Mikiya Okuno</a></strong> </div>
+
+## 関連記事など
+
+* [#ChugokuDB MyNA/JPUG 合同DB勉強会 in 東京 に行ってきた #メモ #レポート #MySQL #PostgreSQL - #garagekidztweetz](http://garagekidztweetz.hatenablog.com/entry/chugokudb-at-tokyo-nosql-mysql-postgresql)
+
 ## 事前申し込み
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/25804)
