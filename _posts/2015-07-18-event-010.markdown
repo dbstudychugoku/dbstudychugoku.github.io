@@ -21,5 +21,33 @@ categories: events
 
 ## 講師
 
-* 株式会社アトラクタ [原田騎朗](https://twitter.com/haradakiro)
-* その他AWS関連(調整中)
+* 株式会社アトラクタ 原田さん [haradakiro](https://twitter.com/haradakiro)
+* 山本さん [@kazuhisa1976](https://twitter.com/kazuhisa1976)
+* 藤原さん [@twingo_b](https://twitter.com/twingo_b)
+* Inoueさん / [@fire_fire_2](https://twitter.com/fire_fire_2)
+
+# セッション内容
+
+## Railsアプリケーションのマルチテナント対応をインフラで頑張った話
+
+調整中元々シングルテナント向けに開発されていたRailsアプリケーションをマルチテナントに対応させるためには様々な苦労が必要です。当初はマルチテナントに対応させるためにプログラムの改修を行っていましたが、awsを使って自動的にユーザーごとのインスタンスを作ることでこの問題を解消することができました。今回はこの仕組みについてご説明いたします。
+
+* 山本さん [@kazuhisa1976](https://twitter.com/kazuhisa1976)
+
+## AWS枠2
+
+調整中
+
+* 藤原さん [@twingo_b](https://twitter.com/twingo_b)
+
+## 普通の大学生が初めてAWSを触ってみた話
+
+AWSの数あるサービスのうちいくつかかいつまんで使い方の説明をしたいとおもいます。それと同時に触ってみた感想とか気づいた点とかお話ししようと思っています。最後に図などで構築例を示した後、実際にAWSを使って見せながらサーバなどの構築をしていきたいと思っています。おもにEC2関連の話になりそうです。だいぶ初心者向けむしろまだ触ったことない人向けのトークになる予定です。あくまで予定・・。
+
+## DDD
+
+* DDDの話(仮)
+* DDDのハンズオン1
+* DDDのハンズオン2
+
+株式会社アトラクタ 原田さん [haradakiro](https://twitter.com/haradakiro)
