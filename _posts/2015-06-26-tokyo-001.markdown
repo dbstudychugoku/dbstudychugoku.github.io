@@ -28,7 +28,8 @@ categories: events
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/qSfuMANFg5fxDf" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/rkajiyama/20150626-no-sqljppptx" title="MySQLのNoSQL機能 - MySQL JSON &amp; HTTP Plugin for MySQL" target="_blank">MySQLのNoSQL機能 - MySQL JSON &amp; HTTP Plugin for MySQL</a> </strong> from <strong><a href="//www.slideshare.net/rkajiyama" target="_blank">Ryusuke Kajiyama</a></strong> </div>
 
-* PDF: [Amazon DynamoDB Amazon Data Services Japan 森 祐孝](pdf/tyokyo01-dynamodb-MyNA.pdf)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ntck87vLZI1zyR" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/YukoMori/dynamodb-my-najpug" title="DynamoDB MyNA・JPUG合同DB勉強会 in 東京" target="_blank">DynamoDB MyNA・JPUG合同DB勉強会 in 東京</a> </strong> from <strong><a href="//www.slideshare.net/YukoMori" target="_blank">Yuko Mori</a></strong> </div>
+
 
 ## 関連記事など
 
