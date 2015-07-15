@@ -21,10 +21,10 @@ categories: events
 
 ## 講師
 
-* 株式会社アトラクタ 原田さん [haradakiro](https://twitter.com/haradakiro)
+* 阿部さん [@mao_instantlife](https://twitter.com/mao_instantlife)
 * 山本さん [@kazuhisa1976](https://twitter.com/kazuhisa1976)
 * 藤原さん [@twingo_b](https://twitter.com/twingo_b)
-* Inoueさん / [@fire_fire_2](https://twitter.com/fire_fire_2)
+* Inoueさん [@fire_fire_2](https://twitter.com/fire_fire_2)
 
 # セッション内容
 
@@ -34,20 +34,25 @@ categories: events
 
 * 山本さん [@kazuhisa1976](https://twitter.com/kazuhisa1976)
 
-## AWS枠2
+## ChatWorkの継続的デリバリー、これまでとこれから
 
-調整中
+クラウド型ビジネスチャットツール「チャットワーク」は、サービス開始から4年で7万社に利用されるまでに成長しました。これまで日々サービスの改善を行っていく中での悩み、解決策についてご紹介したいと思います。また、現在構築中のScala用インフラについてもお話します。
+あと、せっかくJPUGとの合同なので、普段使っているDBの紹介や具体的な利用例を説明するよ！
 
-* 藤原さん [@twingo_b](https://twitter.com/twingo_b)
+* RDS(MySQL)
+* DynamoDB
+* ElastiCache(memcached,Redis)
+* Redshift
+* BigQuery
+* ChatWork株式会社 CTO室  藤原さん [@twingo_b](https://twitter.com/twingo_b)
 
 ## 普通の大学生が初めてAWSを触ってみた話
 
 AWSの数あるサービスのうちいくつかかいつまんで使い方の説明をしたいとおもいます。それと同時に触ってみた感想とか気づいた点とかお話ししようと思っています。最後に図などで構築例を示した後、実際にAWSを使って見せながらサーバなどの構築をしていきたいと思っています。おもにEC2関連の話になりそうです。だいぶ初心者向けむしろまだ触ったことない人向けのトークになる予定です。あくまで予定・・。
 
-## DDD
+## DDD overview
 
-* DDDの話(仮)
-* DDDのハンズオン1
-* DDDのハンズオン2
+原著発売から10年以上、日本語訳が出てから4年が経ったDDDですが、ようやく日本でも話題に登るようになってきました。
+DDDの難点の一つである厚さで敬遠してる人のために、知ったかぶりできるザクっとした概要をお話しします。
 
-株式会社アトラクタ 原田さん [haradakiro](https://twitter.com/haradakiro)
+* 阿部 信介さん　 [@mao_instantlife](https://twitter.com/mao_instantlife)
