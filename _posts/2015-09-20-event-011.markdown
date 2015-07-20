@@ -1,5 +1,5 @@
 ---
-leyout: event
+layout: event
 title: "第11回 中国地方DB勉強会 in 広島"
 date: 2015-09-20 10:00:00 JST
 categories: events
