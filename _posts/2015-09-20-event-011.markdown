@@ -12,7 +12,7 @@ categories: events
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/28573)
 
 # 開催場所　
-広島県広島市中区大手町１－５－３ サテライトキャンパスひろしま　501号室 　
+広島県広島市中区大手町１－５－３ サテライトキャンパスひろしま　504号室 　
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3292.2646430484583!2d132.4553757!3d34.394618799999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355aa20c56f14509%3A0xe63b11ee9a68355b!2z5pel5pysLCDjgJI3MzAtMDA1MSDluoPls7bnnIzluoPls7bluILkuK3ljLrlpKfmiYvnlLrvvJHkuIHnm67vvJXiiJLvvJM!5e0!3m2!1sja!2sus!4v1437358382513" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
