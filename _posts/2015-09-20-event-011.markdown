@@ -14,7 +14,7 @@ categories: events
 # 開催場所　
 広島県広島市中区大手町１－５－３ サテライトキャンパスひろしま　501号室 　
 
-https://www.google.com/maps/place/%E6%97%A5%E6%9C%AC,+%E3%80%92730-0051+%E5%BA%83%E5%B3%B6%E7%9C%8C%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA%E5%A4%A7%E6%89%8B%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%95%E2%88%92%EF%BC%93/@34.3946188,132.4553757,17z/data=!3m1!4b1!4m2!3m1!1s0x355aa20c56f14509:0xe63b11ee9a68355b?hl=ja
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3292.2646430484583!2d132.4553757!3d34.394618799999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355aa20c56f14509%3A0xe63b11ee9a68355b!2z5pel5pysLCDjgJI3MzAtMDA1MSDluoPls7bnnIzluoPls7bluILkuK3ljLrlpKfmiYvnlLrvvJHkuIHnm67vvJXiiJLvvJM!5e0!3m2!1sja!2sus!4v1437358382513" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## タイムテーブル
 
