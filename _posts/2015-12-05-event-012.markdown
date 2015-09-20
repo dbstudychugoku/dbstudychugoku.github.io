@@ -1,0 +1,44 @@
+---
+layout: event
+title: "第12回 中国地方DB勉強会 in 出雲"
+date: 2015-12-05 10:00:00 JST
+categories: events
+---
+
+# 第12回　中国地方DB勉強会 in 広島
+
+## 事前申し込み
+
+* [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/31803)
+
+# 開催場所　
+島根県出雲市大社町杵築南１３４４ 出雲商工会館
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1626.2406118797635!2d132.6871381!3d35.3933207!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35575c98bba31a37%3A0xbb29ced9476ed9a6!2z44CSNjk5LTA3MTEg5bO25qC555yM5Ye66Zuy5biC5aSn56S-55S65p2156-J5Y2X77yR77yT77yU77yUIOWHuumbsuWVhuW3peS8mumkqA!5e0!3m2!1sja!2sjp!4v1442715575325" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+
+## タイムテーブル
+調整中
+
+# 講師
+調整中
+
+
+## セッション内容
+
+
+### 対象レベル
+
+初心者、中級者大歓迎！実務でRDBを使ってるけどSQLをよく知らない方大歓迎！
+
+### 対象者
+
+実務で Web アプリケーションを作る、設計をする立場の人
+実務で DB で苦しんだことがある人
+今から Web アプリケーションを作ってみたいと思ってる人
+
+
+# 懇親会
+
+計画中
