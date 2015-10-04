@@ -29,6 +29,10 @@ categories: events
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/uKzg4VEKQgmxk4" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tsudaa/my-sqlrdb" title="MySQL のユーザー定義変数と RDB のココロ" target="_blank">MySQL のユーザー定義変数と RDB のココロ</a> </strong> from <strong><a href="//www.slideshare.net/tsudaa" target="_blank">tsudaa</a></strong> </div>
 
+### プログラマとして初めてDBに触れて感じたこと
+
+<script async class="speakerdeck-embed" data-id="5d6ff45a5bf64397b7361fd0b2217836" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 ### 地方エンジニアがPostgre sqlを通じて成長した話
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/8lRxLwlI7o57gY" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SoudaiSone/postgre-sql-52727786" title="地方エンジニアがPostgreSQLを通じて成長した話" target="_blank">地方エンジニアがPostgreSQLを通じて成長した話</a> </strong> from <strong><a href="//www.slideshare.net/SoudaiSone" target="_blank">Soudai Sone</a></strong> </div>
