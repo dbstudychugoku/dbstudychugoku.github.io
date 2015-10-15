@@ -15,17 +15,27 @@ categories: events
 2015年12月5日(土) 10:00 ~ 17:00 (予定)
 
 ## 開催場所　
-島根県出雲市大社町杵築南１３４４ 出雲商工会館
+島根県出雲市大社町杵築南１３４４-1 [出雲商工会館](http://www.izmcci.or.jp/) 1Fホール
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1626.2406118797635!2d132.6871381!3d35.3933207!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35575c98bba31a37%3A0xbb29ced9476ed9a6!2z44CSNjk5LTA3MTEg5bO25qC555yM5Ye66Zuy5biC5aSn56S-55S65p2156-J5Y2X77yR77yT77yU77yUIOWHuumbsuWVhuW3peS8mumkqA!5e0!3m2!1sja!2sjp!4v1442715575325" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 
 ## タイムテーブル
-調整中
+
+時刻 | タイトル | 講師
+---- | ---- | ---- | ----
+12:45 〜 13:00 | 受付
+13:00 〜 13:50 | (仮)MySQL 5.7最新事情| 山崎さん
+14:00 〜 14:50 | (仮)DbmFsの紹介| 岩瀬さん
+15:10 〜 16:00 |  調整中|
+16:10 〜 17:00 | (仮)PostgreSQL 9.5最新事情 | 篠田さん
 
 ## 講師
-調整中
+* [MySQLユーザ会](http://www.mysql.gr.jp/) 山崎さん
+* [フェンリル株式会社](http://www.fenrir-inc.com/) 岩瀬さん
+* [日本ヒューレット・パッカード](http://h30499.www3.hp.com/t5/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98%E5%90%91%E3%81%91-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA-%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%82%B9/%E7%AF%A0%E7%94%B0%E3%81%AE%E8%99%8E%E3%81%AE%E5%B7%BB%E3%81%9D%E3%81%AE%EF%BC%94%E3%82%92%E5%85%AC%E9%96%8B-%E5%A4%A7%E5%B9%85%E3%81%AB%E6%A9%9F%E8%83%BD%E5%BC%B7%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9FPostgreSQL-9-5%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%B8%E9%A3%9B%E3%81%B3%E8%BE%BC%E3%82%82%E3%81%86/ba-p/6797055) 篠田さん
+
 
 # セッション内容
 調整中
