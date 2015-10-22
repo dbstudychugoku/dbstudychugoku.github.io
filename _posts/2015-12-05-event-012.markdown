@@ -17,15 +17,14 @@ categories: events
 ## 開催場所　
 島根県出雲市大社町杵築南１３４４-1 [出雲商工会館](http://www.izmcci.or.jp/) 1Fホール
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1626.2406118797635!2d132.6871381!3d35.3933207!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35575c98bba31a37%3A0xbb29ced9476ed9a6!2z44CSNjk5LTA3MTEg5bO25qC555yM5Ye66Zuy5biC5aSn56S-55S65p2156-J5Y2X77yR77yT77yU77yUIOWHuumbsuWVhuW3peS8mumkqA!5e0!3m2!1sja!2sjp!4v1442715575325" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4746.909832999319!2d132.76231030326886!3d35.36827166675232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3557439493ad43bf%3A0x789fdb806afaf628!2z44CSNjkzLTAwMTEg5bO25qC555yM5Ye66Zuy5biC5aSn5rSl55S677yR77yR77yT77yR4oiS77yR!5e0!3m2!1sja!2sjp!4v1445511820707" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 ## タイムテーブル
 
 時刻 | タイトル | 講師
 ---- | ---- | ---- |
-12:45 〜 13:00 | 受付 
+12:45 〜 13:00 | 受付
 13:00 〜 13:50 | (仮)MySQL 5.7最新事情| 山崎さん
 14:00 〜 14:50 | (仮)DbmFsの紹介| 岩瀬さん
 15:10 〜 16:00 |  調整中|
