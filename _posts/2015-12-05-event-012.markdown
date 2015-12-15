@@ -9,12 +9,26 @@ categories: events
 
 * [Togetter](http://togetter.com/li/909209)
 
+## 発表資料
+
+### MySQL 5.7 GA(製品版)リリース記念！！ MySQL最新技術情報
+
+* [スライド](http://downloads.mysql.com/presentations/20151030_01-1_State_of_Dolphin.pdf)
+
+### オープンデータ超入門
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/tp0qLe4KFfHwXm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ishizakikazuhiro/ss-56153399" title="オープンデータ超入門" target="_blank">オープンデータ超入門</a> </strong> from <strong><a href="//www.slideshare.net/ishizakikazuhiro" target="_blank">Kazuhiro Ishizaki</a></strong> </div>
+
+## PostgreSQL 9.5 新機能解説
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/N3IZE1x0f08YNb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/noriyoshishinoda/postgresql-95-new-features-in-izumo" title="PostgreSQL 9.5 New Features in Izumo" target="_blank">PostgreSQL 9.5 New Features in Izumo</a> </strong> from <strong><a href="//www.slideshare.net/noriyoshishinoda" target="_blank">典良 篠田</a></strong> </div>
+
 ## 事前申し込み
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/31803)
 
 ## 開催日
-2015年12月5日(土) 13:00 ~ 17:00 (予定)
+2015年12月5日(土) 13:00 ~ 17:00
 
 ## 開催場所　
 島根県出雲市大津町１１３１－１ [出雲商工会館](http://www.izmcci.or.jp/) 1Fホール
