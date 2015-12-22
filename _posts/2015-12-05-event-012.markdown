@@ -15,6 +15,10 @@ categories: events
 
 * [スライド(PDF)](http://downloads.mysql.com/presentations/20151030_01-1_State_of_Dolphin.pdf)
 
+### DbmFsのご紹介
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GssqDKuwz8Jrht" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/okuyamaoo/20151205-db-dbmfs" title="20151205 中国地方db勉強会 dbm_fs" target="_blank">20151205 中国地方db勉強会 dbm_fs</a> </strong> from <strong><a href="//www.slideshare.net/okuyamaoo" target="_blank">Takahiro Iwase</a></strong> </div>
+
 ### 意外と知らないFileMakerの世界
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/MZlARnUOEGOw1G" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Tatsuo_Ohtani/filemaker-56329019" title="意外と知らないFilemakerの世界" target="_blank">意外と知らないFilemakerの世界</a> </strong> from <strong><a href="//www.slideshare.net/Tatsuo_Ohtani" target="_blank">Tatsuo_Ohtani</a></strong> </div>
