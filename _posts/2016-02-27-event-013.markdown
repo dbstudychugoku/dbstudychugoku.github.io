@@ -15,15 +15,26 @@ categories: events
 2016年02月27日(土) 13:00 ~ 17:00 (予定)
 
 ## 開催場所　
-山口市小郡黄金町7-4山本ビル 6F 
+山口市小郡黄金町7-4山本ビル 6F  
+シェアオフィス in ShinYamaguchi
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.1327354501022!2d131.39467206443797!3d34.09173992309661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x354484de11c50cb5%3A0xd21570079cfe3069!2z44CSNzU0LTAwMjEg5bGx5Y-j55yM5bGx5Y-j5biC5bCP6YOh6buE6YeR55S677yX4oiS77yUIOWxseacrOODk-ODqw!5e0!3m2!1sja!2sjp!4v1449298462542" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 ## タイムテーブル
 
+時刻|タイトル|講師
+---- | ---- | ---- |
+13:00 ~ 13:50|PostgreSQLで学ぶリレーショナルデータモデルとその実装| 末並さん
+14:00 ~ 14:50| 意外と知らないFileMaker?の世界 |大谷さん
+15:00 ~ 15:30| 調整中 | 坂井さん
+15:40 ~ 15:45 | 地元枠(LT) |
+15:45 ~ 15:50 | 地元枠(LT) |
+15:50 ~ 15:55 | 地元枠(LT) |
+16:00 ~ 16:50 |MySQLとPostgreSQLの違い（実践編）| 曽根さん
+16:50 ~ 17:00 | クロージング |
+17:30 ~ 19:30 | 懇親会 |
 
-調整中
 
 ## セッション内容
 
