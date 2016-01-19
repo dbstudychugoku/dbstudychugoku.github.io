@@ -17,9 +17,12 @@ categories: events
 ヤフー株式会社 11Fセミナールーム
 
 会場の最寄り駅は次のとおりです。
--  東京メトロ日比谷線 他 ​六本木駅 ​[直線距離：240m]
+
+- 東京メトロ日比谷線 他 ​六本木駅 ​[直線距離：240m]
 - 東京メトロ千代田線 ​乃木坂駅 ​[直線距離：460m]
 - 東京メトロ南北線 ​六本木一丁目駅 ​[直線距離：700m]
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.4385331727503!2d139.72907041525838!3d35.66620258019787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDM5JzU4LjMiTiAxMznCsDQzJzUyLjUiRQ!5e0!3m2!1sja!2sjp!4v1453190323660" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## 開催日
 
