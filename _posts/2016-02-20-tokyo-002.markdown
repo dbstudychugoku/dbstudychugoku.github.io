@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "MyNA・JPUG合同DB勉強会 in 東京"
+title:  "第2回 MyNA・JPUG合同DB勉強会 in 東京"
 date:   2016-02-20 12:50:00 JST
 categories: events
 ---
@@ -33,6 +33,7 @@ categories: events
 ※また一度入ると退館するまで出ることが出来ませんのでご注意ください
 
 ## タイムテーブル
+
 時間 | タイトル| 講師
 ------------ | ------------- | -------------
 12:15 - 12:50|開場・受付||
