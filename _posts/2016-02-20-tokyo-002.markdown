@@ -45,21 +45,61 @@ categories: events
 ------------ | ------------- | -------------
 12:15 - 12:50|開場・受付||
 12:50 - 13:00|オープニング(会場ご案内等)||
-13:00 - 13:50|MySQL（基調講演？）|MyNA 調整中|
-13:55 - 14:45|PostgreSQL9.5最新事情|HP 篠田さん|
-14:50 - 15:20|PostgreSQL枠|JPUG 調整中|
+13:00 - 13:50|「イルカ㌠から象㌠に伝えたいMySQLのレプリケーションの仕組み」とか話したかったんですけどかじやまさんから5.7にしるって言われてるので残念ながら5.7の何かを話します（仮）|MyNA yoku0825さん|
+13:55 - 14:45|PostgreSQL9.5最新事情|JPUG 篠田さん|
+14:50 - 15:20|GISを中心に多彩なデータ処理をPostgreSQLで|JPUG 国府田さん|
 15:25 - 15:55|AWS Auroraの話|AWS 星野さん|
 16:00 - 16:30|PostgreSQLのJSONB型の話 |JPUG ぬこさん|
-16:35 - 17:25|MySQL枠|MyNA 調整中|
-17:30 - 18:20|MySQL枠|MyNA 調整中|
+16:35 - 17:25|MySQLの話（仮）|MyNA いとうさん|
+17:30 - 18:20|InnoDB Table Compression|MyNA せじまさん|
 18:20 - 18:50|ヤフー社内でやってるMySQLチューニングセミナー大公開|ヤフー 三谷さん|
 18:50 - 19:00|クロージング||
 19:00 - 20:30|ビアバッシュ|懇親会希望者|
 
-## 講師
+## セッション内容
 
-調整中
+###「イルカ㌠からゾウ㌠に伝えたいMySQLのレプリケーションの仕組み」とか話したかったんですけどかじやまさんから5.7にしるって言われてるので残念ながら5.7の何かを話します（仮）（仮）
+・講師 MyNA枠 (yoku0825さん)[https://twitter.com/yoku0825]
 
+  調整中
+
+###PostgreSQL9.5最新事情
+・講師 JPUG枠 (JPUG 篠田さん)[https://twitter.com/nori_shinoda]
+
+  調整中
+
+###GISを中心に多彩なデータ処理をPostgreSQLで
+・講師 JPUG枠 国府田さん
+  Spatial is not special. 空間データは特殊なデータじゃない. これはSqliteのGIS用拡張プロジェクトが掲げる言葉ですが, RDBの多彩な可能性をよく表しています. PostgreSQLは本体だけでもArray, Range, XML, JSONなどに対応し, 各データ型用に豊富な演算子・関数があります. PostgreSQLでGISデータを扱うメリットは, 何と言ってもこのプラットフォームの「幅の広さ」と拡張性をそのまま使えることです.
+  本発表は, GISが特殊な世界でなく様々なデータ処理の一つという視点で, PostGISおよび経路探索用pgRoutingの最新状況をご紹介します. あわせてMySQLのGIS機能との比較, PostgreSQLの集計分析機能の利用例, 組み込み言語拡張(PL/Python, PL/R, PL/v8)との連携にも触れます.
+  (発表者ブログ http://kenpg.bitbucket.org/)
+
+  
+###AWS Auroraの話
+・講師 AWS 星野さん
+
+  調整中
+  
+###PostgreSQLのJSONB型の話 
+・講師 JPUG枠 (ぬこさん)[https://twitter.com/nuko_yokohama]
+
+  調整中
+  
+###MySQL 5.7の話（仮）
+・講師 MyNA枠 (いとうさん)[https://twitter.com/i_rethi]
+
+  調整中
+
+###InnoDB Table Compression
+・講師 MyNA枠 せじまさん
+
+  調整中
+  
+###ヤフー社内でやってるMySQLチューニングセミナー大公開
+・講師 ヤフー 三谷さん
+
+  調整中
+  
 ## 懇親会
 
 会場にてビアバッシュを行います。
