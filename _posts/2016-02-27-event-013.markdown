@@ -19,7 +19,6 @@ categories: events
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.1327354501022!2d131.39467206443797!3d34.09173992309661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x354484de11c50cb5%3A0xd21570079cfe3069!2z44CSNzU0LTAwMjEg5bGx5Y-j55yM5bGx5Y-j5biC5bCP6YOh6buE6YeR55S677yX4oiS77yUIOWxseacrOODk-ODqw!5e0!3m2!1sja!2sjp!4v1449298462542" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-
 ## タイムテーブル
 
 時刻 | タイトル | 講師
@@ -43,7 +42,6 @@ categories: events
 実務で Web アプリケーションを作る、設計をする立場の人
 実務で DB で苦しんだことがある人
 今から Web アプリケーションを作ってみたいと思ってる人
-
 
 ## 懇親会
 
