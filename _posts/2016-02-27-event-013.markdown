@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "第13回 中国地方DB勉強会 in 山口"
-date: 2016-02-27 13:00:00 JST
+date: 2016-02-7 13:00:00 JST
 categories: events
 ---
 

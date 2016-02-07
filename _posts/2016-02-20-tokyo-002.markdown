@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "第2回 MyNA・JPUG合同DB勉強会 in 東京"
-date:   2016-02-20 12:50:00 JST
+date:   2016-02-7 12:50:00 JST
 categories: events
 ---
 
