@@ -7,6 +7,10 @@ categories: events
 
 # 第2回 MySQL・PostgreSQLユーザーグループ（MyNA・JPUG）合同DB勉強会 in 東京
 
+## 開催日
+
+2016年2月20日（土）12:50 - 19:00
+
 ## 事前申し込み
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/37635)
@@ -28,16 +32,12 @@ categories: events
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.4385331727503!2d139.72907041525838!3d35.66620258019787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDM5JzU4LjMiTiAxMznCsDQzJzUyLjUiRQ!5e0!3m2!1sja!2sjp!4v1453190323660" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-## 開催日
-
-2016年2月20日（土）12:50 - 19:00
-
 ## 受付について
-ミッドタウン・タワー正面入口から1Fのメインロビーに入り、総合受付に向かって左手のエスカレーターをあがるとヤフー株式会社来客者用受付があります。
-こちらに今回のイベント専用受付を用意しています。
-ここで入館証と引き換えに名刺または署名をいただくようになります。
-円滑な運営のために名刺のご準備をよろしくお願いします。
-※また一度入ると退館するまで出ることが出来ませんのでご注意ください
+ミッドタウン・タワー正面入口から1Fのメインロビーに入り、総合受付に向かって左手のエスカレーターをあがるとヤフー株式会社来客者用受付があります。  
+こちらに今回のイベント専用受付を用意しています。  
+ここで入館証と引き換えに名刺または署名をいただくようになります。  
+円滑な運営のために名刺のご準備をよろしくお願いします。  
+※また一度入ると退館するまで出ることが出来ませんのでご注意ください  
 
 ## タイムテーブル
 
@@ -58,50 +58,51 @@ categories: events
 
 ## セッション内容
 
-###「イルカ㌠からゾウ㌠に伝えたいMySQLのレプリケーションの仕組み」とか話したかったんですけどかじやまさんから5.7にしるって言われてるので残念ながら5.7の何かを話します（仮）（仮）
-・講師 MyNA枠 (yoku0825さん)[https://twitter.com/yoku0825]
+### 「イルカ㌠からゾウ㌠に伝えたいMySQLのレプリケーションの仕組み」とか話したかったんですけどかじやまさんから5.7にしるって言われてるので残念ながら5.7の何かを話します（仮）
+・講師 MyNA枠 [yoku0825さん](https://twitter.com/yoku0825)
 
   調整中
 
-###PostgreSQL9.5最新事情
-・講師 JPUG枠 (JPUG 篠田さん)[https://twitter.com/nori_shinoda]
+### PostgreSQL9.5最新事情
+・講師 JPUG枠 [JPUG 篠田さん](https://twitter.com/nori_shinoda)
 
   調整中
 
-###GISを中心に多彩なデータ処理をPostgreSQLで
+### GISを中心に多彩なデータ処理をPostgreSQLで
 ・講師 JPUG枠 国府田さん
-  Spatial is not special. 空間データは特殊なデータじゃない. これはSqliteのGIS用拡張プロジェクトが掲げる言葉ですが, RDBの多彩な可能性をよく表しています. PostgreSQLは本体だけでもArray, Range, XML, JSONなどに対応し, 各データ型用に豊富な演算子・関数があります. PostgreSQLでGISデータを扱うメリットは, 何と言ってもこのプラットフォームの「幅の広さ」と拡張性をそのまま使えることです.
-  本発表は, GISが特殊な世界でなく様々なデータ処理の一つという視点で, PostGISおよび経路探索用pgRoutingの最新状況をご紹介します. あわせてMySQLのGIS機能との比較, PostgreSQLの集計分析機能の利用例, 組み込み言語拡張(PL/Python, PL/R, PL/v8)との連携にも触れます.
+
+  Spatial is not special. 空間データは特殊なデータじゃない. これはSqliteのGIS用拡張プロジェクトが掲げる言葉ですが, RDBの多彩な可能性をよく表しています. PostgreSQLは本体だけでもArray, Range, XML, JSONなどに対応し, 各データ型用に豊富な演算子・関数があります. PostgreSQLでGISデータを扱うメリットは, 何と言ってもこのプラットフォームの「幅の広さ」と拡張性をそのまま使えることです.  
+  本発表は, GISが特殊な世界でなく様々なデータ処理の一つという視点で, PostGISおよび経路探索用pgRoutingの最新状況をご紹介します. あわせてMySQLのGIS機能との比較, PostgreSQLの集計分析機能の利用例, 組み込み言語拡張(PL/Python, PL/R, PL/v8)との連携にも触れます.  
   (発表者ブログ http://kenpg.bitbucket.org/)
 
-  
-###AWS Auroraの話
+
+### AWS Auroraの話
 ・講師 AWS 星野さん
 
   調整中
-  
-###PostgreSQLのJSONB型の話 
-・講師 JPUG枠 (ぬこさん)[https://twitter.com/nuko_yokohama]
 
-  調整中
-  
-###MySQL 5.7の話（仮）
-・講師 MyNA枠 (いとうさん)[https://twitter.com/i_rethi]
+### PostgreSQLのJSONB型の話
+・講師 JPUG枠 [ぬこさん](https://twitter.com/nuko_yokohama)
 
   調整中
 
-###InnoDB Table Compression
+### MySQL 5.7の話（仮）
+・講師 MyNA枠 [いとうさん](https://twitter.com/i_rethi)
+
+  調整中
+
+### InnoDB Table Compression
 ・講師 MyNA枠 せじまさん
 
   調整中
-  
-###ヤフー社内でやってるMySQLチューニングセミナー大公開
+
+### ヤフー社内でやってるMySQLチューニングセミナー大公開
 ・講師 ヤフー 三谷さん
 
   調整中
-  
+
 ## 懇親会
 
-会場にてビアバッシュを行います。
-ピザ、ビール、ソフトドリンクなどを準備する予定です。
-懇親会費は2000円と考えています。
+会場にてビアバッシュを行います。  
+ピザ、ビール、ソフトドリンクなどを準備する予定です。  
+懇親会費は2000円と考えています。  
