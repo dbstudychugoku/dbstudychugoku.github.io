@@ -5,6 +5,11 @@ date:   2016-02-7 12:50:00 JST
 categories: events
 ---
 
+[![Powered by Yahoo!](/images/yahoo!japan.png)](http://www.yahoo.co.jp)
+
+[![オミカレ](/images/omikare.png)](http://party-calendar.net/)
+
+
 # 第2回 MySQL・PostgreSQLユーザーグループ（MyNA・JPUG）合同DB勉強会 in 東京
 
 ## 開催日
