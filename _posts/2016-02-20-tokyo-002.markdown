@@ -50,7 +50,7 @@ categories: events
 14:50 - 15:20|GISを中心に多彩なデータ処理をPostgreSQLで|JPUG 国府田さん|
 15:25 - 15:55|AWS Auroraの話|AWS 星野さん|
 16:00 - 16:30|PostgreSQLのJSONB型の話 |JPUG ぬこさん|
-16:35 - 17:25|MySQLの話（仮）|MyNA いとうさん|
+16:35 - 17:25|ベンチマークの話 2本立て(予定)|MyNA いとうさん|
 17:30 - 18:20|InnoDB Table Compression|MyNA せじまさん|
 18:20 - 18:50|ヤフー社内でやってるMySQLチューニングセミナー大公開|ヤフー 三谷さん|
 18:50 - 19:00|クロージング||
@@ -86,7 +86,7 @@ categories: events
 
   調整中
 
-### MySQL 5.7の話（仮）
+### ベンチマークの話 2本立て(予定)
 ・講師 MyNA枠 [いとうさん](https://twitter.com/i_rethi)
 
   調整中
