@@ -4,6 +4,9 @@ title:  "第2回 MyNA・JPUG合同DB勉強会 in 東京"
 date:   2016-02-20 12:50:00 JST
 categories: events
 ---
+[![Powered by Yahoo!](/images/yahoo!japan.png)](http://www.yahoo.co.jp)
+
+[![オミカレ](/images/omikare.png)](http://party-calendar.net/)
 
 # 第2回 MySQL・PostgreSQLユーザーグループ（MyNA・JPUG）合同DB勉強会 in 東京
 
@@ -74,17 +77,17 @@ categories: events
   本発表は, GISが特殊な世界でなく様々なデータ処理の一つという視点で, PostGISおよび経路探索用pgRoutingの最新状況をご紹介します. あわせてMySQLのGIS機能との比較, PostgreSQLの集計分析機能の利用例, 組み込み言語拡張(PL/Python, PL/R, PL/v8)との連携にも触れます.
   (発表者ブログ http://kenpg.bitbucket.org/)
 
-  
+
 ###AWS Auroraの話
 ・講師 AWS 星野さん
 
   調整中
-  
-###PostgreSQLのJSONB型の話 
+
+###PostgreSQLのJSONB型の話
 ・講師 JPUG枠 (ぬこさん)[https://twitter.com/nuko_yokohama]
 
   調整中
-  
+
 ###MySQL 5.7の話（仮）
 ・講師 MyNA枠 (いとうさん)[https://twitter.com/i_rethi]
 
@@ -94,12 +97,12 @@ categories: events
 ・講師 MyNA枠 せじまさん
 
   調整中
-  
+
 ###ヤフー社内でやってるMySQLチューニングセミナー大公開
 ・講師 ヤフー 三谷さん
 
   調整中
-  
+
 ## 懇親会
 
 会場にてビアバッシュを行います。
