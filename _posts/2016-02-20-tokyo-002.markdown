@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "第2回 MyNA・JPUG合同DB勉強会 in 東京"
-date:   2016-02-7 12:50:00 JST
+date:   2016-02-20 12:50:00 JST
 categories: events
 ---
 
@@ -9,8 +9,49 @@ categories: events
 
 [![オミカレ](/images/omikare.png)](http://party-calendar.net/)
 
-
 # 第2回 MySQL・PostgreSQLユーザーグループ（MyNA・JPUG）合同DB勉強会 in 東京
+
+## Twitterまとめ
+* [yokuさんバージョン](http://togetter.com/li/940891)
+* [ぬこさんバージョン](http://togetter.com/li/940915)
+
+## 発表資料
+
+### イルカさんチームからゾウさんチームに教えたいMySQLレプリケーション
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GsV4Z3O6m7f3eJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yoku0825/mysql-58490400" title="イルカさんチームからゾウさんチームに教えたいMySQLレプリケーション" target="_blank">イルカさんチームからゾウさんチームに教えたいMySQLレプリケーション</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/yoku0825">yoku0825</a></strong> </div>
+
+### PostgreSQL 9.5 最新事情
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2krbb0x8T4XdmV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/noriyoshishinoda/mynajpugpg95new" title="PostgreSQL 9.5 New Features in Tokyo at MyNA and JPUG" target="_blank">PostgreSQL 9.5 New Features in Tokyo at MyNA and JPUG</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/noriyoshishinoda">典良 篠田</a></strong> </div>
+
+### GISを中心に多彩なデータ処理をPostgreSQLで
+
+[国府田さん ブログ](http://kenpg.bitbucket.org/blog/201602/20.html)
+
+### AWS Auroraの話
+
+<script async class="speakerdeck-embed" data-id="760f122731aa42b3b2bec6b41761187b" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+### PostgreSQLのJSONB型の話
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/fNNjGuTgikQson" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/toshiharada/myna-jpug-study-20160220postgresqljsondatatype" title="MyNA JPUG study 20160220-postgresql-json-datatype" target="_blank">MyNA JPUG study 20160220-postgresql-json-datatype</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/toshiharada">Toshi Harada</a></strong> </div>
+
+### ベンチマークの話
+
+### InnoDB Table Compression
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BoMEeHLEIMuznk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/takanorisejima/innodb-table-compression" title="InnoDB Table Compression" target="_blank">InnoDB Table Compression</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/takanorisejima">Takanori Sejima</a></strong> </div>
+
+### ヤフー社内でやってるMySQLチューニングセミナー大公開
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2r9FE4MX7M3I8c" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/techblogyahoo/mysql-58540246" title="ヤフー社内でやってるMySQLチューニングセミナー大公開" target="_blank">ヤフー社内でやってるMySQLチューニングセミナー大公開</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/techblogyahoo">Yahoo!デベロッパーネットワーク</a></strong> </div>
+
+## 関連記事など
+
+* MySQLCasualのSlackはこちら [http://mysql-casual-slackin.herokuapp.com/](http://mysql-casual-slackin.herokuapp.com/)
+* PostgreSQLのSlackはこちら[https://postgresql-hackers-jp.herokuapp.com/](https://postgresql-hackers-jp.herokuapp.com/)
+
 
 ## 開催日
 
@@ -66,12 +107,8 @@ categories: events
 ### 「イルカ㌠からゾウ㌠に伝えたいMySQLのレプリケーションの仕組み」とか話したかったんですけどかじやまさんから5.7にしるって言われてるので残念ながら5.7の何かを話します（仮）
 ・講師 MyNA枠 [yoku0825さん](https://twitter.com/yoku0825)
 
-  調整中
-
 ### PostgreSQL9.5最新事情
 ・講師 JPUG枠 [JPUG 篠田さん](https://twitter.com/nori_shinoda)
-
-  調整中
 
 ### GISを中心に多彩なデータ処理をPostgreSQLで
 ・講師 JPUG枠 国府田さん
@@ -84,27 +121,17 @@ categories: events
 ### AWS Auroraの話
 ・講師 AWS 星野さん
 
-  調整中
-
 ### PostgreSQLのJSONB型の話
 ・講師 JPUG枠 [ぬこさん](https://twitter.com/nuko_yokohama)
-
-  調整中
 
 ### ベンチマークの話 2本立て(予定)
 ・講師 MyNA枠 [いとうさん](https://twitter.com/i_rethi)
 
-  調整中
-
 ### InnoDB Table Compression
 ・講師 MyNA枠 せじまさん
 
-  調整中
-
 ### ヤフー社内でやってるMySQLチューニングセミナー大公開
 ・講師 ヤフー 三谷さん
-
-  調整中
 
 ## 懇親会
 
