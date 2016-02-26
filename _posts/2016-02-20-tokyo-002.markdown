@@ -37,7 +37,9 @@ categories: events
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/fNNjGuTgikQson" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/toshiharada/myna-jpug-study-20160220postgresqljsondatatype" title="MyNA JPUG study 20160220-postgresql-json-datatype" target="_blank">MyNA JPUG study 20160220-postgresql-json-datatype</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/toshiharada">Toshi Harada</a></strong> </div>
 
-### ベンチマークの話
+### MySQLメインの人がPostgreSQLのベンチマークをしてみた話
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/yw6BO5wapjxhYQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/hiroi10/mynajpugpostgresql20160220" title="MySQLメインの人がPostgreSQLのベンチマークをしてみた話" target="_blank">MySQLメインの人がPostgreSQLのベンチマークをしてみた話</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/hiroi10">hiroi10</a></strong> </div>
 
 ### InnoDB Table Compression
 
