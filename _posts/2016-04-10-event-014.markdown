@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "第13回 中国地方DB勉強会 in 福山"
+title: "第14回 中国地方DB勉強会 in 福山"
 date: 2016-03-14 12:36:00 JST
 categories: events
 ---
