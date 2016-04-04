@@ -9,6 +9,18 @@ categories: events
 
 * [Togetter](http://togetter.com/li/944371)
 
+## 発表資料
+
+### 最近始めたあなたも今日から語れるようになるMySQLの{概要と最新情報}入門
+
+#### スライド
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/JdmrIJI2LG82pH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sakaik/mysql-59117416" title="最近始めたあなたも今日から語れるようになるMySQLの{概要と最新情報}入門＠" target="_blank">最近始めたあなたも今日から語れるようになるMySQLの{概要と最新情報}入門＠</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/sakaik">sakaik</a></strong> </div>
+
+### MySQLとPostgreSQLのこと(実践編)
+
+#### スライド
+<script async class="speakerdeck-embed" data-id="90b068def4aa40cc87fc2ad71627150d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 ## 事前申し込み
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/35868)
