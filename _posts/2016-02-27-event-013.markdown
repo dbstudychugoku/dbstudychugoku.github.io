@@ -7,9 +7,15 @@ categories: events
 
 # 第13回　中国地方DB勉強会 in 山口
 
+* 当日の様子が[山口新聞で掲載されました](http://www.minato-yamaguchi.co.jp/yama/news/digest/2016/0228/4p.html)。
 * [Togetter](http://togetter.com/li/944371)
 
 ## 発表資料
+
+### 意外と知らないFileMaker?の世界
+
+#### スライド
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/15Zc7yweGgXYek" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Tatsuo_Ohtani/filemaker-59961154" title="意外と知らないFilemakerの世界" target="_blank">意外と知らないFilemakerの世界</a> </strong> from <strong><a href="//www.slideshare.net/Tatsuo_Ohtani" target="_blank">Tatsuo_Ohtani</a></strong> </div>
 
 ### 最近始めたあなたも今日から語れるようになるMySQLの{概要と最新情報}入門
 
