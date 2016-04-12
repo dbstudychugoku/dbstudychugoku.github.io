@@ -20,14 +20,16 @@ layout: default
 <h2>これまでのイベント</h2>
 
 {% for post in site.posts %}
-  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-  {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+  {% capture event_date %}{{ post.path | slice: 7,10 }}{% endcapture %}
+  {% capture event_previous_date %}{{ post.previous.path | slice: 7,10 }}{% endcapture %}
+  {% capture this_year %}{{ event_date |date: "%Y" }}{% endcapture %}
+  {% capture next_year %}{{ event_previous_date | date: "%Y" }}{% endcapture %}
 
   {% if forloop.first %}
     <h3>{{ this_year}}年</h3>
 	<ul class="posts">
   {% endif %}
-    <li><span>{{ post.date | date: "%Y-%m-%d" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ event_date | date: "%Y-%m-%d" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 
   {% if forloop.last %}
     </ul>
