@@ -13,21 +13,43 @@ categories: events
 
 ### MySQL 5.7 GA(製品版)リリース記念！！ MySQL最新技術情報
 
+#### スライド
+
 * [スライド(PDF)](http://downloads.mysql.com/presentations/20151030_01-1_State_of_Dolphin.pdf)
 
 ### DbmFsのご紹介
+
+#### 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/APCLjtT7Iro?list=PLeE5Q8p_7u11o9P8r3RgSRcPg67vj4hHl" frameborder="0" allowfullscreen></iframe>
+
+#### スライド
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/GssqDKuwz8Jrht" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/okuyamaoo/20151205-db-dbmfs" title="20151205 中国地方db勉強会 dbm_fs" target="_blank">20151205 中国地方db勉強会 dbm_fs</a> </strong> from <strong><a href="//www.slideshare.net/okuyamaoo" target="_blank">Takahiro Iwase</a></strong> </div>
 
 ### 意外と知らないFileMakerの世界
 
+#### スライド
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/MZlARnUOEGOw1G" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Tatsuo_Ohtani/filemaker-56329019" title="意外と知らないFilemakerの世界" target="_blank">意外と知らないFilemakerの世界</a> </strong> from <strong><a href="//www.slideshare.net/Tatsuo_Ohtani" target="_blank">Tatsuo_Ohtani</a></strong> </div>
 
 ### オープンデータ超入門
 
+#### 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4UhnFEeA8LY?list=PLeE5Q8p_7u11o9P8r3RgSRcPg67vj4hHl" frameborder="0" allowfullscreen></iframe>
+
+#### スライド
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/tp0qLe4KFfHwXm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ishizakikazuhiro/ss-56153399" title="オープンデータ超入門" target="_blank">オープンデータ超入門</a> </strong> from <strong><a href="//www.slideshare.net/ishizakikazuhiro" target="_blank">Kazuhiro Ishizaki</a></strong> </div>
 
 ### PostgreSQL 9.5 新機能解説
+
+#### 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mkDDmeVHuZc?list=PLeE5Q8p_7u11o9P8r3RgSRcPg67vj4hHl" frameborder="0" allowfullscreen></iframe>
+
+#### スライド
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/N3IZE1x0f08YNb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/noriyoshishinoda/postgresql-95-new-features-in-izumo" title="PostgreSQL 9.5 New Features in Izumo" target="_blank">PostgreSQL 9.5 New Features in Izumo</a> </strong> from <strong><a href="//www.slideshare.net/noriyoshishinoda" target="_blank">典良 篠田</a></strong> </div>
 
