@@ -12,19 +12,42 @@ categories: events
 
 ## 発表資料
 
+### PostgreSQLで学ぶリレーショナルデータモデルとその実装
+
+#### 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IyFpU11D7CM" frameborder="0" allowfullscreen></iframe>
+
 ### 意外と知らないFileMaker?の世界
 
 #### スライド
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/15Zc7yweGgXYek" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/Tatsuo_Ohtani/filemaker-59961154" title="意外と知らないFilemakerの世界" target="_blank">意外と知らないFilemakerの世界</a> </strong> from <strong><a href="//www.slideshare.net/Tatsuo_Ohtani" target="_blank">Tatsuo_Ohtani</a></strong> </div>
 
 ### 最近始めたあなたも今日から語れるようになるMySQLの{概要と最新情報}入門
 
+#### 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EyrYgBQbCCg?list=PLeE5Q8p_7u12dMpu-iOZyVKFyoLfSQWvu" frameborder="0" allowfullscreen></iframe>
+
 #### スライド
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/JdmrIJI2LG82pH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sakaik/mysql-59117416" title="最近始めたあなたも今日から語れるようになるMySQLの{概要と最新情報}入門＠" target="_blank">最近始めたあなたも今日から語れるようになるMySQLの{概要と最新情報}入門＠</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/sakaik">sakaik</a></strong> </div>
+
+### 「宇部市駐車場管理」プロジェクト紹介
+
+#### 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MuSfKjaLiIM?list=PLeE5Q8p_7u12dMpu-iOZyVKFyoLfSQWvu" frameborder="0" allowfullscreen></iframe>
 
 ### MySQLとPostgreSQLのこと(実践編)
 
+#### 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/53h6MrkUun8?list=PLeE5Q8p_7u12dMpu-iOZyVKFyoLfSQWvu" frameborder="0" allowfullscreen></iframe>
+
 #### スライド
+
 <script async class="speakerdeck-embed" data-id="90b068def4aa40cc87fc2ad71627150d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## 事前申し込み
