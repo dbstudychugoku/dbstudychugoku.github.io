@@ -7,6 +7,12 @@ categories: events
 
 # 第14回　中国地方DB勉強会 in 福山
 
+## 発表資料
+
+### 実行計画の話
+
+<script async class="speakerdeck-embed" data-id="0c3aaca894aa4c8a932b79e393ae6d8e" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 ## 事前申し込み
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/41097)
