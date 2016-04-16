@@ -7,6 +7,8 @@ categories: events
 
 # 第14回　中国地方DB勉強会 in 福山
 
+* [Togetter](http://togetter.com/li/963257)
+
 ## 発表資料
 
 ### 実行計画の話
