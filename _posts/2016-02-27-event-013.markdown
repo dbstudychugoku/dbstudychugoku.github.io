@@ -18,6 +18,10 @@ categories: events
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IyFpU11D7CM" frameborder="0" allowfullscreen></iframe>
 
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="63e466ccd2754620ab10f944a488f98b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 ### 意外と知らないFileMaker?の世界
 
 #### 動画
