@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "第15回 中国地方DB勉強会 in 米子"
-date: 2016-04-22 06:12:00 JST
+date: 2016-05-11 12:56:00 JST
 categories: events
 ---
 
@@ -9,7 +9,7 @@ categories: events
 
 ## 事前申し込み
 
-* doorkeeper
+* [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/44776)
 
 ## 開催日
 
@@ -17,8 +17,53 @@ categories: events
 
 ## 開催場所　
 
+[米子コンベンションセンター](http://www.bigship.or.jp/) 1F 情報プラザ 鳥取県米子市末広町294
+
+会場は米子駅から徒歩で5分です。
+お車でお越しの方は、道向かいの立体駐車場に止め、会場で駐車券処理すると駐車料金が無料になります。
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3251.363013268826!2d133.33099231525165!3d35.42103648025579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDI1JzE1LjciTiAxMzPCsDE5JzU5LjUiRQ!5e0!3m2!1sja!2sjp!4v1462938069075" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 ## タイムテーブル
 
+時刻 | タイトル | 講師
+---- | -------- | ---- | ----
+12:45 ~ 13:00 | 受付 |
+13:00 ~ 13:50 | MySQL 5.7の新機能+コミュニティ版と商用版の違い  | 梶山さん
+14:00 ~ 14:50 | RDBMSとはなんだったのか？(MySQL Document Storeの話)	| 梶山さん
+15:00 ~ 15:50 | 調整中 |
+17:00 ~ 16:50 | プログラマに知ってほしいRDBな話 | 曽根さん
+16:50 ~ 17:00 | クロージング |
+              | 懇親会 |
+
+## セッション内容
+
+### MySQL 5.7の新機能+コミュニティ版と商用版の違いMySQL 5.7の新機能+コミュニティ版と商用版の違い
+
+[日本オラクル MySQL GBU](http://www.mysql.gr.jp/) 梶山さん [@RKajiyama](https://twitter.com/rkajiyama)
+
+### RDBMSとはなんだったのか？(MySQL Document Storeの話)
+
+[日本オラクル MySQL GBU](http://www.mysql.gr.jp/) 梶山さん [@RKajiyama](https://twitter.com/rkajiyama)
+
+### プログラマに知ってほしいRDBな話
+
+[日本PostgreSQLユーザ会](http://www.postgresql.jp/) 曽根さん [@soudai1025](https://twitter.com/soudai1025)
+
+Webサービスを作る時、今や必ずRDBを使うことになります。
+Webサービスを運用してきた経験から
+* 知っておくと未然に防げる問題
+* SQLアンチパターン
+
+などをRDBの基礎を振り返りながらお話をします。
+
+* INDEXと実行計画
+* 削除フラグ
+* 正規化
+
+#### 対象者
+
+MySQLやPostgreSQLを利用しているWebエンジニア
 
 ## 対象レベル
 
@@ -32,3 +77,4 @@ categories: events
 
 ## 懇親会
 
+懇親会を予定してます。
