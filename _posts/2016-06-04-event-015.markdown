@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "第15回 中国地方DB勉強会 in 米子"
-date: 2016-05-11 12:56:00 JST
+date: 2016-05-17 13:25:00 JST
 categories: events
 ---
 
@@ -31,7 +31,7 @@ categories: events
 12:45 ~ 13:00 | 受付 |
 13:00 ~ 13:50 | MySQL 5.7の新機能+コミュニティ版と商用版の違い  | 梶山さん
 14:00 ~ 14:50 | RDBMSとはなんだったのか？(MySQL Document Storeの話)	| 梶山さん
-15:00 ~ 15:50 | 調整中 |
+15:00 ~ 15:50 | 今日から使えるセキュリティtips | たけなかひろゆきさん
 17:00 ~ 16:50 | プログラマに知ってほしいRDBな話 | 曽根さん
 16:50 ~ 17:00 | クロージング |
               | 懇親会 |
@@ -45,6 +45,13 @@ categories: events
 ### RDBMSとはなんだったのか？(MySQL Document Storeの話)
 
 [日本オラクル MySQL GBU](http://www.mysql.gr.jp/) 梶山さん [@RKajiyama](https://twitter.com/rkajiyama)
+
+### 今日から使えるセキュリティtips
+
+たけなかひろゆきさん
+
+生活で使えそうなレベルのセキュリティの話題、CTFの最初の取っ掛かりかたをお伝えします。
+時間が余れば実際になにか問題を解いてみてもらいます。
 
 ### プログラマに知ってほしいRDBな話
 
