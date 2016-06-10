@@ -1,17 +1,19 @@
 ---
 layout: event
 title: "第15回 中国地方DB勉強会 in 米子"
-date: 2016-05-17 13:25:00 JST
+date: 2016-06-11 00:33:00 JST
 categories: events
 ---
 
 # 第15回　中国地方DB勉強会 in 米子
 
-
 * [Togetter](http://togetter.com/li/983761)
 
 ## 発表資料
 
+### 今日から使えるセキュリティtips
+
+<script async class="speakerdeck-embed" data-id="c45f59f8a1124635a591d1efc0920c6c" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## 事前申し込み
 
