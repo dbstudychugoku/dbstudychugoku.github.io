@@ -2,6 +2,7 @@
 layout: event
 title:  "MyNA・JPUG合同DB勉強会 in 東京"
 date:   2015-06-26 13:30:00 JST
+event-date: "2015年6月26日 (金) 13:30 - 18:30"
 categories: events
 ---
 
@@ -9,10 +10,11 @@ categories: events
 
 [![まほろば工房](/images/mahoroba_234.png)](http://www.ate-mahoroba.jp/)
 
-
-# MyNA・JPUG合同DB勉強会 in 東京
+## Twitterまとめ
 
 * [Togetter](http://togetter.com/li/839621)
+
+## 発表資料
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/mmzc5LKCTJH6lQ" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SoudaiSone/postgre-sqlnosql" title="Postgre sqlから見るnosql" target="_blank">Postgre sqlから見るnosql</a> </strong> from <strong><a href="//www.slideshare.net/SoudaiSone" target="_blank">Soudai Sone</a></strong> </div>
 
@@ -42,10 +44,6 @@ categories: events
 ## 開催場所
 
 東京都渋谷区恵比寿4-20-3 恵比寿ガーデンプレイスタワー21F [株式会社DMM.com ラボ 本社・東京事業所](http://labo.dmm.com/about/access/)
-
-## 開催日
-
-2015年6月26日 (金) 13:30 - 18:30
 
 ## 講師
 

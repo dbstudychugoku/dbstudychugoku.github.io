@@ -2,42 +2,37 @@
 layout: event
 title:  "第六回　中国地方DB勉強会"
 date:   2014-11-23 10:00:00 JST
+event-date: "2014-11-23 (日) 13:00 - 17:00"
 categories: events
 ---
 
-# 第六回　中国地方DB勉強会
-
-テーマ「クラウドデータベース」
+## テーマ「クラウドデータベース」
 
 * [事前申し込み doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/16775)
 * [Togetter](http://togetter.com/li/748936)
 
 ## 発表者資料
 
-* すぐに始めれるクラウド、PostgreSQLとHeroku
+### すぐに始めれるクラウド、PostgreSQLとHeroku
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/42070449" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SoudaiSone/ss-42070449" title="すぐ始めれるクラウド" target="_blank">すぐ始めれるクラウド</a> </strong> from <strong><a href="//www.slideshare.net/SoudaiSone" target="_blank">Soudai Sone</a></strong> </div>
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/DHiOCG5QD64?rel=0" frameborder="0" allowfullscreen></iframe>
 
-* AWSのデータベースサービス全部紹介
+### AWSのデータベースサービス全部紹介
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/_TF1fVHyeMs?rel=0" frameborder="0" allowfullscreen></iframe>
 
-* MySQL5.7の最新事情
+### MySQL5.7の最新事情
 
 [スライド](/pdf/20141123_MySQL.pdf)
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/l9tg3jF99P0?rel=0" frameborder="0" allowfullscreen></iframe>
 
-* BigQueryとCloudSQLの紹介　〜力技で大量のデータを解析する〜
+### BigQueryとCloudSQLの紹介　〜力技で大量のデータを解析する〜
 
 [スライド](https://docs.google.com/presentation/d/1cDkN6pbLP6c5dzMtz-Nv--HHq6rxMMC8O_a5NhXMvSA/edit#slide=id.p)
 
-
-## 開催日
-
-2014-11-23 (日) 13:00 - 17:00
 
 ## 開催場所
 
@@ -54,44 +49,44 @@ categories: events
 17:00 ~ 17:50 | KPTかハンズオン |
 17:50 ~ 18:00 | クロージング |
 
-# すぐに始めれるクラウド、PostgreSQLとHeroku
+### すぐに始めれるクラウド、PostgreSQLとHeroku
 
 * 講師 曽根 壮大 [@soudai1025](https://twitter.com/soudai1025)
 
-## 概要
+#### 概要
 
 AWSを使ったPaasであるHerokuの簡単な紹介と実際の利用デモを行います。
 これを見れば今日からクラウドですぐ開発始めれます！！
 
-## AWSのデータベースサービス全部紹介
+### AWSのデータベースサービス全部紹介
 
 * 講師 [Sky株式会社](http://www.skygroup.jp) 玉川 竜司 [@tamagawa_ryuji](https://twitter.com/tamagawa_ryuji)
 
-## 概要
+#### 概要
 
 AWSで使えるデータベースには、Oracle、SQL Server、MySQL、PostgreSQLのマネージドサービスであるRDSや、NoSQL系のデータベースであるDynamoDBがあります。
 さらには自分の持っているSQL ServerやOracleのライセンスを持ち込んで動かすこともできます。
 このセッションでは、それぞれの違いを、技術面だけではなく、クラウドならではのライセンスのことも含めて紹介します。
 
-# BigQueryとCloudSQLの紹介　〜力技で大量のデータを解析する〜
+### BigQueryとCloudSQLの紹介　〜力技で大量のデータを解析する〜
 
 * [GDD中国](https://sites.google.com/site/gdgchugokuofficial/) 横山 隆司 [+TakashiYokoyama](https://plus.google.com/+TakashiYokoyama/)
 
-## 概要
+#### 概要
 
 BigQueryの使い方をデモを中心に紹介します。
 おまけで、Cloud SQLもね。
 
-# MySQL5.7の最新事情
+### MySQL5.7の最新事情
 
 * 講師 [MySQLユーザ会](http://www.mysql.gr.jp/) 梶山 隆輔
 
-## 概要
+#### 概要
 
 MySQLは多くのクラウドサービスのインフラや超大規模Webサイトのバックエンド として広く利用されています。本セッションではMySQLサーバの最新の開発動向 やツール類の情報をご紹介いたします。
 
 
-# 懇親会
+## 懇親会
 
 楽処　ふるさと
 http://www.hurusato.tank.jp/index.html

@@ -2,13 +2,15 @@
 layout: event
 title: "第13回 中国地方DB勉強会 in 山口"
 date: 2016-02-27 13:00:00 JST
+event-date: "2016年02月27日(土) 13:00 ~ 17:00"
 categories: events
 ---
 
-# 第13回　中国地方DB勉強会 in 山口
+## Twitterまとめほか
 
-* 当日の様子が[山口新聞で掲載されました](http://www.minato-yamaguchi.co.jp/yama/news/digest/2016/0228/4p.html)。
 * [Togetter](http://togetter.com/li/944371)
+* 当日の様子が[山口新聞で掲載されました](http://www.minato-yamaguchi.co.jp/yama/news/digest/2016/0228/4p.html)。
+
 
 ## 発表資料
 
@@ -61,9 +63,6 @@ categories: events
 ## 事前申し込み
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/35868)
-
-## 開催日
-2016年02月27日(土) 13:00 ~ 17:00
 
 ## 開催場所　
 山口市小郡黄金町7-4山本ビル 6F シェアオフィスイン新山口

@@ -2,14 +2,13 @@
 layout: event
 title:  "第2回 MyNA・JPUG合同DB勉強会 in 東京"
 date:   2016-02-20 12:50:00 JST
+event-date: "2016年2月20日（土）12:50 - 19:00"
 categories: events
 ---
 
 [![Powered by Yahoo!](/images/yahoo!japan.png)](http://www.yahoo.co.jp)
 
 [![オミカレ](/images/omikare.png)](http://party-calendar.net/)
-
-# 第2回 MySQL・PostgreSQLユーザーグループ（MyNA・JPUG）合同DB勉強会 in 東京
 
 ## Twitterまとめ
 * [yokuさんバージョン](http://togetter.com/li/940891)
@@ -102,10 +101,6 @@ categories: events
 * MySQLCasualのSlackはこちら [http://mysql-casual-slackin.herokuapp.com/](http://mysql-casual-slackin.herokuapp.com/)
 * PostgreSQLのSlackはこちら[https://postgresql-hackers-jp.herokuapp.com/](https://postgresql-hackers-jp.herokuapp.com/)
 
-
-## 開催日
-
-2016年2月20日（土）12:50 - 19:00
 
 ## 事前申し込み
 

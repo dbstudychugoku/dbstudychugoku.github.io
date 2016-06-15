@@ -2,11 +2,11 @@
 layout: event
 title: "第14回 中国地方DB勉強会 in 福山"
 date: 2016-04-10 13:00:00 JST
+event-date: "2016年04月10日(日) 13:00 ~ 17:00"
 categories: events
 ---
 
-# 第14回　中国地方DB勉強会 in 福山
-
+## Twitterまとめ
 * [Togetter](http://togetter.com/li/963257)
 
 ## 発表資料
@@ -23,8 +23,6 @@ categories: events
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/41097)
 
-## 開催日
-2016年04月10日(日) 13:00 ~ 17:00
 
 ## 開催場所　
 広島県福山市伏見町4-33 コワーキングスペース　Ha-Lappa

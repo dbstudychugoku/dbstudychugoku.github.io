@@ -2,18 +2,13 @@
 layout: event
 title: "第16回 中国地方DB勉強会 in 岡山"
 date: 2016-06-14 02:39:00 JST
+event-date: "2016年07月30日(土) 10:00 - 17:00"
 categories: events
 ---
-
-# 第16回　中国地方DB勉強会 in 岡山
 
 ## 事前申し込み
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/45876)
-
-## 開催日
-
-2016年07月30日(土)
 
 ## 開催場所　
 
@@ -74,7 +69,3 @@ PostgresSQL は高機能・高可用性。
 
 近隣にある[座・スタジアム](http://www.233-3959.com/ryoutei/index.html)で行います。
 懇親会LTも可能ですので希望者は申込時に「LT希望」で申込をお願いします
-
-## Twitterハッシュタグ
-
-[\#ChugokuDB]( https://twitter.com/search?q=%23ChugokuDB)

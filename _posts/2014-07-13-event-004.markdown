@@ -2,18 +2,13 @@
 layout: event
 title:  "第四回　中国地方DB勉強会"
 date:   2014-07-13 10:00:00 JST
+event-date: "2014-07-13 (日) 10:00 - 17:00"
 categories: events
 ---
-
-# 第四回　中国地方DB勉強会
 
 詳細、事前登録は Doorkeeper を確認してください。
 
 * [doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/11642)
-
-## 開催日
-
-2014-07-13 (日) 10:00 - 17:00
 
 ## 開催場所
 

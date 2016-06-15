@@ -2,6 +2,7 @@ name: '中国地方DB勉強会'
 timezone: Asia/Tokyo
 exclude: ['Gemfile','Gemfile.lock','Rakefile','vendor']
 permalink: none
+twitter_username: dbstudychugoku
 
 redcarpet:
   extensions: ['tables']

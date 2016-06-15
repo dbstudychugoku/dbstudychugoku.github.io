@@ -43,6 +43,11 @@ layout: default
 {% endfor %}
 </ul>
 
+
+<h2>動画</h2>
+
+<a href="https://www.youtube.com/channel/UCnEB2iQFE8DqgqXeIArye3g">YouTube 中国地方DB勉強会</a>
+
 <h2>ML</h2>
 
 <a href="https://groups.google.com/forum/#!forum/dbstudychugoku">中国地方DB勉強会ML Google Group</a>
