@@ -2,26 +2,29 @@
 layout: event
 title:  "第10回 中国地方DB勉強会 in 岡山 ～日本AWSユーザ会・PostgreSQLユーザ会(JAWS-UG・JPUG) 合同勉強会～"
 date:   2015-07-18 13:00:00 JST
+event-date: "2015年7月18日 (土) 10:00 - 18:30"
 categories: events
 ---
 
-# 第10回 中国地方DB勉強会 in 岡山 ～日本AWSユーザ会・PostgreSQLユーザ会(JAWS-UG・JPUG) 合同勉強会～
+## Twitterまとめ
 
 * [Togetter](http://togetter.com/li/848802)
 
-* ChatWorkの継続的デリバリーこれまでとこれから
+## 発表資料
+
+### ChatWorkの継続的デリバリーこれまでとこれから
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/dbgbToXc350gTX" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ecfujiwara/20150521-chatwork-continuous-delivery" title="20150523 chatwork continuous delivery" target="_blank">20150523 chatwork continuous delivery</a> </strong> from <strong><a href="//www.slideshare.net/ecfujiwara" target="_blank">Yoshinori Fujiwara</a></strong> </div>
 
-* [中国DB勉強会でDDDの話をしてきた](http://mao-instantlife.hatenablog.com/entry/2015/07/18/%E4%B8%AD%E5%9B%BDDB%E5%8B%89%E5%BC%B7%E4%BC%9A%E3%81%A7DDD%E3%81%AE%E8%A9%B1%E3%82%92%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F
-)
+### 中国DB勉強会でDDDの話をしてきた
+
+[中国DB勉強会でDDDの話をしてきた](http://mao-instantlife.hatenablog.com/entry/2015/07/18/%E4%B8%AD%E5%9B%BDDB%E5%8B%89%E5%BC%B7%E4%BC%9A%E3%81%A7DDD%E3%81%AE%E8%A9%B1%E3%82%92%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F)
 
 <script async class="speakerdeck-embed" data-id="13d27a89836f45c480e4d8e02502589a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-* DDDハンズオン
+### DDDハンズオン
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hPxQWByNMvgw7I" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SoudaiSone/ddd-50659329" title="DDDハンズオン" target="_blank">DDDハンズオン</a> </strong> from <strong><a href="//www.slideshare.net/SoudaiSone" target="_blank">Soudai Sone</a></strong> </div>
-
 
 ## 事前申し込み
 
@@ -31,9 +34,6 @@ categories: events
 
 岡山県岡山市津島中１－１－１ [岡山大インキュベータ](http://www.smrj.go.jp/incubation/od-plus/)
 
-## 開催日
-
-2015年7月18日 (土) 10:00 - 18:30
 
 ## 講師
 

@@ -2,10 +2,11 @@
 layout: event
 title: "第12回 中国地方DB勉強会 in 出雲"
 date: 2015-12-05 10:00:00 JST
+event-date: "2015年12月5日(土) 13:00 ~ 17:00"
 categories: events
 ---
 
-# 第12回　中国地方DB勉強会 in 出雲
+## Twitterまとめ
 
 * [Togetter](http://togetter.com/li/909209)
 
@@ -56,9 +57,6 @@ categories: events
 ## 事前申し込み
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/31803)
-
-## 開催日
-2015年12月5日(土) 13:00 ~ 17:00
 
 ## 開催場所　
 島根県出雲市大津町１１３１－１ [出雲商工会館](http://www.izmcci.or.jp/) 1Fホール

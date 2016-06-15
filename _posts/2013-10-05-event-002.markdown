@@ -2,14 +2,11 @@
 layout: event
 title:  "第二回　中国地方DB勉強会"
 date:   2013-10-05 13:30:00 JST
+event-date: "2013-10-05(土) 13:30 ~ 17:30"
 categories: events
 ---
 
-# [第二回　中国地方DB勉強会](http://local.aguuu.com/events/21550)
-
-## 開催日
-
-2013-10-05(土) 13:30 ~ 2013-08-03 17:30
+[第二回　中国地方DB勉強会](http://local.aguuu.com/events/21550)
 
 ## 開催場所
 

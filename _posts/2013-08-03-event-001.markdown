@@ -2,14 +2,11 @@
 layout: event
 title:  "第一回　中国地方DB勉強会"
 date:   2013-08-03 13:30:00 JST
+event-date: "2013年08月03日(土) 13:00 ~ 17:00"
 categories: events
 ---
 
-# [第一回　中国地方DB勉強会](http://local.aguuu.com/events/20621)
-
-## 開催日
-
-2013-08-03(土) 13:00 ~ 2013-08-03 17:00
+[第一回　中国地方DB勉強会](http://local.aguuu.com/events/20621)
 
 ## 開催場所
 

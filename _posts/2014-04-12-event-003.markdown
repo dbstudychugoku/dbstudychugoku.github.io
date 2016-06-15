@@ -2,14 +2,9 @@
 layout: event
 title:  "第三回　中国地方DB勉強会"
 date:   2014-04-12 10:00:00 JST
+event-date: "2014-04-12(土) 10:00 ~ 17:00"
 categories: events
 ---
-
-# [第三回　中国地方DB勉強会](http://dbstudychugoku.doorkeeper.jp/events/9698)
-
-## 開催日
-
-2014-04-12(土) 10:00 ~ 2014-04-12 17:00
 
 ## 開催場所
 

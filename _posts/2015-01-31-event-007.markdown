@@ -2,38 +2,41 @@
 layout: event
 title:  "第七回 中国地方DB勉強会 in 松江"
 date:   2015-01-31 13:00:00 JST
+event-date: "2015年1月31日 (土) 13:00 - 17:00"
 categories: events
 ---
 
-# 第七回　中国地方DB勉強会 in 松江
+## Twitterまとめ
 
 * [Togetter](http://togetter.com/li/777038)
 
-## ドキュメント指向データベースとしてのPostgreSQL 9.4
+## 発表者資料
+
+### ドキュメント指向データベースとしてのPostgreSQL 9.4
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xTjsPoPfm2Q?list=PLeE5Q8p_7u111x4Yg5t2ZKN7tTKEHCdG1" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/44116276" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/toshiharada/chugokudb-study20150131" title="Chugokudb study-20150131" target="_blank">Chugokudb study-20150131</a> </strong> from <strong><a href="//www.slideshare.net/toshiharada" target="_blank">Toshi Harada</a></strong> </div>
 
-<h2>MySQL最新事情</h2>
+### MySQL最新事情
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ajz4Vd3PYnY?list=PLeE5Q8p_7u111x4Yg5t2ZKN7tTKEHCdG1" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/44098227" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/rkajiyama/20150131-chugokudbshimanemysql" title="20150131 ChugokuDB-Shimane-MySQL" target="_blank">20150131 ChugokuDB-Shimane-MySQL</a> </strong> from <strong><a href="//www.slideshare.net/rkajiyama" target="_blank">Ryusuke Kajiyama</a></strong> </div>
 
-<h2>上下水道インフラ監視/制御システムにおけるPostgreSQL運用事例</h2>
+### 上下水道インフラ監視/制御システムにおけるPostgreSQL運用事例
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vbT8gEt99l4?list=PLeE5Q8p_7u111x4Yg5t2ZKN7tTKEHCdG1" frameborder="0" allowfullscreen></iframe>
 
 * [スライド](https://github.com/hiroeorz/presentations/blob/master/chugoku-db/chugoku_db_komatsu.pdf?raw=true)
 
-<h2>Amazon Redshiftを使ったデータ解析</h2>
+### Amazon Redshiftを使ったデータ解析
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q9x1yAHqw1c?list=PLeE5Q8p_7u111x4Yg5t2ZKN7tTKEHCdG1" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/44140812" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tt_yamaguchi/red-44140812" title="Amazon Redshiftを使ったデータ分析" target="_blank">Amazon Redshiftを使ったデータ分析</a> </strong> from <strong><a href="//www.slideshare.net/tt_yamaguchi" target="_blank">Tomohiro Yamaguchi</a></strong> </div>
 
-<h2>AWSのデータベース全部紹介＆BigQuery</h2>
+### AWSのデータベース全部紹介＆BigQuery
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q0AEXicSvTU?list=PLeE5Q8p_7u111x4Yg5t2ZKN7tTKEHCdG1" frameborder="0" allowfullscreen></iframe>
 
@@ -42,10 +45,6 @@ categories: events
 ## 事前申し込み
 
 * [doorkeeper](http://dbstudychugoku.doorkeeper.jp/events/18385)
-
-## 開催日
-
-2015年1月31日 (土) 13:00 - 17:00
 
 ## 講師
 
@@ -66,9 +65,9 @@ categories: events
 16:00 〜 16:50 | AWSのデータベースサービス全部紹介 | 玉川さん
 16:50 〜 17:00 | クロージング |
 
-# セッション内容
+## セッション内容
 
-## ドキュメント指向データベースとしてのPostgreSQL 9.4
+### ドキュメント指向データベースとしてのPostgreSQL 9.4
 
 * 講師 原田さん [@nuko_yokohama](https://twitter.com/nuko_yokohama)
 
@@ -78,22 +77,20 @@ categories: events
 また、新機能のうち特に注目されているJSONBについて詳しく紹介し、
 ドキュメント指向データベースとしてPostgreSQLを利用できるかを話します。
 
-## MySQL最新事情
+### MySQL最新事情
 
 * 講師 [MySQLユーザ会](http://www.mysql.gr.jp/) 梶山 隆輔さん
 
 本セッションではMySQLサーバの最新の開発動向のご紹介やMySQL Workbenchなど のツールのデモを行います。MySQLはクラウドのインフラやWebサイトのバックエ ンドでの要件に対応するため、NoSQL APIや分散型クラスタ機能などの追加を続 けています。
 
-
-
-## 上下水道インフラ監視/制御システムにおけるPostgreSQL運用事例
+### 上下水道インフラ監視/制御システムにおけるPostgreSQL運用事例
 
 * 講師 [小松電機産業](http://www.komatsuelec.co.jp/) 広江さん
 
 業務でPostgreSQLを使ってきた上で、今までの苦い経験と現状の運用についてお話しします。
 Riakも利用していて、こちらの紹介もする予定です。
 
-## AWSのデータベースサービス全部紹介
+### AWSのデータベースサービス全部紹介
 
 * 講師 [Sky株式会社](http://www.skygroup.jp) 玉川 竜司 [@tamagawa_ryuji](https://twitter.com/tamagawa_ryuji)
 
@@ -101,7 +98,7 @@ AWSで使えるデータベースには、Oracle、SQL Server、MySQL、PostgreS
 さらには自分の持っているSQL ServerやOracleのライセンスを持ち込んで動かすこともできます。
 このセッションでは、それぞれの違いを、技術面だけではなく、クラウドならではのライセンスのことも含めて紹介します。
 
-## Amazon Redshiftを使ったデータ解析
+### Amazon Redshiftを使ったデータ解析
 
 * 講師 モンスター・ラボ [山口](http://monstar-lab.com/business_producer/yamaguchi-tomohiro) さん
 

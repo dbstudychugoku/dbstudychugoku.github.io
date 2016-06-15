@@ -2,10 +2,11 @@
 layout: event
 title:  "第九回 中国地方DB勉強会 in 米子"
 date:   2015-06-06 13:00:00 JST
+event-date: "2015年6月6日 (土) 13:00 - 18:00"
 categories: events
 ---
 
-# 第九回 中国地方DB勉強会 in 米子
+## Twitterまとめ
 
 * [当日のツイート](http://togetter.com/li/831265)
 
@@ -55,46 +56,41 @@ categories: events
 
 鳥取県米子市末広町294 [米子コンベンションセンター 第3会議室](http://www.bigship.or.jp/)
 
-## 開催日
-
-2015年6月6日 (土) 13:00 - 18:00
-
 ## 講師
 
 * 株式会社リゾーム システム開発部 尾古さん [@patorash](https://twitter.com/patorash/)
 * [日本オラクル MySQL GBU](http://www.mysql.gr.jp/) 梶山さん [@RKajiyama](https://twitter.com/rkajiyama)
 * [日本PostgreSQLユーザ会](https://www.postgresql.jp/) 曽根 壮大 [@soudai1025](https://twitter.com/soudai1025)
 
-# セッション内容
+## セッション内容
 
-## 便利なHerokuとActiveRecordの速度改善Tips
+### 便利なHerokuとActiveRecordの速度改善Tips
 
 弊社のサービスはHeroku上にてRails+Postgresqlで運用しています。
 今回は弊社のサービスで使う予定のPostGISのことと、ActiveRecordの速度を改善するためにTipsについて紹介します。
 
 株式会社リゾーム システム開発部 尾古豊明 [@patorash](https://twitter.com/patorash/)
 
-## MySQL 5.7 RC登場！次のMySQLはここが違うっ！
+### MySQL 5.7 RC登場！次のMySQLはここが違うっ！
 
 MySQLサーバの次世代版に向けて2015年4月にMySQL 5.7のリリース候補 (RC)版が公開されました。同時に実験室(Labs)版としてインデックス対応のJSON データ型を実装したMySQL JSONも公開され、新しいMySQLの全体象が見えてきて います。今回はMySQL 5.7 RCを中心に最新の実装をご紹介いたします。
 
 [日本オラクル MySQL GBU](http://www.mysql.gr.jp/) 梶山 [@RKajiyama](https://twitter.com/rkajiyama)
 
-## Webアプリで役立つRDB使い方
+### Webアプリで役立つRDB使い方
 
 Web アプリケーションを作るときにデータベースはただのストレージだと思っていませんか？
 RDBの使い方を学ぶと実装が楽に、そして変更に強くなります。
 そんな便利な使い方をご紹介します。
 
-### 対象レベル
+#### 対象レベル
 
 初心者、中級者大歓迎！実務でRDBを使ってるけどSQLをよく知らない方大歓迎！
 
-### 対象者
+#### 対象者
 
 実務で Web アプリケーションを作る、設計をする立場の人
 実務で DB で苦しんだことがある人
 今から Web アプリケーションを作ってみたいと思ってる人
-
 
 [日本PostgreSQLユーザ会](https://www.postgresql.jp/) 曽根 壮大 [@soudai1025](https://twitter.com/soudai1025)

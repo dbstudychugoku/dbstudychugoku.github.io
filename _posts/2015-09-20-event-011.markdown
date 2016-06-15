@@ -2,10 +2,11 @@
 layout: event
 title: "第11回 中国地方DB勉強会 in 広島"
 date: 2015-09-20 10:00:00 JST
+event-date: "2015年9月20日 10:15 - 17:00"
 categories: events
 ---
 
-# 第11回　中国地方DB勉強会 in 広島
+## Twitterまとめ
 
 * [Togetter](http://togetter.com/li/876010)
 
@@ -33,7 +34,7 @@ categories: events
 
 <script async class="speakerdeck-embed" data-id="5d6ff45a5bf64397b7361fd0b2217836" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-### 地方エンジニアがPostgre sqlを通じて成長した話
+### 地方エンジニアがPostgreSQLを通じて成長した話
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/8lRxLwlI7o57gY" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SoudaiSone/postgre-sql-52727786" title="地方エンジニアがPostgreSQLを通じて成長した話" target="_blank">地方エンジニアがPostgreSQLを通じて成長した話</a> </strong> from <strong><a href="//www.slideshare.net/SoudaiSone" target="_blank">Soudai Sone</a></strong> </div>
 
@@ -61,13 +62,9 @@ categories: events
 15:10|16:00| 地方エンジニアがPostgreSQLを通じて成長した話|曽根さん
 16:00| |意見交換会
 
-# 講師
-調整中
-
-
 ## セッション内容
 
-###データは資産・アプリケーションは費用
+### データは資産・アプリケーションは費用
 ・講師 柿木さん
 
   SEからネット通販事業会社に転職後、販売管理業務と基幹業務システムの開発・運用を5年ほどやってきて得た知見を「DBを通じて幸せになった」という視点でお話します。
@@ -82,19 +79,16 @@ SQL ServerとVisual Studio組み合わせることで、『プロジェクト指
 きよくら ならみ（@kiyokura）
 Microsoft MVP for ASP.NET/IIS
 
-###Viewを使ってもっと開発を楽にする話
+### Viewを使ってもっと開発を楽にする話
 ・講師 渡辺さん
 
 クライアントから求められる様々な要求に応えていると、SQL文が長くなってしまうケースって現場ありありな話ですが、Viewを使えばとてもシンプルなSQL文で機能実装する事が可能になります。本日お話する内容は、Viewを使った実際の開発のサンプルをご紹介します。
-　※ 資料は作成中
 
 ### プログラマとして初めてDBを触れて感じたこと
 
 ・講師　吉田さん　@kasoku_ksk
 
 大学卒業後、新人プログラマとして就職し、業務でDBを触れる事になったときなぜ疑問に思った事や納得した事をお話します。
-
-
 
 ### MySQLのユーザー定義変数とRDBのココロ
 ・講師　津田さん　@tsuda_ahr
@@ -121,5 +115,3 @@ PostgreSQLを使った開発時の成功例や失敗例、日本PostgreSQLユー
 
 
 # 懇親会
-
-計画中
