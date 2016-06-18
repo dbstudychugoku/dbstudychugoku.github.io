@@ -19,6 +19,14 @@ categories: events
 
 <script async class="speakerdeck-embed" data-id="0c3aaca894aa4c8a932b79e393ae6d8e" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
+
+## 関連記事など
+
+* [PGECons](https://www.pgecons.org/)
+* [そーだいなるらくがき帳 第14回 中国地方DB勉強会 in 福山で実行計画の話をしてきた](http://soudai1025.blogspot.jp/2016/05/14-db-in-chugokudb.html)
+* [YouTube PGCon 2014 Tokyo【D3】PostgreSQL SQL チューニング入門 入門編（下雅意 美紀）](https://www.youtube.com/watch?v=gxsBi-6ub3k&nohtml5=False)
+* [Software Design 2016年2月号](http://gihyo.jp/magazine/SD/archive/2016/201602)
+
 ## 事前申し込み
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/41097)
@@ -33,8 +41,8 @@ categories: events
 時刻 | タイトル | 講師
 ---- | -------- | ---- | ----
 12:45 ~ 13:00 | 受付 |
-13:00 ~ 13:50 | 異種DBからのPostgreSQL 9.5移行について(仮)  | 喜田さん
-14:00 ~ 14:50 | backupのことか実行計画のことのどっちか(仮) 	| 曽根さん
+13:00 ~ 13:50 | 商用DBからPostgreSQLへ　まず知っておいて欲しいまとめ  | 喜田さん
+14:00 ~ 14:50 | 実行計画の話 	| 曽根さん
 15:00 ~ 17:00 | JPUGか中国地方DB勉強会の過去の動画を見る | YouTubeさん
 17:00 ~ 18:00 | クロージング |
               | 懇親会 |
