@@ -15,6 +15,13 @@ categories: events
 
 <script async class="speakerdeck-embed" data-id="c45f59f8a1124635a591d1efc0920c6c" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
+## 関連記事など
+
+* MySQLCasualのSlack [http://mysql-casual-slackin.herokuapp.com/](http://mysql-casual-slackin.herokuapp.com/)
+* PostgreSQLのSlack [https://postgresql-hackers-jp.herokuapp.com/](https://postgresql-hackers-jp.herokuapp.com/)
+* [そーだいなるらくがき帳 MySQL Workbenchを使うとJSON型の編集が楽になる](http://soudai1025.blogspot.jp/2016/06/mysql-workbenchjson.html)
+* [Software Design 2016年2月号](http://gihyo.jp/magazine/SD/archive/2016/201602)
+
 ## 事前申し込み
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/44776)
