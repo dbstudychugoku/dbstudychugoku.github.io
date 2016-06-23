@@ -11,7 +11,6 @@ categories: events
 * [Togetter](http://togetter.com/li/944371)
 * 当日の様子が[山口新聞で掲載されました](http://www.minato-yamaguchi.co.jp/yama/news/digest/2016/0228/4p.html)。
 
-
 ## 発表資料
 
 ### PostgreSQLで学ぶリレーショナルデータモデルとその実装
@@ -59,6 +58,11 @@ categories: events
 #### スライド
 
 <script async class="speakerdeck-embed" data-id="90b068def4aa40cc87fc2ad71627150d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+## 関連記事など
+
+* [そーだいなるらくがき帳  第13回 中国地方DB勉強会 in 山口の資料が揃ったのでまとめてみた](http://soudai1025.blogspot.jp/2016/05/13-db-in-chugokudb.html)
+* [Software Design 2016年2月号](http://gihyo.jp/magazine/SD/archive/2016/201602)
 
 ## 事前申し込み
 
