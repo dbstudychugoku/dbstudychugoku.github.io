@@ -41,7 +41,6 @@ layout: default
     {% endif %}
   {% endif %}
 {% endfor %}
-</ul>
 
 
 <h2>動画</h2>
