@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "第15回 中国地方DB勉強会 in 米子"
-date: 2016-06-11 00:33:00 JST
+date: 2016-06-04 13:00:00 JST
 event-date: "2016年06月04日(土) 13:00 - 17:00"
 categories: events
 ---
@@ -11,9 +11,33 @@ categories: events
 
 ## 発表資料
 
+### MySQL 5.7の新機能+コミュニティ版と商用版の違い
+
+#### 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ea3aiH5J9CA" frameborder="0" allowfullscreen></iframe>
+
+### RDBMSとはなんだったのか？(MySQL Document Storeの話)
+
+#### 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WfDBeqXit1w" frameborder="0" allowfullscreen></iframe>
+
 ### 今日から使えるセキュリティtips
 
+#### スライド
+
 <script async class="speakerdeck-embed" data-id="c45f59f8a1124635a591d1efc0920c6c" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+#### 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3P26fbFDN-I" frameborder="0" allowfullscreen></iframe>
+
+### プログラマに知ってほしいRDBな話
+
+#### 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L2sVPF7Mymo" frameborder="0" allowfullscreen></iframe>
 
 ## 関連記事など
 
