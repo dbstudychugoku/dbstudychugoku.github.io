@@ -1,0 +1,46 @@
+---
+layout: event
+title: "第17回 中国地方DB勉強会 in 松江"
+date: 2016-07-23 10:49:00 JST
+event-date: "2016年09月25日(日) 10:00 - 16:30"
+categories: events
+---
+
+隔月程度でDBに関する勉強会を中国地方で開催しています。
+
+主催：PostgreSQLユーザ会中国支部
+
+前日に[OSC島根](http://www.ospn.jp/osc2016-shimane/)が開催されます。合わせてご検討下さい。
+
+## 事前申し込み
+
+* [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/49904)
+
+## 開催場所　
+
+[松江市市民活動センター](http://www.minkatsu-ringring.net/center/)
+
+島根県松江市白潟本町43番地 松江市市民活動センター 503研修室
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3249.5986669375893!2d133.05913549245923!3d35.4647289834744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3557051cf9345555%3A0x935a21ab86e27011!2z5p2-5rGf5biC5biC5rCR5rS75YuV44K744Oz44K_44O8!5e0!3m2!1sja!2sjp!4v1469239233498" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+# タイムテーブル
+
+開始時間 | 終了時間| タイトル|講師
+|---|------------- | ------------- | ------------- | -------------
+|10:00 | 12:00 | 未定（自習？）
+|12:00 | 13:00 | 昼休憩 |
+|12:30 | 13:00 | 受付 |
+|13:00 | 13:50 | PostgreSQL 9.6最新動向（仮） | ぬこ@nuko_yokohama さん |
+|14:00 | 14:50 | 未定 |
+|15:00 | 15:50 | 未定 |
+|16:00 | 16:30 | LT・クロージング|
+|17:00 | 19:00 | 懇親会|
+
+# セッション内容
+
+## PostgreSQL 9.6最新動向（仮）
+ ぬこさん@nuko_yokohama
+
+# 懇親会について
+懇親会を開催予定です。
