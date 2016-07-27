@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "第17回 中国地方DB勉強会 in 松江"
-date: 2016-07-23 10:49:00 JST
-event-date: "2016年09月25日(日) 13:00 - 16:30"
+date: 2016-07-27 17:31:00 JST
+event-date: "2016年09月25日(日) 10:00 - 16:30"
 categories: events
 ---
 前日に[OSC島根](http://www.ospn.jp/osc2016-shimane/)が開催されます。合わせてご検討下さい。
