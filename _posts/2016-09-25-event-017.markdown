@@ -23,15 +23,37 @@ categories: events
 
 |開始時間 | 終了時間| タイトル|講師
 |---|------------- | ------------- | ------------- | -------------
-|10:00 | 12:30 | 開放（自習）
-|12:30 | 13:00 | 受付 |
+|10:00 | 11:00 | 受付・準備（座席開放） |
+|11:00 | 12:00 | MySQL Cluster入門 |山崎さん |
+|12:00 | 13:00 | 昼休憩|
 |13:00 | 13:50 | PostgreSQL 9.6最新動向（仮） | ぬこ@nuko_yokohama さん |
-|14:00 | 14:50 | MySQL開発最新動向 2016年秋(仮) | 山崎さん |
-|15:00 | 15:50 | MySQL(未定) | 山崎さん |
+|14:00 | 14:50 | MySQL開発最新動向 2016年秋(仮)前編 | 山崎さん |
+|15:00 | 15:50 | MySQL開発最新動向 2016年秋(仮)後編 | 山崎さん |
 |16:00 | 16:30 | LT・クロージング|
 |17:00 | 19:00 | 懇親会|
 
 ## セッション内容
+
+### MySQL Cluster入門
+
+MySQL Clusterは、共有ディスクを使わずにアクティブ-アクティブのクラスタ構成が組める高可用性インメモリデータベースです。
+このセッションでは、MySQL Clusterの特徴＆利点、MySQL ServerとMySQL Clusterとの違い、MySQL Clusterの最初の一歩（インストール方法、基本設定変更方法、etc）などを、書籍[「MySQL Clusterによる高可用システム運用ガイド」](http://book.impress.co.jp/books/1115101123.php)の著者が解説します。
+
+#### [備考]
+
+説明時にMySQL Clusterのインストール方法等のデモも実施する予定です。
+以下の準備をしてセッションに参加すれば、主要なデモ操作を自分でも試して頂けますので、「MySQL Clusterを試してみたい」という方は、是非ご準備下さい。
+
+Linux環境
+
+* MySQL Clusterのバイナリ
+  * <a href="https://dev.mysql.com/downloads/cluster/">こちら</a>から"Select Platform:"で"Linux - Generic"を選択し、mysql-cluster-gpl-7.4.12-linux-glibc2.5-x86_64.tar.gz(64bitOSの場合)をダウンロード
+* サンプルコマンド
+  * <a href="http://book.impress.co.jp/support/aftercare/download/8010.zip">こちら</a>からダウンロード
+
+※ MySQL Clusterのバイナリ、サンプルコマンドは、Linux環境上に配置ください。
+
+[日本MySQLユーザ会](http://www.mysql.gr.jp/) 山崎さん
 
 ### PostgreSQL 9.6最新動向（仮）
 
@@ -42,7 +64,7 @@ categories: events
 2016年9月18日～22日にサンフランシスコでOracle Open Worldが開催されます。
 このOracle Open Worldで告知されるMySQLの最新情報をご紹介させて頂きます。
 
-[MySQLユーザ会](http://www.mysql.gr.jp/) 山崎さん
+[日本MySQLユーザ会](http://www.mysql.gr.jp/) 山崎さん
 
 ## 懇親会について
 
