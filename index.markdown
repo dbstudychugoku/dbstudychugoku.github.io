@@ -10,7 +10,7 @@ layout: default
 主催：[PostgreSQLユーザ会中国支部](http://www.postgresql.jp/branch)
 </header>
 
-<article class="post-content" markdown="1">
+<article class="post-content next" markdown="1">
 {% include next.md %}
 </article>
 
@@ -18,9 +18,9 @@ layout: default
 <article class="post-content">
 
 <h2>これまでのイベント</h2>
-
-{% for post in site.posts %}
-  {% capture event_date %}{{ post.path | slice: 7,10 }}{% endcapture %}
+{% assign sorted_posts = (site.posts | sort: 'path') %}
+{% for post in sorted_posts reversed %}
+{% capture event_date %}{{ post.path | slice: 7,10 }}{% endcapture %}
   {% capture event_previous_date %}{{ post.previous.path | slice: 7,10 }}{% endcapture %}
   {% capture this_year %}{{ event_date |date: "%Y" }}{% endcapture %}
   {% capture next_year %}{{ event_previous_date | date: "%Y" }}{% endcapture %}
