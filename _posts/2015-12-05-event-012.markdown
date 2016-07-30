@@ -81,7 +81,7 @@ categories: events
 
 2015年10月25日～10月29日に米国で開催していた MySQL　Central@OpenWorld で発表された最新技術情報をご紹介します。
 
-[MySQLユーザ会](http://www.mysql.gr.jp/) 山崎さん
+[日本MySQLユーザ会](http://www.mysql.gr.jp/) 山崎さん
 
 ### DbmFsのご紹介
 データベースを扱いやすく身近なものにするために開発したDbmFsでどのようなことが出来るのか運用と開発の2つの側面から簡単なデモを交えてご紹介します。

@@ -49,7 +49,7 @@ categories: events
 ## 講師
 
 * 原田さん [@nuko_yokohama](https://twitter.com/nuko_yokohama)
-* [MySQLユーザ会](http://www.mysql.gr.jp/) 梶山 隆輔さん
+* [日本MySQLユーザ会](http://www.mysql.gr.jp/) 梶山 隆輔さん
 * [Sky株式会社](http://www.skygroup.jp) 玉川 竜司 [@tamagawa_ryuji](https://twitter.com/tamagawa_ryuji)
 * [小松電機産業](http://www.komatsuelec.co.jp/) 広江さん
 * モンスター・ラボ [山口](http://monstar-lab.com/business_producer/yamaguchi-tomohiro) さん
@@ -79,7 +79,7 @@ categories: events
 
 ### MySQL最新事情
 
-* 講師 [MySQLユーザ会](http://www.mysql.gr.jp/) 梶山 隆輔さん
+* 講師 [日本MySQLユーザ会](http://www.mysql.gr.jp/) 梶山 隆輔さん
 
 本セッションではMySQLサーバの最新の開発動向のご紹介やMySQL Workbenchなど のツールのデモを行います。MySQLはクラウドのインフラやWebサイトのバックエ ンドでの要件に対応するため、NoSQL APIや分散型クラスタ機能などの追加を続 けています。
 

@@ -79,7 +79,7 @@ BigQueryの使い方をデモを中心に紹介します。
 
 ### MySQL5.7の最新事情
 
-* 講師 [MySQLユーザ会](http://www.mysql.gr.jp/) 梶山 隆輔
+* 講師 [日本MySQLユーザ会](http://www.mysql.gr.jp/) 梶山 隆輔
 
 #### 概要
 
