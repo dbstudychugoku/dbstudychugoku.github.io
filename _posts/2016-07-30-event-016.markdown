@@ -1,12 +1,21 @@
 ---
 layout: event
 title: "第16回 中国地方DB勉強会 in 岡山"
-date: 2016-06-14 02:39:00 JST
+date: 2016-07-30 17:54:00 JST
 event-date: "2016年07月30日(土) 10:00 - 17:00"
 categories: events
 ---
 
 主催：PostgreSQLユーザ会中国支部 / [Okayama IT Engineers Community](http://oitec.net/)
+
+## Twitterまとめ
+
+* [Togetter](http://togetter.com/li/1005953)
+
+## 発表資料
+
+### SQL Server のプロジェクト指向オフライン データベース開発を採用してみた話・実践編
+<div style="width: 752px; max-width: 100%; margin-bottom:5px;"><a href="https://docs.com/kiyokura/5777" title="SQL Server のプロジェクト指向オフライン データベース開発を採用してみた話・実践編" target="_blank" style="font-family: 'Segoe UI'">SQL Server のプロジェクト指向オフライン データベース開発を採用してみた話・実践編</a><span style="font-family: 'Segoe UI Light'">—</span><a href="https://docs.com/kiyokura" target="_blank" style="font-family: 'Segoe UI'">きよくら ならみ</a></div><iframe src="https://docs.com/d/embed/D25193245-5753-7006-1240-000747701754%7eM86ec2c5c-6058-6553-8c7d-0b3458fcd0cf" frameborder="0" scrolling="no" width="752px" height="599px" style="max-width:100%" allowfullscreen="False"></iframe>
 
 ## 事前申し込み
 
