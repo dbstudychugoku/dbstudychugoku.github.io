@@ -15,7 +15,32 @@ categories: events
 ## 発表資料
 
 ### SQL Server のプロジェクト指向オフライン データベース開発を採用してみた話・実践編
-<div style="width: 752px; max-width: 100%; margin-bottom:5px;"><a href="https://docs.com/kiyokura/5777" title="SQL Server のプロジェクト指向オフライン データベース開発を採用してみた話・実践編" target="_blank" style="font-family: 'Segoe UI'">SQL Server のプロジェクト指向オフライン データベース開発を採用してみた話・実践編</a><span style="font-family: 'Segoe UI Light'">—</span><a href="https://docs.com/kiyokura" target="_blank" style="font-family: 'Segoe UI'">きよくら ならみ</a></div><iframe src="https://docs.com/d/embed/D25193245-5753-7006-1240-000747701754%7eM86ec2c5c-6058-6553-8c7d-0b3458fcd0cf" frameborder="0" scrolling="no" width="752px" height="599px" style="max-width:100%" allowfullscreen="False"></iframe>
+
+<div style="width: 608px; max-width: 100%; margin-bottom:5px;"><a href="https://docs.com/kiyokura/5777" title="SQL Server のプロジェクト指向オフライン データベース開発を採用してみた話・実践編" target="_blank" style="font-family: 'Segoe UI'">SQL Server のプロジェクト指向オフライン データベース開発を採用してみた話・実践編</a><span style="font-family: 'Segoe UI Light'">—</span><a href="https://docs.com/kiyokura" target="_blank" style="font-family: 'Segoe UI'">きよくら ならみ</a></div><iframe src="https://docs.com/d/embed/D25193245-5753-7006-1240-000747701754%7eM86ec2c5c-6058-6553-8c7d-0b3458fcd0cf" frameborder="0" scrolling="no" width="608px" height="491px" style="max-width:100%" allowfullscreen="False"></iframe>
+
+### PostgreSQLアンチパターン
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3GPc5Zqug0gIJk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SoudaiSone/postgre-sql-54919575" title="PostgreSQLアンチパターン" target="_blank">PostgreSQLアンチパターン</a> </strong> de <strong><a href="//www.slideshare.net/SoudaiSone" target="_blank">Soudai Sone</a></strong> </div>
+
+### SQLアンチパターンのすべて
+
+### LT
+
+#### 知って欲しいSQLなこと
+
+<div style="width: 640px">
+<script async class="speakerdeck-embed" data-id="75ea653679ec49cbbf2b3c682382da80" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+#### データベースもCIしよう！
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/f6XA8dcBLeheVH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/setoazusa/ci-64536757" title="データベースもCIしよう！" target="_blank">データベースもCIしよう！</a> </strong> from <strong><a href="//www.slideshare.net/setoazusa" target="_blank">Hiroyuki Ohnaka</a></strong> </div>
+
+#### ○○SQL使いなのに ☓☓SQLを強いられている方へ
+
+<div style="width: 640px">
+<script async class="speakerdeck-embed" data-id="4a2d11083ef44fc8b80f52e4c631db8c" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ## 事前申し込み
 
