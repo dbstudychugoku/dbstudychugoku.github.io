@@ -24,6 +24,8 @@ categories: events
 
 ### SQLアンチパターンのすべて
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GBR0cgqEjySJJ4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/t_wada/sql-antipatterns-digest" title="SQLアンチパターン - 開発者を待ち受ける25の落とし穴 (拡大版)" target="_blank">SQLアンチパターン - 開発者を待ち受ける25の落とし穴 (拡大版)</a> </strong> from <strong><a href="//www.slideshare.net/t_wada" target="_blank">Takuto Wada</a></strong> </div>
+
 ### LT
 
 #### 知って欲しいSQLなこと
@@ -31,6 +33,14 @@ categories: events
 <div style="width: 640px">
 <script async class="speakerdeck-embed" data-id="75ea653679ec49cbbf2b3c682382da80" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
+
+#### SQLアンチパターン 幻の第26章「とりあえず削除フラグ」
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4kGUUy1tgtJmrh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/t_wada/ronsakucasual" title="SQLアンチパターン 幻の第26章「とりあえず削除フラグ」" target="_blank">SQLアンチパターン 幻の第26章「とりあえず削除フラグ」</a> </strong> de <strong><a href="//www.slideshare.net/t_wada" target="_blank">Takuto Wada</a></strong> </div>
+
+#### 糖質とプログラミングと私
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FkOsCwI889ly85" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/asuenami/ss-52074027" title="糖質とプログラミングと私" target="_blank">糖質とプログラミングと私</a> </strong> from <strong><a href="//www.slideshare.net/asuenami" target="_blank">Akira Suenami</a></strong> </div>
 
 #### データベースもCIしよう！
 
