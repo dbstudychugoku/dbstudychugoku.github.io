@@ -16,15 +16,39 @@ categories: events
 
 ### SQL Server のプロジェクト指向オフライン データベース開発を採用してみた話・実践編
 
+#### 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YvQiGmnm6uM" frameborder="0" allowfullscreen></iframe>
+
+#### スライド
+
 <div style="width: 608px; max-width: 100%; margin-bottom:5px;"><a href="https://docs.com/kiyokura/5777" title="SQL Server のプロジェクト指向オフライン データベース開発を採用してみた話・実践編" target="_blank" style="font-family: 'Segoe UI'">SQL Server のプロジェクト指向オフライン データベース開発を採用してみた話・実践編</a><span style="font-family: 'Segoe UI Light'">—</span><a href="https://docs.com/kiyokura" target="_blank" style="font-family: 'Segoe UI'">きよくら ならみ</a></div><iframe src="https://docs.com/d/embed/D25193245-5753-7006-1240-000747701754%7eM86ec2c5c-6058-6553-8c7d-0b3458fcd0cf" frameborder="0" scrolling="no" width="608px" height="491px" style="max-width:100%" allowfullscreen="False"></iframe>
 
 ### PostgreSQLアンチパターン
+
+#### 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L1kShmK5IvA" frameborder="0" allowfullscreen></iframe>
+
+#### スライド
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3GPc5Zqug0gIJk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SoudaiSone/postgre-sql-54919575" title="PostgreSQLアンチパターン" target="_blank">PostgreSQLアンチパターン</a> </strong> de <strong><a href="//www.slideshare.net/SoudaiSone" target="_blank">Soudai Sone</a></strong> </div>
 
 ### SQLアンチパターンのすべて
 
+#### 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ARJpYZA9uI" frameborder="0" allowfullscreen></iframe>
+
+#### スライド
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/GBR0cgqEjySJJ4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/t_wada/sql-antipatterns-digest" title="SQLアンチパターン - 開発者を待ち受ける25の落とし穴 (拡大版)" target="_blank">SQLアンチパターン - 開発者を待ち受ける25の落とし穴 (拡大版)</a> </strong> from <strong><a href="//www.slideshare.net/t_wada" target="_blank">Takuto Wada</a></strong> </div>
+
+### アンチパターンに対するディスカッション
+
+#### 動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vI26V-5LphU" frameborder="0" allowfullscreen></iframe>
 
 ### LT
 
