@@ -1,0 +1,48 @@
+---
+layout: event
+title: "第18回 中国地方DB勉強会 in 広島"
+date: 2016-09-21 08:53:00 JST
+event-date: "2016年11月26日(土) 13:30 - 17:30"
+categories: events
+---
+翌日に[OSC広島](http://www.ospn.jp/osc2016-hiroshima/)が開催されます。合わせてご検討下さい。
+
+## 事前申し込み
+
+* [connpass](http://dbstudychugoku.connpass.com/event/40880/)
+
+## 開催場所　
+
+広島県広島市中区加古町４−１７
+[アステールプラザ 中会議室](http://h-culture.jp/)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3292.5376571537395!2d132.445843015224!3d34.38767768051599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355aa26a29bc6e3f%3A0x8c040436af133bd4!2z44CSNzMwLTA4MTIg5bqD5bO255yM5bqD5bO25biC5Lit5Yy65Yqg5Y-k55S677yU4oiS77yR77yX!5e0!3m2!1sja!2sjp!4v1474415741242" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+## タイムテーブル
+
+|開始時間 | 終了時間| タイトル|講師
+|---|------------- | ------------- | ------------- | -------------
+|13:00|	13:30| 受付・準備（座席開放） |
+|13:30|	13:40| オープニング |
+|13:40|	14:30| PostgreSQLで学ぶデータベース技術（前編）|JPUG 喜田(@kkkida_twtr) さん|
+|14:40| 15:30| PostgreSQLで学ぶデータベース技術（後編）|JPUG 喜田(@kkkida_twtr) さん|
+|15:40| 16:30| RDBデザインパターン(仮)| JPUG 曽根(@soudai1025) さん|
+|16:40| 17:30| 調整中 	調整中||
+|17:30| 18:00| LT・クロージング||
+|18:30| 20:30| 懇親会||
+
+## セッション内容
+
+### PostgreSQLで学ぶデータベース技術
+
+情報系の学生、社会人数年目や、趣味でアプリ開発をしている方で、「SQLは必要に応じて書いたことはあるけど、得意分野ではない」そんな方が対象です。 データベースでできること（任せるべきこと）をなるべく易しい説明で解説し、DBの便利さを知り、今後DB技術を学んでいく入口にしていただく内容です。 後半は、パフォーマンスを意識したSQLの書き方など、DBの使い方を一歩レベルアップできる内容も盛り込みます。PostgreSQL中心ですが、どのデータベースにも活かせる内容です。
+
+[日本PostgreSQLユーザ会](https://www.postgresql.jp/) 喜田さん
+
+### RDBデザインパターン(仮)
+
+[日本PostgreSQLユーザ会](https://www.postgresql.jp/) 曽根さん
+
+## 懇親会について
+
+調整中
