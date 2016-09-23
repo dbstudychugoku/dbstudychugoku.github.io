@@ -26,7 +26,7 @@ categories: events
 |10:00 | 11:00 | 受付・準備（座席開放） |
 |11:00 | 12:00 | MySQL Cluster入門 |山崎さん |
 |12:00 | 13:00 | 昼休憩|
-|13:00 | 13:50 | PostgreSQL 9.6最新動向（仮） | ぬこ@nuko_yokohama さん |
+|13:00 | 13:50 | PostgreSQL 9.6がやってくる！ | ぬこ@nuko_yokohama さん |
 |14:00 | 14:50 | MySQL開発最新動向 2016年秋(仮)前編 | 山崎さん |
 |15:00 | 15:50 | MySQL開発最新動向 2016年秋(仮)後編 | 山崎さん |
 |16:00 | 16:30 | LT・クロージング|
@@ -55,7 +55,7 @@ Linux環境
 
 [日本MySQLユーザ会](http://www.mysql.gr.jp/) 山崎さん
 
-### PostgreSQL 9.6最新動向（仮）
+### PostgreSQL 9.6がやってくる！
 
 ぬこさん@nuko_yokohama
 
