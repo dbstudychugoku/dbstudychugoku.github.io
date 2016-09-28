@@ -1,13 +1,59 @@
 ---
 layout: event
 title: "第17回 中国地方DB勉強会 in 松江"
-date: 2016-07-27 17:31:00 JST
+date: 2016-09-29 01:37:00 JST
 event-date: "2016年09月25日(日) 10:00 - 16:30"
 categories: events
 ---
-前日に[OSC島根](http://www.ospn.jp/osc2016-shimane/)が開催されます。合わせてご検討下さい。
+
+## Twitterまとめ
+
+* [Togetter](http://togetter.com/li/1029129) （ぬこさんのまとめ）
+
+## 発表資料
+
+### PostgreSQL 9.6がやってくる！
+
+#### 動画
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/027DBdr7fYI?list=PLeE5Q8p_7u11EPvouZ6lxwqPCN-faGPja" frameborder="0" allowfullscreen></iframe>
+
+#### スライド
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cZBl3CMyuttvEi" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/toshiharada/chugoku-db-17thpostgresql96" title="Chugoku db 17th-postgresql-9.6" target="_blank">Chugoku db 17th-postgresql-9.6</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/toshiharada">Toshi Harada</a></strong> </div>
+
+### MySQL最新技術情報
+
+#### 動画
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HxhyeLyFr0c" frameborder="0" allowfullscreen></iframe>
+
+#### スライド
+
+### MySQL最前線〜Server編〜
+
+#### 動画
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/VdNdOtCQ3lk?list=PLeE5Q8p_7u11EPvouZ6lxwqPCN-faGPja" frameborder="0" allowfullscreen></iframe>
+
+#### スライド
+
+
+### LT
+
+#### 動画
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/qxaVCXqFMRk?list=PLeE5Q8p_7u11EPvouZ6lxwqPCN-faGPja" frameborder="0" allowfullscreen></iframe>
+
+#### スライド
+
+##### KLY と言われたので
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/msskEAwcXyJRF8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/toshiharada/chugoku-db-17thltkly" title="Chugoku db 17th-lt-kly" target="_blank">Chugoku db 17th-lt-kly</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/toshiharada">Toshi Harada</a></strong> </div>
 
 ## 事前申し込み
+
+前日に[OSC島根](http://www.ospn.jp/osc2016-shimane/)が開催されます。合わせてご検討下さい。
 
 * [doorkeeper](https://dbstudychugoku.doorkeeper.jp/events/49904)
 
