@@ -30,7 +30,7 @@ categories: events
 
 #### スライド
 
-### MySQL最前線〜Server編〜
+### MySQL最前線～MySQL 8.0 DMR(開発途上版)のご紹介～
 
 #### 動画
 
