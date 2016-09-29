@@ -51,6 +51,10 @@ categories: events
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/msskEAwcXyJRF8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/toshiharada/chugoku-db-17thltkly" title="Chugoku db 17th-lt-kly" target="_blank">Chugoku db 17th-lt-kly</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/toshiharada">Toshi Harada</a></strong> </div>
 
+## 関連記事など
+
+* [第1回 山陰PHP勉強会](https://san-in-php.doorkeeper.jp/events/50455) [山陰ぺちぱーず](https://san-in-php.doorkeeper.jp/)
+
 ## 事前申し込み
 
 前日に[OSC島根](http://www.ospn.jp/osc2016-shimane/)が開催されます。合わせてご検討下さい。
