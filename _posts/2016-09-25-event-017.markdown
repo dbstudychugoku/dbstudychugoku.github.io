@@ -12,6 +12,10 @@ categories: events
 
 ## 発表資料
 
+### MySQL Cluster入門
+
+[MySQL Cluster 7.4入門セミナー講演資料](https://www-jp.mysql.com/why-mysql/presentations/mysql-cluster-74-for-beginners-ja/)
+
 ### PostgreSQL 9.6がやってくる！
 
 #### 動画
