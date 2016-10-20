@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "第17回 中国地方DB勉強会 in 松江"
-date: 2016-09-29 01:37:00 JST
+date: 2016-10-20 13:21:00 JST
 event-date: "2016年09月25日(日) 10:00 - 16:30"
 categories: events
 ---
@@ -30,6 +30,10 @@ categories: events
 
 #### スライド
 
+[MySQL最新技術情報 The State of the Dolphin "Hot Update"](https://www-jp.mysql.com/why-mysql/presentations/mysql-state-of-dolphin-201610-ja/)
+
+[MySQL最前線 ～Enterprise Edition編～](https://www-jp.mysql.com/why-mysql/presentations/mysql-update-ee-201610-ja/)
+
 ### MySQL最前線～MySQL 8.0 DMR(開発途上版)のご紹介～
 
 #### 動画
@@ -38,6 +42,7 @@ categories: events
 
 #### スライド
 
+[MySQL最前線 ～Server編～](https://www-jp.mysql.com/why-mysql/presentations/mysql-update-server-201610-ja/)
 
 ### LT
 
