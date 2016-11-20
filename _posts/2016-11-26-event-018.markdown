@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "第18回 中国地方DB勉強会 in 広島"
-date: 2016-09-21 08:53:00 JST
+date: 2016-11-20 14:56:00 JST
 event-date: "2016年11月26日(土) 13:30 - 17:30"
 categories: events
 ---
@@ -22,13 +22,13 @@ categories: events
 
 |開始時間 | 終了時間| タイトル|講師
 |---|------------- | ------------- | ------------- | -------------
-|13:00|	13:30| 受付・準備（座席開放） |
-|13:30|	13:40| オープニング |
-|13:40|	14:30| PostgreSQLで学ぶデータベース技術（前編）|JPUG 喜田(@kkkida_twtr) さん|
-|14:40| 15:30| PostgreSQLで学ぶデータベース技術（後編）|JPUG 喜田(@kkkida_twtr) さん|
-|15:40| 16:30| RDBデザインパターン(仮)| JPUG 曽根(@soudai1025) さん|
-|16:40| 17:30| 調整中 	調整中||
-|17:30| 18:00| LT・クロージング||
+|13:00| 13:30| 受付・準備（座席開放） |
+|13:30| 13:40| オープニング |
+|13:40| 14:30| PostgreSQLで学ぶデータベース技術（前編）|JPUG 喜田(@kkkida\_twtr) さん|
+|14:40| 15:30| PostgreSQLで学ぶデータベース技術（後編）|JPUG 喜田(@kkkida\_twtr) さん|
+|15:40| 16:30| RDBアンチパターン| JPUG 曽根(@soudai1025) さん|
+|16:40| 17:30| MySQLer七つ道具| MySQLユーザ会 @yoku0825 さん |
+|17:30| 18:00| MySQLとPostgreSQLの違いについてキャッキャウフフ||
 |18:30| 20:30| 懇親会||
 
 ## セッション内容
@@ -39,10 +39,42 @@ categories: events
 
 [日本PostgreSQLユーザ会](https://www.postgresql.jp/) 喜田さん
 
-### RDBデザインパターン(仮)
+### RDBアンチパターン
+
+Webサービスを作る時、今や必ずRDBを使うことになります。 しかしRDBの設計についてはあまりディスカッションがされません… RDBには得手不得手があり、アンチパターンの設計だと後々に悲しみを産みます。 そんな苦労を皆さんがしないように私のWebサービスを運用してきた経験から
+
+* やっては行けないRDBのアンチパターン
+* RDBの得意な事と苦手な事
+* RDBを使いこなすコツ
+
+などをRDBの基礎を振り返りながら設計のお話をします。
 
 [日本PostgreSQLユーザ会](https://www.postgresql.jp/) 曽根さん
 
+### MySQLer七つ道具
+
+[日本MySQLユーザ会](http://mysql.gr.jp/) yoku0825さん
+
+### MySQLとPostgreSQLの違いについてキャッキャウフフ
+
+MySQLとPostgreSQLの違いについて聞きたいことがあれば @soudai1025 にメンションするか下記のgithubのリポジトリにPull-Reqをお願いします！！
+
+[https://github.com/yoku0825/soudai1025_vs_yoku0825/blob/master/03_hiroshima.md](https://github.com/yoku0825/soudai1025_vs_yoku0825/blob/master/03_hiroshima.md)
+
 ## 懇親会について
 
-調整中
+懇親会についてはOSC広島の前夜祭と合同で行います。
+
+DB勉強会からの申込みは終了しました
+
+懇親会の申込みは上記の[OSC広島](http://www.ospn.jp/osc2016-hiroshima/modules/eguide/event.php?eid=33)からお願いします。申込みは11月22日(火) 15:00まで
+
+* 日時：11月26日(土) 18:30-20:30
+* 会場：「野の葡萄」基町クレドパセーラ店
+* [https://www.hotpepper.jp/strJ000028451/](https://www.hotpepper.jp/strJ000028451/)
+* 基町クレドパセーラ7F （最寄り駅：アストラム 県庁前駅/電停 紙屋町西駅）
+* 会費：お酒を飲む人 3,000円 ソフトドリンクの人 2,000円
+* ※領収書はでません
+* 内容：バイキングスタイル（時間制食べ放題＆飲み放題）
+
+どちらか一方に応募すればいいので中国地方DB勉強会で応募した方はOSC側での申込みは不要です。
