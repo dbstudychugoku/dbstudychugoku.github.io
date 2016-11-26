@@ -7,6 +7,11 @@ categories: events
 ---
 翌日に[OSC広島](http://www.ospn.jp/osc2016-hiroshima/)が開催されます。合わせてご検討下さい。
 
+## 資料
+
+* [Togetter](http://togetter.com/li/1052899)
+
+
 ## 事前申し込み
 
 * [connpass](http://dbstudychugoku.connpass.com/event/40880/)
