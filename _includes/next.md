@@ -1,8 +1,8 @@
 次回予定
 
-## 第18回 中国地方DB勉強会 in 広島
+## 第19回 中国地方DB勉強会 in 米子
 
-### 2016年11月26日(土) 13:30 - 17:30
+### 2016年02月18日(土) 13:00 - 18:00
 
-* [第18回 中国地方DB勉強会 in 広島](events/event-018.html)
-* [connpass](http://dbstudychugoku.connpass.com/event/40880/)
+* [第19回 中国地方DB勉強会 in 米子](events/event-019.html)
+* [connpass](https://dbstudychugoku.connpass.com/event/46019/)
