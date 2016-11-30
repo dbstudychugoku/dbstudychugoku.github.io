@@ -27,7 +27,9 @@ categories: events
 
 #### スライド
 
+<div style="width: 640px">
 <script async class="speakerdeck-embed" data-id="c45f59f8a1124635a591d1efc0920c6c" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 #### 動画
 

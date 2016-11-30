@@ -21,7 +21,9 @@ categories: events
 
 #### スライド
 
+<div style="width: 640px">
 <script async class="speakerdeck-embed" data-id="63e466ccd2754620ab10f944a488f98b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ### 意外と知らないFileMaker?の世界
 
@@ -57,7 +59,9 @@ categories: events
 
 #### スライド
 
+<div style="width: 640px">
 <script async class="speakerdeck-embed" data-id="90b068def4aa40cc87fc2ad71627150d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ## 関連記事など
 
