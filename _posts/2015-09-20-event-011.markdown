@@ -32,7 +32,9 @@ categories: events
 
 ### プログラマとして初めてDBに触れて感じたこと
 
+<div style="width: 640px">
 <script async class="speakerdeck-embed" data-id="5d6ff45a5bf64397b7361fd0b2217836" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ### 地方エンジニアがPostgreSQLを通じて成長した話
 

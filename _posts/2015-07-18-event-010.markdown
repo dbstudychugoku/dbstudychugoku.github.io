@@ -20,7 +20,9 @@ categories: events
 
 [中国DB勉強会でDDDの話をしてきた](http://mao-instantlife.hatenablog.com/entry/2015/07/18/%E4%B8%AD%E5%9B%BDDB%E5%8B%89%E5%BC%B7%E4%BC%9A%E3%81%A7DDD%E3%81%AE%E8%A9%B1%E3%82%92%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F)
 
+<div style="width: 640px">
 <script async class="speakerdeck-embed" data-id="13d27a89836f45c480e4d8e02502589a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ### DDDハンズオン
 

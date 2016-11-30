@@ -5,11 +5,60 @@ date: 2016-11-20 14:56:00 JST
 event-date: "2016年11月26日(土) 13:30 - 17:30"
 categories: events
 ---
-翌日に[OSC広島](http://www.ospn.jp/osc2016-hiroshima/)が開催されます。合わせてご検討下さい。
 
 ## 資料
 
 * [Togetter](http://togetter.com/li/1052899)
+
+### PostgreSQLで学ぶデータベース技術（前編）
+
+#### スライド
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ekUPQKYMoq7Rjo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kkida85/chugokudb181-69540159" title="Chugokudb18_1" target="_blank">Chugokudb18_1</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/kkida85">Kosuke Kida</a></strong> </div>
+
+### PostgreSQLで学ぶデータベース技術（後編）
+
+#### スライド
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/CTHwgxvVgmbY0d" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kkida85/chugokudb182" title="Chugokudb18_2" target="_blank">Chugokudb18_2</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/kkida85">Kosuke Kida</a></strong> </div>
+
+[http://kkida-galaxy.blogspot.jp/2016/11/chugokudb18.html?spref=tw](http://kkida-galaxy.blogspot.jp/2016/11/chugokudb18.html?spref=tw)
+
+### RDBアンチパターン
+
+#### 動画
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/UOfp-Y54hv8?list=PLeE5Q8p_7u12e1Asc3lHEHGV08DN8yoou" frameborder="0" allowfullscreen></iframe>
+
+#### スライド
+
+<div style="width: 640px">
+<script async class="speakerdeck-embed" data-id="ee28a18b177a407398252e79abcc05b0" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+### MySQLer七つ道具
+
+#### 動画
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/p9B_QglXZDc?list=PLeE5Q8p_7u12e1Asc3lHEHGV08DN8yoou" frameborder="0" allowfullscreen></iframe>
+
+#### 資料
+
+[MySQL即効クエリチューニング（Think IT Books）](http://book.impress.co.jp/books/1116101077)
+
+### クラウドもＤＢはベアメタルで最高の性能を-- Bluemix Infrastructure
+
+#### 動画
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/MjkYQQm0sEw?list=PLeE5Q8p_7u12e1Asc3lHEHGV08DN8yoou" frameborder="0" allowfullscreen></iframe>
+
+### MySQLとPostgreSQLの違いについてキャッキャウフフ
+
+#### 動画
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/tyXY_2rPMtw?list=PLeE5Q8p_7u12e1Asc3lHEHGV08DN8yoou" frameborder="0" allowfullscreen></iframe>
+
+[https://github.com/yoku0825/soudai1025_vs_yoku0825/blob/master/03_hiroshima.md](https://github.com/yoku0825/soudai1025_vs_yoku0825/blob/master/03_hiroshima.md)
 
 
 ## 事前申し込み

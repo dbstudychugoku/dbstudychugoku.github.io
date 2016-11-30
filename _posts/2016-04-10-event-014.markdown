@@ -17,8 +17,9 @@ categories: events
 
 ### 実行計画の話
 
+<div style="width: 640px">
 <script async class="speakerdeck-embed" data-id="0c3aaca894aa4c8a932b79e393ae6d8e" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-
+</div>
 
 ## 関連記事など
 
