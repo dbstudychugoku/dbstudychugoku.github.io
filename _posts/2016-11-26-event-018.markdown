@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "第18回 中国地方DB勉強会 in 広島"
-date: 2016-11-20 14:56:00 JST
+date: 2016-12-06 13:08:00 JST
 event-date: "2016年11月26日(土) 13:30 - 17:30"
 categories: events
 ---
@@ -9,6 +9,8 @@ categories: events
 ## 資料
 
 * [Togetter](http://togetter.com/li/1052899)
+* [KKIDA-GALAXY(喜田(@kkkida_twtr) さん)](http://kkida-galaxy.blogspot.jp/2016/11/chugokudb18.html)
+* [日々の覚書(yoku0825さん)](https://yoku0825.blogspot.jp/2016/12/2-chugokudb-in.html)
 
 ### PostgreSQLで学ぶデータベース技術（前編）
 
