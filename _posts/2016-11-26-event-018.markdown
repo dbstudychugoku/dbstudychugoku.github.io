@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "第18回 中国地方DB勉強会 in 広島"
-date: 2016-11-20 14:56:00 JST
+date: 2016-12-06 13:08:00 JST
 event-date: "2016年11月26日(土) 13:30 - 17:30"
 categories: events
 ---
@@ -9,6 +9,8 @@ categories: events
 ## 資料
 
 * [Togetter](http://togetter.com/li/1052899)
+* [KKIDA-GALAXY(喜田(@kkkida_twtr) さん)](http://kkida-galaxy.blogspot.jp/2016/11/chugokudb18.html)
+* [日々の覚書(yoku0825さん)](https://yoku0825.blogspot.jp/2016/12/2-chugokudb-in.html)
 
 ### PostgreSQLで学ぶデータベース技術（前編）
 
@@ -41,6 +43,10 @@ categories: events
 #### 動画
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/p9B_QglXZDc?list=PLeE5Q8p_7u12e1Asc3lHEHGV08DN8yoou" frameborder="0" allowfullscreen></iframe>
+
+#### スライド
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/lDoMPnCOscfTkv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yoku0825/mysqler7" title="MySQLerの7つ道具" target="_blank">MySQLerの7つ道具</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/yoku0825">yoku0825</a></strong> </div>
 
 #### 資料
 
