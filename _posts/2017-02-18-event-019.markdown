@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "第19回 中国地方DB勉強会 in 米子"
-date: 2016-11-29 08:44:00 JST
+date: 2016-12-07 13:00:00 JST
 event-date: "2017年02月18日(土) 13:00 - 18:00"
 categories: events
 ---
