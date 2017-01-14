@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "第16回 中国地方DB勉強会 in 岡山"
-date: 2016-07-30 17:54:00 JST
+date: 2016-07-30 10:00:00 JST
 event-date: "2016年07月30日(土) 10:00 - 17:00"
 categories: events
 ---
