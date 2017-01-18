@@ -54,11 +54,11 @@ SQL Server 2005 から 最新の SQL Server 2016 の間で追加された機能�
 
 Microsoft MVP for Data Platform
 
-blog: http://odashinsuke.hatenablog.com/
+blog: [http://odashinsuke.hatenablog.com/](http://odashinsuke.hatenablog.com/)
 
 twitter: @shinsukeoda
 
-所属コミュニュティ:　SQL World http://sqlworld.org
+所属コミュニュティ:　SQL World [http://sqlworld.org](http://sqlworld.org)
 
 ### ryer(地元枠)
 
@@ -68,14 +68,14 @@ twitter: @shinsukeoda
 
 twitter: @ryer
 
-所属コミュニティ: 山陰ぺちぱーず https://san-in-php.doorkeeper.jp/
+所属コミュニティ: 山陰ぺちぱーず [https://san-in-php.doorkeeper.jp/](https://san-in-php.doorkeeper.jp/)
 (翌日の2/19に米子でイベントあり！)
 
 ### t_motooka
 
 概要：2016年11月に、Amazon Athena がリリースされました。これはストレージである Amazon S3 に置かれたデータファイルを、SQLを使って取得する仕組みです。この仕組みを使って効率的にログを取り扱い、日常生活をラクにする手法をご紹介します。
 
-blog: http://tmotooka.hatenablog.jp/
+blog: [http://tmotooka.hatenablog.jp/](http://tmotooka.hatenablog.jp/)
 
 twitter: @t_motooka
 
