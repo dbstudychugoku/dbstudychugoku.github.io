@@ -30,7 +30,7 @@ categories: events
 | 13:20 | 13:50 | 設計をする上で役立った制約について | [高橋さん ](https://twitter.com/ikkitang) |
 | 14:00 | 14:30 | ORMとの付き合い方について| [尾古さん](https://twitter.com/patorash) |
 | 14:40 | 15:30 | MySQLレプリケーションについて（仮）| [梶山さん](https://twitter.com/rkajiyama) |
-| 15:40 | 16:30 | PostgreSQLレプリケーションについて（仮） | 調整中 |
+| 15:40 | 16:30 | PostgreSQL 10がやってくる！ | [ぬこ@nuko_yokohama さん](https://twitter.com/nuko_yokohama) |
 | 16:40 | 17:30 |MySQL無停止バージョンアップについて（仮） | [梶山さん](https://twitter.com/rkajiyama) |
 | 17:30 | 17:50 | クロージング |  |
 | 18:30 | 20:30 | 懇親会 |  |
@@ -43,6 +43,12 @@ categories: events
 ### 概要
 弊社のプロダクトではほぼORMのみを利用していますが、ときどきSQLも書きます。
 なぜORMを積極利用するのか、なぜSQLを書かないのか、SQLを書くシーンはどういうときか、をご紹介します。
+
+## PostgreSQL 10がやってくる！
+## 講師
+[ぬこ@nuko_yokohama](https://twitter.com/nuko_yokohama) 
+### 概要
+概要：現在開発中のPostgreSQL 10。今回はロジカルレプリケーションと宣言型パーティションを中心にPostgreSQL 10に入ると予想される機能を紹介します。
 
 
 ## 懇親会
