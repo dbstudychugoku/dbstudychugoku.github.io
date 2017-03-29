@@ -44,12 +44,23 @@ categories: events
 弊社のプロダクトではほぼORMのみを利用していますが、ときどきSQLも書きます。
 なぜORMを積極利用するのか、なぜSQLを書かないのか、SQLを書くシーンはどういうときか、をご紹介します。
 
+## MySQLレプリケーションについて
+### 講師
+梶山さん [@rkajiyama](https://twitter.com/rkajiyama)
+### 概要
+ MySQLの定番機能であるレプリケーションの最新動向をご紹介します。2000年にリリースされたMySQL 3.23で非同期レプリケーションが実装され、準同期型やグループレプリケーションなど多様な機能や構成が追加されていますので、それぞれ解説いたします。
+
 ## PostgreSQL 10がやってくる！
 ## 講師
-[ぬこ@nuko_yokohama](https://twitter.com/nuko_yokohama) 
+ぬこ[@nuko_yokohama](https://twitter.com/nuko_yokohama ) 
 ### 概要
 概要：現在開発中のPostgreSQL 10。今回はロジカルレプリケーションと宣言型パーティションを中心にPostgreSQL 10に入ると予想される機能を紹介します。
 
+## MySQL無停止バージョンアップについて
+### 講師
+梶山さん [@rkajiyama](https://twitter.com/rkajiyama)
+### 概要
+お客様に影響を与えること無く無停止でのデータベースのバージョンアップは可能なのか？このセッションではその現実と方法に迫ってみます。
 
 ## 懇親会
 ### 会場
