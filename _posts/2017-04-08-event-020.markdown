@@ -22,21 +22,21 @@ categories: events
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13122.912181922591!2d133.9161569!3d34.6868126!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x852b284943ef9651!2z5bKh5bGx5aSn44Kk44Oz44Kt44Ol44OZ44O844K_!5e0!3m2!1sja!2sjp!4v1489549186487" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-## タイムテーブル
+# タイムテーブル
 
 | 開始時間 | 終了時間 | タイトル | 講師 |
 |:------------ |:--------------|:--------------|:-------------
 | 13:00 | 13:20 | 受付 |  |
 | 13:20 | 13:50 | 設計をする上で役立った制約について | [高橋さん ](https://twitter.com/ikkitang) |
 | 14:00 | 14:30 | ORMとの付き合い方について| [尾古さん](https://twitter.com/patorash) |
-| 14:40 | 15:30 | MySQLレプリケーションについて | [梶山さん](https://twitter.com/rkajiyama) |
-| 15:40 | 16:30 | PostgreSQL 10がやってくる！ | [ぬこ@nuko_yokohama さん](https://twitter.com/nuko_yokohama) |
-| 16:40 | 17:30 |MySQL無停止バージョンアップについて | [梶山さん](https://twitter.com/rkajiyama) |
+| 14:40 | 15:30 | MySQLレプリケーションについて | [かじやまさん](https://twitter.com/rkajiyama)  |
+| 15:40 | 16:30 | PostgreSQL 10がやってくる！ | [ぬこ@nuko_yokohama さん](https://twitter.com/nuko_yokohama ) |
+| 16:40 | 17:30 |MySQL無停止バージョンアップについて | [かじやまさん](https://twitter.com/rkajiyama) |
 | 17:30 | 17:50 | クロージング |  |
 | 18:30 | 20:30 | 懇親会 |  |
 
 
-## セッション内容
+# セッション内容
 ## ORMとの付き合い方
 ### 講師
 株式会社リゾーム システム開発部 尾古豊明 [@patorash](https://twitter.com/patorash)
@@ -46,7 +46,7 @@ categories: events
 
 ## MySQLレプリケーションについて
 ### 講師
-梶山さん [@rkajiyama](https://twitter.com/rkajiyama)
+かじやま(MySQLの中の人) [@rkajiyama](https://twitter.com/rkajiyama)
 ### 概要
  MySQLの定番機能であるレプリケーションの最新動向をご紹介します。2000年にリリースされたMySQL 3.23で非同期レプリケーションが実装され、準同期型やグループレプリケーションなど多様な機能や構成が追加されていますので、それぞれ解説いたします。
 
@@ -58,7 +58,7 @@ categories: events
 
 ## MySQL無停止バージョンアップについて
 ### 講師
-梶山さん [@rkajiyama](https://twitter.com/rkajiyama)
+かじやま(MySQLの中の人)  [@rkajiyama](https://twitter.com/rkajiyama)
 ### 概要
 お客様に影響を与えること無く無停止でのデータベースのバージョンアップは可能なのか？このセッションではその現実と方法に迫ってみます。
 
