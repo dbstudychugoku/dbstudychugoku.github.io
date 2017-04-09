@@ -1,10 +1,48 @@
 ---
 layout: event
 title: "第20回 中国地方DB勉強会 in 岡山"
-date: 2017-03-16 00:00:00 JST
+date: 2017-04-09 00:00:00 JST
 event-date: "2017年04月08日(土) 13:00 - 18:00"
 categories: events
 ---
+
+## Twitterまとめ
+
+* [Togetter](https://togetter.com/li/1098699)
+
+## 発表資料
+
+### 設計をする上で役立った制約について
+
+[高橋さん ](https://twitter.com/ikkitang)
+
+<div style="width: 640px">
+<script async class="speakerdeck-embed" data-id="4be4e9a21fef4e73af730d7bc1c0767b" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+### ORMとの付き合い方について
+
+[尾古さん](https://twitter.com/patorash)
+
+<div style="width: 640px">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4N8WDdwTd4v6dE" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/chariderpato/orm-74710374" title="Ormとの付き合い方" target="_blank">Ormとの付き合い方</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/chariderpato">豊明 尾古</a></strong> </div>
+</div>
+
+### MySQLレプリケーションについて
+
+[梶山さん](https://twitter.com/rkajiyama)
+
+### PostgreSQL 10がやってくる！
+
+[ぬこ@nuko_yokohama さん](https://twitter.com/nuko_yokohama)
+
+<div style="width: 640px">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3mcSCO0HvKWxc2" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/toshiharada/chugoku-db-20thpostgresql10pub" title="Chugoku db 20th-postgresql-10-pub" target="_blank">Chugoku db 20th-postgresql-10-pub</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/toshiharada">Toshi Harada</a></strong> </div>
+</div>
+
+### MySQL無停止バージョンアップについて
+
+[梶山さん](https://twitter.com/rkajiyama)
 
 ## 事前申し込み
 
@@ -52,7 +90,9 @@ categories: events
 
 ## PostgreSQL 10がやってくる！
 ## 講師
-ぬこ[@nuko_yokohama](https://twitter.com/nuko_yokohama ) 
+
+[ぬこ@nuko_yokohama](https://twitter.com/nuko_yokohama)
+
 ### 概要
 概要：現在開発中のPostgreSQL 10。今回はロジカルレプリケーションと宣言型パーティションを中心にPostgreSQL 10に入ると予想される機能を紹介します。
 
