@@ -2,8 +2,8 @@
 layout: event
 title: "第21回 中国地方DB勉強会 in 山口"
 # dateの日付を現在時刻より前にすると公開されます
-date: 2017-08-26 00:00:00 JST
-event-date: "2017年08月26日(土) 13:00 - 18:00"
+date: 2017-06-15 00:00:00 JST
+evet-date: "2017年08月26日(土) 13:00 - 17:15"
 categories: events
 ---
 
@@ -30,17 +30,28 @@ categories: events
 
 ## セッション内容
 
-現在、調整中です。
+今回は、全体として、クラウドのマネージドサービスについての会となります！ 
+
+* Microsoft Azure の Azure Database For Azure
+* Google Cloud Platform の Cloud SQL
+* Amazon Web Service の Amazon Aurora
+
+それぞれのマネージドサービスについて詳しい最強の講師陣をお呼びして
+勉強会を開催します。
+
+詳細なセッション内容については現在、調整中です。
 ページは随時更新していきます。
 
 ## 会場
 
-[防府市地域協業支援センター 2階　研修室２](http://genki-hofu.jp/index.html)
+[防府市地域協業支援センター 2階　研修室２](http://genki-hofu.jp/index.html) 
 
-- 備え付けの立体駐車場があるようです
+備え付けの立体駐車場があるようです
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.623056197789!2d131.5692591496614!3d34.05353912501634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35449292790c63a1%3A0x12012265444e4f10!2z44Or44Or44K144K56Ziy5bqcIOmYsuW6nOW4guWcsOWfn-WNlOWDjeaUr-aPtOOCu-ODs-OCv-ODvA!5e0!3m2!1sja!2sjp!4v1495544769061" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## 懇親会について
 
 調整中です。
+
+懇親会費は**4,000円**程度を予定しております。
