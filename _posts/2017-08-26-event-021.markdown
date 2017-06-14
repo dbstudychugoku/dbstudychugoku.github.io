@@ -3,7 +3,7 @@ layout: event
 title: "第21回 中国地方DB勉強会 in 山口"
 # dateの日付を現在時刻より前にすると公開されます
 date: 2017-06-15 00:00:00 JST
-evet-date: "2017年08月26日(土) 13:00 - 17:15"
+event-date: "2017年08月26日(土) 13:00 - 17:15"
 categories: events
 ---
 
