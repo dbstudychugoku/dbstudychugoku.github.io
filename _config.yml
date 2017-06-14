@@ -1,11 +1,21 @@
 name: '中国地方DB勉強会'
+title: '中国地方DB勉強会'
 timezone: Asia/Tokyo
 exclude: ['Gemfile','Gemfile.lock','Rakefile','vendor']
 description: 隔月程度でDBに関する勉強会を中国地方で開催しています。
 permalink: none
+lang: ja
 twitter_username: dbstudychugoku
+theme: minima
+show_downloads: false
+# Google services
+google_analytics: UA-80534557-1
+
 gems:
   - jemoji
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
+
+minima:
+  date_format: "%b %-d, %Y"
