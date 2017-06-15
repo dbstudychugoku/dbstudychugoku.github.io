@@ -34,7 +34,7 @@ categories: events
 
 * Microsoft Azure の Azure Database For Azure
 * Google Cloud Platform の Cloud SQL
-* Amazon Web Service の Amazon Aurora
+* Amazon Web Services の Amazon Aurora
 
 それぞれのマネージドサービスについて詳しい最強の講師陣をお呼びして
 勉強会を開催します。
