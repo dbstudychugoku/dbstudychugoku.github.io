@@ -48,14 +48,15 @@ CloudSQL・BigQuery・Datastore・Bigtable・CloudSpannerあたりのお話を�
 ### Amazon Web Services 関連セッション (タイトル調整中)
 #### 講師
 アマゾン ウェブ サービス ジャパン 株式会社  
-西日本担当 ソリューションアーキテクト  
+西日本担当 ソリューションアーキテクト   
 藤原 吉規さん [@twingo_b](https://twitter.com/twingo_b)
 #### 概要
 調整中です。
 
 ### Microsoft Azure 関連セッション (タイトル調整中)
 #### 講師
-GCPUG福岡 オーガナイザ 熊野 良さん [@ryok0607](https://twitter.com/ryok0607)
+Microsoft MVP for Data Platform 受賞    
+JPUG  曽根 壮大さん [@soudai1025](https://twitter.com/soudai1025)
 #### 概要 
 調整中です。
 
