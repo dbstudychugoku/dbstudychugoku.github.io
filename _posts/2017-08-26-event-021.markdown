@@ -47,7 +47,7 @@ CloudSQL・BigQuery・Datastore・Bigtable・CloudSpannerあたりのお話を�
 
 ### Amazon RDS 入門 
 #### 講師
-JPUG 中国支部長 高橋 一騎 [ikkitang](https://twitter.com/ikkitang)
+JPUG 中国支部長 高橋 一騎 [@ikkitang](https://twitter.com/ikkitang)
 #### 概要
 Amazon RDSについて その特徴や便利なオプション機能達について
 初めから丁寧にお話させて頂きます。
