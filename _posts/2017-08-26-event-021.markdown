@@ -24,7 +24,7 @@ categories: events
 | 14:00 | 14:50 | Microsoft Azure 関連セッション (タイトル調整中) | [曽根　壮大さん(@soudai1025)](https://twitter.com/soudai1025) |
 | 16:00 | 16:20 | Amazon RDS入門 | [高橋　一騎(@ikkitang)](https://twitter.com/ikkitang) |
 | 16:30 | 16:50 | 低コストな駐車場管理システムの開発 | 江原様 |
-| 16:40 | 17:30 | LT枠2(地元) | 調整中 |
+| 16:40 | 17:30 | LT枠2(地元) | [上村様 (@Uemmra3)](https://twitter.com/Uemmra3) |
 | 17:00 | 17:15 | クロージング |  |
 | 17:30 | 19:30 | 懇親会 |  |
 
@@ -32,9 +32,9 @@ categories: events
 ### 全体の概要
 今回は、全体として、クラウドのマネージドサービスについての会となります！ 
 
-* Microsoft Azure の Azure Database For Azure
+* Microsoft Azure の Azure Database For PostgreSQL
 * Google Cloud Platform の Cloud SQL
-* Amazon Web Services の Amazon Aurora
+* Amazon Web Services の Amazon RDS
 
 それぞれのマネージドサービスについて詳しい最強の講師陣をお呼びして
 勉強会を開催します。
@@ -45,19 +45,19 @@ GCPUG福岡 オーガナイザ 熊野 良さん [@ryok0607](https://twitter.com/
 #### 概要
 CloudSQL・BigQuery・Datastore・Bigtable・CloudSpannerあたりのお話をさせて頂こうかと思います。
 
-### Amazon RDS 入門 
-#### 講師
-JPUG 中国支部長 高橋 一騎 [@ikkitang](https://twitter.com/ikkitang)
-#### 概要
-Amazon RDSについて その特徴や便利なオプション機能達について
-初めから丁寧にお話させて頂きます。
-
 ### Microsoft Azure 関連セッション (タイトル調整中)
 #### 講師
 Microsoft MVP for Data Platform 受賞    
 JPUG  曽根 壮大さん [@soudai1025](https://twitter.com/soudai1025)
 #### 概要 
 調整中です。
+
+### Amazon RDS 入門 
+#### 講師
+JPUG 中国支部長 高橋 一騎 [@ikkitang](https://twitter.com/ikkitang)
+#### 概要
+Amazon RDSについて その特徴や便利なオプション機能達について
+初めから丁寧にお話させて頂きます。
 
 ### LT枠1 (地元枠)
 #### 講師
@@ -67,6 +67,12 @@ JPUG  曽根 壮大さん [@soudai1025](https://twitter.com/soudai1025)
 ウェアで入出庫の管理を行って駐車場を管理していこうというシステムの
 開発に取り組んでおります。
 低コストな駐車場管理システムの開発についてお話させて頂きます。
+
+### LT枠2 (地元枠)
+#### 講師
+上村様 [@Uemmra3](https://twitter.com/Uemmra3)
+#### 概要
+調整中です。
 
 詳細なセッション内容については現在、調整中です。
 ページは随時更新していきます。
