@@ -16,6 +16,12 @@ categories: events
 
 [熊野　良さん(@ryok0607)](https://twitter.com/ryok0607)
 
+#### 動画
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/xM6luXQFi24" frameborder="0" allowfullscreen></iframe>
+
+#### スライド
+
 <div style="width: 640px">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/m4cleLwGeOwmgP" width="640" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kumanoryo/rdbdba-gcp-managed-database" title="RDBのDBAから見た GCP Managed Database " target="_blank">RDBのDBAから見た GCP Managed Database </a> </strong> from <strong><a href="https://www.slideshare.net/kumanoryo" target="_blank">Kumano Ryo</a></strong> </div>
 </div>
@@ -23,6 +29,12 @@ categories: events
 ### Azure for Database
 
 [曽根　壮大さん(@soudai1025)](https://twitter.com/soudai1025)
+
+#### 動画
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/CxRsJAbCjhA" frameborder="0" allowfullscreen></iframe>
+
+#### スライド
 
 <div style="width: 640px">
 <iframe width='640' height='515' src='https://gitpitch.com/soudai/Azure-for-Database/master?grs=github&t=white' frameborder='0' allowfullscreen></iframe>
@@ -32,10 +44,31 @@ categories: events
 
 [高橋 一騎さん(@ikkitang)](https://twitter.com/ikkitang)
 
+#### 動画
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/qOUiz6f-w9Q" frameborder="0" allowfullscreen></iframe>
+
+#### スライド
+
 <div style="width: 640px">
 <script async class="speakerdeck-embed" data-id="a0e9940f1730461f97b12bc221e1dd72" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
+### 低コストな駐車場管理システムの開発
+
+江原さん
+
+#### 動画
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HV9zQtPN61Q" frameborder="0" allowfullscreen></iframe>
+
+### 技術士という資格について
+
+[上村　卓弘さん (@Uemmra3)](https://twitter.com/Uemmra3)
+
+#### 動画
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/pUAcZJGUSro" frameborder="0" allowfullscreen></iframe>
 
 ## 事前申し込み
 
