@@ -11,9 +11,9 @@ categories: events
 | 開始時間 | 終了時間 | タイトル | 講師 |
 |:------------ |:--------------|:--------------|:-------------
 |13:00 | 13:20　|受付            |
-|13:20 | 14:10　| PostgreSQL 10.0 について | [高橋　一騎さん(@ikkitang)](https://twitter.com/ikkitang)|
-|14:20 | 15:10　|SQL Server 2017 について |[織田 信亮さん@shinsukeoda](https://twitter.com/shinsukeoda)|
-|15:20 | 16:10　|MySQL 8.0 について |[かじやまさん](https://twitter.com/rkajiyama) |
+|13:20 | 14:10　| PostgreSQL 10.0 について(仮) | [高橋　一騎さん(@ikkitang)](https://twitter.com/ikkitang)|
+|14:20 | 15:10　|SQL Server 2017 について(仮) |[織田 信亮さん@shinsukeoda](https://twitter.com/shinsukeoda)|
+|15:20 | 16:10　|MySQL 8.0 について(仮) |[かじやまさん](https://twitter.com/rkajiyama) |
 |16:20 | 16:40　|LT１ |
 |16:40 | 17:00　|LT２ |
 |17:00 | 17:15　|クロージング |
@@ -28,7 +28,7 @@ categories: events
 MySQL8.0、PostgreSQL、SQLServer2017 について
 講師の方からのセッションをお届けさせて頂きます。
 
-### PostgreSQL 10.0 について
+### PostgreSQL 10.0 について(仮)
 
 #### 講師
 
@@ -37,7 +37,7 @@ MySQL8.0、PostgreSQL、SQLServer2017 について
 #### 概要
 
 
-### SQL Server 2017 について
+### SQL Server 2017 について(仮)
 
 #### 講師
 
@@ -53,7 +53,7 @@ twitter: @shinsukeoda
 
 #### 概要
 
-### MySQL 8.0 について
+### MySQL 8.0 について(仮)
 
 #### 講師
 
