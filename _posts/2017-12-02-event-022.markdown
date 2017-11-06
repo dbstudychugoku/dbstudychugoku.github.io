@@ -1,0 +1,72 @@
+---
+layout: event
+title: "第22回 中国地方DB勉強会 in 出雲"
+date: 2017-11-05 00:00:00 JST
+event-date: "2017年12月02日(土) 13:00 - 17:15"
+categories: events
+---
+
+## タイムテーブル
+
+| 開始時間 | 終了時間 | タイトル | 講師 |
+|:------------ |:--------------|:--------------|:-------------
+|13:00 | 13:20　|受付            |
+|13:20 | 14:10　| PostgreSQL 10.0 について(仮) | [高橋　一騎さん(@ikkitang)](https://twitter.com/ikkitang)|
+|14:20 | 15:10　|SQL Server 2017 について(仮) |[織田 信亮さん@shinsukeoda](https://twitter.com/shinsukeoda)|
+|15:20 | 16:10　|MySQL 8.0 について(仮) |[かじやまさん](https://twitter.com/rkajiyama) |
+|16:20 | 16:40　|LT１ |
+|16:40 | 17:00　|LT２ |
+|17:00 | 17:15　|クロージング |
+|17:30 | 19:30　|懇親会
+
+## セッション内容
+
+### 全体の概要
+
+先日、待望のPostgreSQLのメジャーバージョンアップ PostgreSQL10.0 が発表されました。
+そこで今回は内容をRDBMSのメジャーバージョンアップと題して
+MySQL8.0、PostgreSQL、SQLServer2017 について
+講師の方からのセッションをお届けさせて頂きます。
+
+### PostgreSQL 10.0 について(仮)
+
+#### 講師
+
+高橋　一騎さん ( 日本PostgreSQLユーザー会 中国支部長) [@ikkitang](https://twitter.com/ikkitang)
+
+#### 概要
+
+
+### SQL Server 2017 について(仮)
+
+#### 講師
+
+織田 信亮さん
+
+Microsoft MVP for Data Platform
+
+blog: [http://odashinsuke.hatenablog.com/](http://odashinsuke.hatenablog.com/)
+
+twitter: @shinsukeoda
+
+所属コミュニュティ:　SQL World [http://sqlworld.org](http://sqlworld.org)
+
+#### 概要
+
+### MySQL 8.0 について(仮)
+
+#### 講師
+
+かじやま(MySQLの中の人)さん [@rkajiyama](https://twitter.com/rkajiyama)
+
+#### 概要
+
+## 会場
+
+[出雲商工会議所 1階ホール](http://www.izmcci.or.jp/)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6506.973642660041!2d132.764561!3d35.36838!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcab083903337463c!2z5Ye66Zuy5ZWG5bel5Lya6K2w5omA!5e0!3m2!1sja!2sjp!4v1509897240757" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+## 懇親会について
+
+懇親会を予定してます。
