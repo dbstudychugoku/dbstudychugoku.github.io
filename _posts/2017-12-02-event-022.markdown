@@ -24,6 +24,7 @@ categories: events
 ### 全体の概要
 
 先日、待望のPostgreSQLのメジャーバージョンアップ PostgreSQL10.0 が発表されました。
+
 そこで今回は内容をRDBMSのメジャーバージョンアップと題して
 MySQL8.0、PostgreSQL、SQLServer2017 について
 講師の方からのセッションをお届けさせて頂きます。
@@ -37,6 +38,7 @@ MySQL8.0、PostgreSQL、SQLServer2017 について
 #### 概要
 
 10月に PostgreSQL 10 がリリースされました。
+
 「新メジャーバージョンアップ」と言われるその新機能について、ご紹介いたします。
 
 ###  SQL Server 2017 新機能のご紹介
@@ -49,14 +51,16 @@ Microsoft MVP for Data Platform
 
 blog: [http://odashinsuke.hatenablog.com/](http://odashinsuke.hatenablog.com/)
 
-twitter: @shinsukeoda
+twitter: [@shinsukeoda](https://twitter.com/shinsukeoda)
 
 所属コミュニュティ:　SQL World [http://sqlworld.org](http://sqlworld.org)
 
 #### 概要
 
 10月に SQL Server 2017 がリリースされました！
+
 「Linux でも動く！」が良く聞きますが、実は他にも色々な機能が追加されています。
+
 今回は、SQL Server 2017 の新機能をいくつかご紹介しようと思います。
 
 ### MySQL 8.0 について(仮)
