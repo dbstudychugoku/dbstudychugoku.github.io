@@ -1,8 +1,8 @@
 ---
 layout: event
 title: "第22回 中国地方DB勉強会 in 出雲"
-date: 2017-11-05 00:00:00 JST
-event-date: "2017年12月02日(土) 13:00 - 17:15"
+date: 2017-11-16 00:00:00 JST
+event-date: "2017年12月02日(土) 13:00 - 17:00"
 categories: events
 ---
 
@@ -10,13 +10,13 @@ categories: events
 
 | 開始時間 | 終了時間 | タイトル | 講師 |
 |:------------ |:--------------|:--------------|:-------------
-|13:00 | 13:20　|受付            |
-|13:20 | 14:10　| PostgreSQL 10.0 について(仮) | [高橋　一騎さん(@ikkitang)](https://twitter.com/ikkitang)|
-|14:20 | 15:10　|SQL Server 2017 について(仮) |[織田 信亮さん@shinsukeoda](https://twitter.com/shinsukeoda)|
-|15:20 | 16:10　|MySQL 8.0 について(仮) |[かじやまさん](https://twitter.com/rkajiyama) |
-|16:20 | 16:40　|LT１ |
-|16:40 | 17:00　|LT２ |
-|17:00 | 17:15　|クロージング |
+|12:30 | 13:00　|受付            |
+|13:00 | 13:50　| 7年振りの大型アップデートPostgreSQL10とは | [高橋　一騎さん(@ikkitang)](https://twitter.com/ikkitang)|
+|14:00 | 14:50　| SQL Server 2017 新機能のご紹介 |[織田 信亮さん@shinsukeoda](https://twitter.com/shinsukeoda)|
+|15:00 | 15:50　| MySQL 8.0 について(仮) |[かじやまさん](https://twitter.com/rkajiyama) |
+|16:00 | 16:20　|LT１ |
+|16:20 | 17:40　|LT２ |
+|16:40 | 17:00　|クロージング |
 |17:30 | 19:30　|懇親会
 
 ## セッション内容
@@ -28,7 +28,7 @@ categories: events
 MySQL8.0、PostgreSQL、SQLServer2017 について
 講師の方からのセッションをお届けさせて頂きます。
 
-### PostgreSQL 10.0 について(仮)
+### 7年振りの大型アップデートPostgreSQL10とは
 
 #### 講師
 
@@ -36,8 +36,10 @@ MySQL8.0、PostgreSQL、SQLServer2017 について
 
 #### 概要
 
+10月に PostgreSQL 10 がリリースされました。
+「新メジャーバージョンアップ」と言われるその新機能について、ご紹介いたします。
 
-### SQL Server 2017 について(仮)
+###  SQL Server 2017 新機能のご紹介
 
 #### 講師
 
@@ -52,6 +54,10 @@ twitter: @shinsukeoda
 所属コミュニュティ:　SQL World [http://sqlworld.org](http://sqlworld.org)
 
 #### 概要
+
+10月に SQL Server 2017 がリリースされました！
+「Linux でも動く！」が良く聞きますが、実は他にも色々な機能が追加されています。
+今回は、SQL Server 2017 の新機能をいくつかご紹介しようと思います。
 
 ### MySQL 8.0 について(仮)
 
