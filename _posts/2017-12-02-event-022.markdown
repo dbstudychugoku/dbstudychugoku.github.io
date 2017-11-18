@@ -13,7 +13,7 @@ categories: events
 |12:30 | 13:00　|受付            |
 |13:00 | 13:50　| 7年振りの大型アップデートPostgreSQL10とは | [高橋　一騎さん(@ikkitang)](https://twitter.com/ikkitang)|
 |14:00 | 14:50　| SQL Server 2017 新機能のご紹介 |[織田 信亮さん@shinsukeoda](https://twitter.com/shinsukeoda)|
-|15:00 | 15:50　| MySQL 8.0 について(仮) |[かじやまさん](https://twitter.com/rkajiyama) |
+|15:00 | 15:50　| Webアプリ開発をデータベース側から変革していく - MySQL 8.0新機能 |[かじやまさん](https://twitter.com/rkajiyama) |
 |16:00 | 16:20　|LT１ |
 |16:20 | 17:40　|LT２ |
 |16:40 | 17:00　|クロージング |
@@ -63,13 +63,15 @@ twitter: [@shinsukeoda](https://twitter.com/shinsukeoda)
 
 今回は、SQL Server 2017 の新機能をいくつかご紹介しようと思います。
 
-### MySQL 8.0 について(仮)
+### Webアプリ開発をデータベース側から変革していく - MySQL 8.0新機能
 
 #### 講師
 
 かじやま(MySQLの中の人)さん [@rkajiyama](https://twitter.com/rkajiyama)
 
 #### 概要
+
+2017年秋にMySQL 8.0のRC(リリース候補)版がリリースされました。今回のMySQL 8.0の新機能をWebアプリケーション開発の観点を中心にご紹介いたします。
 
 ## 会場
 
