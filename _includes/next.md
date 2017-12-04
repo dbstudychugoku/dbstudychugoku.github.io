@@ -1,5 +1,7 @@
 次回予定
 
-## [第22回 中国地方DB勉強会 in 出雲](events/event-022.html)
+## [第23回 中国地方DB勉強会]
 
-[connpass](https://dbstudychugoku.connpass.com/event/71462/)
+計画中
+
+[connpass](https://dbstudychugoku.connpass.com/)

@@ -1,10 +1,33 @@
 ---
 layout: event
 title: "第22回 中国地方DB勉強会 in 出雲"
-date: 2017-11-16 00:00:00 JST
+date: 2017-12-04 00:00:00 JST
 event-date: "2017年12月02日(土) 13:00 - 17:00"
 categories: events
 ---
+
+## Twitterまとめ
+
+https://togetter.com/li/1178013
+
+## 発表資料
+
+### 7年振りの大型アップデートPostgreSQL10とは
+
+### SQL Server 2017 新機能のご紹介
+
+#### スライド
+<div style="width: 640px">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/xyNbYlTWwvoft9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/odashinsuke/sql-server-2017-83167564" title="Sql server 2017 新機能のご紹介" target="_blank">Sql server 2017 新機能のご紹介</a> </strong> from <strong><a href="https://www.slideshare.net/odashinsuke" target="_blank">Oda Shinsuke</a></strong> </div>
+</div>
+
+### Webアプリ開発をデータベース側から変革していく - MySQL 8.0新機能
+
+### LT1
+
+### LT2
+
+### LT3
 
 ## タイムテーブル
 
@@ -15,7 +38,7 @@ categories: events
 |14:00 | 14:50　| SQL Server 2017 新機能のご紹介 |[織田 信亮さん@shinsukeoda](https://twitter.com/shinsukeoda)|
 |15:00 | 15:50　| Webアプリ開発をデータベース側から変革していく - MySQL 8.0新機能 |[かじやまさん](https://twitter.com/rkajiyama) |
 |16:00 | 16:20　|LT１ |
-|16:20 | 17:40　|LT２ |
+|16:20 | 16:40　|LT２ |
 |16:40 | 17:00　|クロージング |
 |17:30 | 19:30　|懇親会
 
