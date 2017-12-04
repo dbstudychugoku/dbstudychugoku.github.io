@@ -8,26 +8,39 @@ categories: events
 
 ## Twitterまとめ
 
-https://togetter.com/li/1178013
+* [Togetter](https://togetter.com/li/1178013)
 
 ## 発表資料
 
 ### 7年振りの大型アップデートPostgreSQL10とは
 
+[高橋　一騎さん(@ikkitang)](https://twitter.com/ikkitang)
+
 ### SQL Server 2017 新機能のご紹介
 
+[織田 信亮さん@shinsukeoda](https://twitter.com/shinsukeoda)
+
 #### スライド
+
 <div style="width: 640px">
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/xyNbYlTWwvoft9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/odashinsuke/sql-server-2017-83167564" title="Sql server 2017 新機能のご紹介" target="_blank">Sql server 2017 新機能のご紹介</a> </strong> from <strong><a href="https://www.slideshare.net/odashinsuke" target="_blank">Oda Shinsuke</a></strong> </div>
 </div>
 
 ### Webアプリ開発をデータベース側から変革していく - MySQL 8.0新機能
 
+[かじやまさん](https://twitter.com/rkajiyama)
+
 ### LT1
+
+[高橋　一騎さん(@ikkitang)](https://twitter.com/ikkitang)
 
 ### LT2
 
+[森藤さん](https://twitter.com/mmorito_0318)
+
 ### LT3
+
+[野口さん](https://twitter.com/bringer1092)
 
 ## タイムテーブル
 
