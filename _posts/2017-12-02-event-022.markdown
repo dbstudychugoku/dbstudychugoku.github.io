@@ -16,9 +16,17 @@ categories: events
 
 [高橋　一騎さん(@ikkitang)](https://twitter.com/ikkitang)
 
+#### 動画
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6rTCvdEowSw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 ### SQL Server 2017 新機能のご紹介
 
 [織田 信亮さん@shinsukeoda](https://twitter.com/shinsukeoda)
+
+#### 動画
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/QrVXlTFbvp4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 #### スライド
 
@@ -30,17 +38,37 @@ categories: events
 
 [かじやまさん](https://twitter.com/rkajiyama)
 
-### LT1
+#### 動画
+
+<iframe width="640" height="360"
+src="https://www.youtube.com/embed/dZRzFw7WbUs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+### LT 設計をする上で役立った制約について
 
 [高橋　一騎さん(@ikkitang)](https://twitter.com/ikkitang)
 
-### LT2
+#### 動画
+
+<iframe width="640" height="360"
+src="https://www.youtube.com/embed/N6u4UY6Uztw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+### LT 生活にもっとクラウドを
 
 [森藤さん](https://twitter.com/mmorito_0318)
 
-### LT3
+#### 動画
+
+<iframe width="640" height="360"
+src="https://www.youtube.com/embed/LWXYtXaxtNY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+### LT GCPのNoSQL
 
 [野口さん](https://twitter.com/bringer1092)
+
+#### 動画
+
+<iframe width="640" height="360"
+src="https://www.youtube.com/embed/HH07orwUZzM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## タイムテーブル
 
