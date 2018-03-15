@@ -63,3 +63,12 @@ categories: events
 ## 懇親会について
 
 [座駆動LT大会20180630](https://gbdaitokai.connpass.com/event/71224/)
+
+
+## 会場
+
+[岡山大インキュベータ](http://www.smrj.go.jp/incubation/od-plus/)
+
+- 駐車場は岡山大インキュベータの来客用にお停めください(※台数が多い場合は調整をお願いする場合もあります)。
+- 交通法規・岡山大学の学内ルールの順守をおねがいします。
+- 会場での飲食可
