@@ -31,7 +31,7 @@ categories: events
 |13:30 | 14:30　| Amazon Aurora ベストプラクティスと最新アップデート | 藤原 吉規 |
 |14:40 | 15:40　| 今から始めるデータベース監視 ~あなたのデータベースは大丈夫？~| 曽根 壮大 |
 |15:50 | 16:10　| LT枠| |
-|16:20 | 17:30　| 支部長のDBお悩み相談会（仮）| 参加者 |
+|16:20 | 17:30　| 支部長のDBお悩み相談会| 参加者 |
 |17:30 | 17:40　| クロージング| |
 |19:00 | 22:00　| [懇親会（座駆動LT大会）](https://gbdaitokai.connpass.com/event/71224/)
 
@@ -66,7 +66,7 @@ builderscon2018,YAPC::Kansaiなどのイベントでベストスピーカー賞�
 他にも岡山Python勉強会主催、オープンラボ備後、日本PostgreSQLユーザ会所属。
 Software Designでデータベースに関する連載、「RDBアンチパターン」などを執筆。
 
-### 支部長のDBお悩み相談会（仮）
+### 支部長のDBお悩み相談会
 
 #### 概要
 支部長が前職で困っていたデータベースの悩みを講師・参加者のみなさんと相談する座談会です。
@@ -77,8 +77,19 @@ Software Designでデータベースに関する連載、「RDBアンチパタ�
 参加者
 
 ## LT枠について
+
 今回のDB勉強会ではLT(5分)を募集しています。
 DBに関する内容であればOKですので、ネタがある方はぜひご提供いただければと！
+
+### OSS-DB 取得のススメ
+
+### 講師
+
+尾古 豊明 [@patorash](https://twitter.com/patorash?lang=ja)
+
+### スライド
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/mWrU7vS7TnJs9O" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/chariderpato/ossdb" title="OSS-DB 取得のススメ" target="_blank">OSS-DB 取得のススメ</a> </strong> from <strong><a href="https://www.slideshare.net/chariderpato" target="_blank">豊明 尾古</a></strong> </div>
 
 ## 懇親会について
 
