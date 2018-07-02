@@ -66,6 +66,10 @@ builderscon2018,YAPC::Kansaiなどのイベントでベストスピーカー賞�
 他にも岡山Python勉強会主催、オープンラボ備後、日本PostgreSQLユーザ会所属。
 Software Designでデータベースに関する連載、「RDBアンチパターン」などを執筆。
 
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="b449a08f537c41898d97b46557a7ae29" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 ### 支部長のDBお悩み相談会
 
 #### 概要
