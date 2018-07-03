@@ -5,22 +5,32 @@ date: 2018-02-22 00:00:00 JST
 event-date: "2018年06月30日(土) 13:00 - 17:40"
 categories: events
 ---
-隔月程度でデータベースに関する勉強会を中国地方で開催しています。
 
-主催：PostgreSQLユーザ会中国支部
+## Twitter まとめ
+
+* [Togetter](https://togetter.com/li/1242210)
+
+## 発表資料
+
+### 今から始めるデータベース監視 ~あなたのデータベースは大丈夫？~
+
+#### スライド
+
+<div style="width: 640px">
+<script async class="speakerdeck-embed" data-id="b449a08f537c41898d97b46557a7ae29" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+### OSS-DB 取得のススメ
+
+#### スライド
+
+<div style="width: 640px">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/mWrU7vS7TnJs9O" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/chariderpato/ossdb" title="OSS-DB 取得のススメ" target="_blank">OSS-DB 取得のススメ</a> </strong> from <strong><a href="https://www.slideshare.net/chariderpato" target="_blank">豊明 尾古</a></strong> </div>
+</div>
 
 ## 事前申し込み
 
 * [connpass](https://dbstudychugoku.connpass.com/event/82443/)
-
-# 第弐拾参回  中国地方DB勉強会 in 岡山
-
-隔月程度でデータベースに関する勉強会を中国地方で開催しています。
-
-主催：PostgreSQLユーザ会中国支部
-
-[公式サイト：中国地方DB勉強会](http://dbstudychugoku.github.io/)
-
 
 ## タイムテーブル
 
@@ -66,10 +76,6 @@ builderscon2018,YAPC::Kansaiなどのイベントでベストスピーカー賞�
 他にも岡山Python勉強会主催、オープンラボ備後、日本PostgreSQLユーザ会所属。
 Software Designでデータベースに関する連載、「RDBアンチパターン」などを執筆。
 
-#### スライド
-
-<script async class="speakerdeck-embed" data-id="b449a08f537c41898d97b46557a7ae29" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-
 ### 支部長のDBお悩み相談会
 
 #### 概要
@@ -90,10 +96,6 @@ DBに関する内容であればOKですので、ネタがある方はぜひご�
 ### 講師
 
 尾古 豊明 [@patorash](https://twitter.com/patorash?lang=ja)
-
-### スライド
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/mWrU7vS7TnJs9O" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/chariderpato/ossdb" title="OSS-DB 取得のススメ" target="_blank">OSS-DB 取得のススメ</a> </strong> from <strong><a href="https://www.slideshare.net/chariderpato" target="_blank">豊明 尾古</a></strong> </div>
 
 ## 懇親会について
 
