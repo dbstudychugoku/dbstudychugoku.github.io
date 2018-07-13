@@ -19,7 +19,7 @@ layout: default
 <article class="post-content">
 
 <h2>これまでのイベント</h2>
-{% assign sorted_posts = (site.posts | sort: 'path') %}
+{% assign sorted_posts = site.posts | sort: 'path' %}
 {% for post in sorted_posts reversed %}
 {% capture event_date %}{{ post.path | slice: 7,10 }}{% endcapture %}
   {% capture event_previous_date %}{{ post.previous.path | slice: 7,10 }}{% endcapture %}

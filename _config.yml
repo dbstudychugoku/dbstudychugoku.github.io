@@ -11,7 +11,7 @@ show_downloads: false
 # Google services
 google_analytics: UA-80534557-1
 
-gems:
+plugins:
   - jemoji
   - jekyll-sitemap
   - jekyll-feed
