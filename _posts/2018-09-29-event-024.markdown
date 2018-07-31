@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "第24回 中国地方DB勉強会 in 広島"
-date: 2018-07-13 00:00:00 JST
+date: 2018-07-25 00:00:00 JST
 event-date: "2018年09月29日(土) 13:00 - 17:40"
 categories: events
 ---
@@ -40,4 +40,7 @@ DBに関する内容であればOKですので、ネタがある方はぜひご�
 
 ## 会場
 
-調整中
+[ひろしま病理診断クリニック（株式会社 病理センター）](http://www.byouri.co.jp/)
+
+[〒730-0013 広島県広島市中区八丁堀１１−２８　朝日広告ビル 3階](http://www.byouri.co.jp/access.html)
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1646.1099231809974!2d132.46128637593074!3d34.39575759510462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355aa20880a712f7%3A0xa8619b4a3108067f!2z44CSNzMwLTAwMTMg5bqD5bO255yM5bqD5bO25biC5Lit5Yy65YWr5LiB5aCA77yR77yR4oiS77yS77yY!5e0!3m2!1sja!2sjp!4v1532491620198" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
