@@ -22,7 +22,8 @@ categories: events
 |13:30 | 14:30　| (題調整中) 内容： Dockerを開発環境や技術検証に利用する | 新原 雅司さん [(@shin1x1)](https://twitter.com/shin1x1) |
 |14:40 | 15:40　| (題調整中) 内容： Circle CI について | 柴山 嶺さん[(@serima)](https://twitter.com/serima) |
 |15:50 | 16:00　| AWS DMSを使った異種DB移行のすすめ | 高橋 一騎 [(@ikkitang)](https://twitter.com/ikkitang) |
-|16:00 | 17:00　| LT枠 | |
+|16:00 | 16:30　| LT枠 | |
+|16:30 | 17:00　| Firebaseの概要説明や機能の紹介について | 森藤 敏之さん[@mmorito_0318](https://twitter.com/mmorito_0318)  |
 |17:00 | 17:30　| Docker質問 座談会 | 参加者 |
 |17:30 | 17:40　| クロージング| |
 |19:00 | 22:00　| 懇親会 | |
@@ -48,8 +49,11 @@ DBに関する内容であればOKですので、ネタがある方はぜひご�
 
 ## 懇親会について
 
-場所： 調整中
-Connpassにてお申し込みくださいい。
+場所： [まぐろや](https://www.hotpepper.jp/strJ000026881/)
+
+Connpassにてお申し込みください。
+
+会場から徒歩4分ほどです。
 
 ## 会場
 
