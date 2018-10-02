@@ -1,13 +1,40 @@
 ---
 layout: event
 title: "第24回 中国地方DB勉強会 in 広島"
-date: 2018-07-25 00:00:00 JST
+date: 2018-10-01 00:00:00 JST
 event-date: "2018年09月29日(土) 13:00 - 17:40"
 categories: events
 ---
-隔月程度でデータベースに関する勉強会を中国地方で開催しています。
 
-主催：PostgreSQLユーザ会中国支部
+## Twitter まとめ
+
+* [Togetter](https://togetter.com/li/1272024)
+
+## 発表資料
+
+### Dockerを開発環境や技術検証に利用する
+
+#### スライド
+
+<div style="width: 640px">
+<script async class="speakerdeck-embed" data-id="351420c41d664fba9ad3619cc7d80ad0" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
+
+### Circle CI について
+
+#### スライド
+
+<div style="width: 640px">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BXUuEIOZEkpHEp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/serima1/circleci-117224496" title="CircleCI 導入への入門" target="_blank">CircleCI 導入への入門</a> </strong> from <strong><a href="https://www.slideshare.net/serima1" target="_blank">Ryo Shibayama</a></strong> </div>
+</div>
+
+### AWS DMSを使った異種DB移行のすすめ
+
+#### スライド
+
+<div style="width: 640px">
+<script async class="speakerdeck-embed" data-slide="1" data-id="7e99ec8112db473ba9aa05b4f497dfb0" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+</div>
 
 ## 事前申し込み
 
