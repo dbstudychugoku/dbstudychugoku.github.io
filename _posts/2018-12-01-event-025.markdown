@@ -6,9 +6,9 @@ event-date: "2018年12月01日(土) 13:00 - 17:30"
 categories: events
 ---
 
-## 事前申し込み
+## Twitterまとめ
 
-* [connpass](https://dbstudychugoku.connpass.com/event/103072/)
+* [Togetter](https://togetter.com/li/1294234)
 
 ## タイムテーブル
 
@@ -18,7 +18,10 @@ categories: events
 |13:20 | 13:30　|オープニング |
 |13:30 | 14:30　| PostgreSQLをAWS DMSで安心安全 バージョンアップ | 高橋　一騎 [(@ikkitang)](https://twitter.com/ikkitang) |
 |14:40 | 15:40　| MySQLのバージョンアップの基礎知識（仮） | 山﨑 由章 さん[(@yyamasaki1)](https://twitter.com/yyamasaki1) |
-|15:50 | 16:10　| LT 4本 | [講師]|
+|15:50 | 15:55　| IoTつらい話 | 松永 卓也さん[(@kmt_t)](https://twitter.com/kmt_t)|
+|15:55 | 16:00　| DBの障害をなる早で検知する技術|  高橋　一騎さん [(@ikkitang)](https://twitter.com/ikkitang) |
+|16:00 | 16:05　| RDSのPostgreSQL9.3をがんばってバージョンアップしてみた | [(@kazuhisa1976)](https://twitter.com/kazuhisa1976) |
+|16:05 | 16:10　| オンプレMySQLからAuroraへの移行 | まつひささん[(@hmatsu47)](https://twitter.com/hmatsu47)|
 |16:20 | 17:20　| PostgreSQL11の話 + バージョンアップの話（仮） | 曽根　壮大さん [(@soudai1025)](https://twitter.com/soudai1025) |
 |17:20 | 17:30　|クロージング(18:00撤収)|
 |18:30 | 21:00　|懇親会(徒歩圏内を予定)|
@@ -38,6 +41,10 @@ OSCなどのイベントにて新規のDBバージョンについてお話させ
 
 ### PostgreSQLをAWS DMSで安心安全 バージョンアップ
 
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="6efd81eb86034d718c6def9a18f95564" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
 #### 講師
 
 高橋　一騎 [(@ikkitang)](https://twitter.com/ikkitang)
@@ -52,7 +59,11 @@ OSCなどのイベントにて新規のDBバージョンについてお話させ
 現在私の所属するPostgreSQLではAWSのサービスDMS(Database Migration Service) を使用してDB移行を行っております。
 今回は DMSとはなんぞや？という所から始まり、DMSを用いて PostgreSQLのバージョンアップをなるべく最小限のダウンタイムで行っていく手法についてご紹介させて頂きたいと思います。
 
-### MySQLのバージョンアップの基礎知識（仮）
+### MySQLのバージョンアップの基礎知識
+
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="74979915a13b488687b52feabcbfb698" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 #### 講師
 
@@ -68,7 +79,11 @@ OSCなどのイベントにて新規のDBバージョンについてお話させ
 MySQLのバージョン方法、バージョンアップ時の注意事項等について解説します。
 ※MySQL 5.5のExtended Supportは2018年12月に終了します。この機会に是非バージョンアップをご検討下さい。
 
-### タイトル準備中
+### PostgreSQLのバージョンアップの話
+
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="ac8b70a49c9b46f4bd57335413f3c180" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 #### 講師
 
@@ -87,13 +102,63 @@ PostgreSQL11の話 + バージョンアップの話
 
 ## LT枠について
 
-今回のDB勉強会ではLTを募集しています。	
-DBに関する内容であればOKですので、ネタがある方はぜひご提供いただければと！
+### IoTつらい話
+
+- スライド等公開予定無し
+
+### DBの障害をなる早で検知する技術
+
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="a9c409ea6cc44c70997a305bfbe14714" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+#### 講師
+
+高橋　一騎 [(@ikkitang)](https://twitter.com/ikkitang)
+
+#### プロフィール
+
+株式会社 オミカレ
+日本PostgreSQLユーザー会 中国支部長
+
+### RDSのPostgreSQL9.3をがんばってバージョンアップしてみた
+
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="47c4ea6ea7ff4b78b6b6c9986ac2e87e" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+#### 講師
+
+山本 和久さん [(@kazuhisa1976)](https://twitter.com/kazuhisa1976)
+
+### オンプレ MySQLからAuroraへの移行
+
+#### スライド
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ar1C2t27Gde2Mi" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/ar1C2t27Gde2Mi" title="Migration to Aurora" target="_blank">Migration to Aurora</a> </strong> from <strong><a href="https://www.slideshare.net/HiroyasuMatsuhisa" target="_blank">HiroyasuMatsuhisa</a></strong> </div>
+
+#### 講師
+
+まつひささん[(@hmatsu47)](https://twitter.com/hmatsu47)
+
+### 新しいOracle MySQL Cloud Serviceのご紹介
+
+#### スライド
+
+https://www.mysql.com/jp/why-mysql/presentations/mysql-cloud-update-201811-jp/
+
+#### 講師
+
+山﨑 由章 さん [(@yyamasaki1)](https://twitter.com/yyamasaki1) 
+
+#### 概要
+
+現在開発中の新しいOracle MySQL Cloud Serviceについて、
+「MySQL Innovation Day 2018 秋」での発表資料を使ってご説明していただきました。
 
 ## 会場
 
 [コワーキングスペース SUIKO WORK CAMP ミーティングルーム２](https://suikoworkcamp.jp/#access)
-
 
 JR倉吉駅から徒歩10分程度
 
@@ -101,5 +166,9 @@ JR倉吉駅から徒歩10分程度
 
 ## 懇親会について
 
-未定(徒歩圏内を予定)
+[魚河岸ろばた 旬門 倉吉店](https://tabelog.com/tottori/A3102/A310201/31003043/dtlmap/)
+(会場から徒歩2分程度)
+
+飲み放題で4000円のコース料理を予定。山陰の美味と、講師や他の参加者との突っ込んだ話をあわせてお楽しみください。
+
 
