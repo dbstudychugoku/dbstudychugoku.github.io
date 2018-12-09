@@ -1,0 +1,19 @@
+---
+layout: event
+title: "第26回 中国地方DB勉強会 in 岡山"
+date: 2018-12-09 00:00:00 JST
+event-date: "2019年02月02日(土) 13:00 - 17:30"
+categories: events
+---
+
+## 事前申し込み
+
+* [connpass](https://dbstudychugoku.connpass.com/)
+
+## タイムテーブル
+
+随時公開致します。
+
+## セッション内容
+
+随時公開致します。
