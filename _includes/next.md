@@ -4,4 +4,4 @@
 
 ### 2019年02月02日(土)  13:00 - 17:30
 
-[connpass](https://dbstudychugoku.connpass.com)
+[connpass](https://dbstudychugoku.connpass.com/event/112468/)
