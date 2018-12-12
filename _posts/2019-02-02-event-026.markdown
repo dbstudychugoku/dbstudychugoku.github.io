@@ -18,7 +18,8 @@ categories: events
 |13:20 | 13:30　|オープニング |
 |13:30 | 14:30　| SQLチューニングの基礎 ~改めて振り返るExplainコマンド~ | 高橋　一騎 [(@ikkitang)](https://twitter.com/ikkitang) |
 |14:40 | 15:40　| PostgreSQL11 設定パラメーター解体新書 | 寺内 大輝さん[(@ester41)](https://twitter.com/ester41) |
-|15:50 | 16:10　| LT4本 | |
+|15:50 | 15:55　| [LT] MySQL Connector/Jでパラメータチューニング | まつひささん [(@hmatsu47)](https://twitter.com/hmatsu47) |
+|15:55 | 16:10　| LT3本 | |
 |16:20 | 17:20　| 初めてのMySQLチューニング -データベースは怖くない！-（仮） | 間宮 直樹さん[(@mamy1326)](https://twitter.com/mamy1326) |
 |17:20 | 17:30　|クロージング(18:00撤収)|
 |18:30 | 21:00　|懇親会(徒歩圏内を予定)|
@@ -75,7 +76,9 @@ SQLのチューニングにあたって、そもそも遅いQueryとは何か、
 
 ### PostgreSQL11 設定パラメーター解体新書
 
-#### 寺内 大輝さん[(@ester41)](https://twitter.com/ester41)
+#### 講師
+
+寺内 大輝さん[(@ester41)](https://twitter.com/ester41)
 
 #### 概要
 最新版であるPostgreSQL11の設定パラメーター(postgresql.conf)の解説を行います。
@@ -85,6 +88,12 @@ SQLのチューニングにあたって、そもそも遅いQueryとは何か、
 現在、LTしていただける方を募集しています。
 LTしていただける方は [connpass](https://dbstudychugoku.connpass.com/event/112468/) の申し込みにLTを申し込みたい、と記述頂くか
 もしくは [@ikkitang](https://twitter.com/ikkitang) 宛にメンションをください。
+
+### MySQL Connector/Jでパラメータチューニング
+
+#### 発表者
+
+まつひささん [(@hmatsu47)](https://twitter.com/hmatsu47)
 
 ## 会場
 
