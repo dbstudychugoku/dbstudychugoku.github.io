@@ -16,12 +16,12 @@ categories: events
 |:------------ |:--------------|:--------------|:-------------
 |13:00 | 13:20　|受付            |
 |13:20 | 13:30　|オープニング |
-|13:30 | 14:30　| SQLチューニングの基礎 ~改めて振り返るExplainコマンド~ | 高橋　一騎 [(@ikkitang)](https://twitter.com/ikkitang) |
+|13:30 | 14:30　| SQLチューニングの基礎 = 改めて振り返るExplainコマンド = | 高橋　一騎 [(@ikkitang)](https://twitter.com/ikkitang) |
 |14:40 | 15:40　| PostgreSQL11 設定パラメーター解体新書 | 寺内 大輝さん[(@ester41)](https://twitter.com/ester41) |
 |15:50 | 15:55　| [LT] MySQL Connector/Jでパラメータチューニング | まつひささん [(@hmatsu47)](https://twitter.com/hmatsu47) |
 |15:55 | 16:00 |[LT] 内容調整中 | [@Uemmra3](https://twitter.com/Uemmra3) |
 |16:00 | 16:05 |[LT] 内容調整中 | [@maepon](https://twitter.com/maepon) |
-|16:05 | 16:10 |[LT] Postgresql チューニング関連のお話 | [@masudakz](https://twitter.com/masudakz) |
+|16:05 | 16:10 |[LT] インデックス・ショットガンを現場から補足 | [@masudakz](https://twitter.com/masudakz) |
 |16:20 | 17:20　| 初めてのMySQLチューニング -データベースは怖くない！-（仮） | 間宮 直樹さん[(@mamy1326)](https://twitter.com/mamy1326) |
 |17:20 | 17:30　|クロージング(18:00撤収)|
 |18:30 | 21:00　|懇親会(徒歩圏内を予定)|
