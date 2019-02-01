@@ -22,7 +22,7 @@ categories: events
 |15:55 | 16:00 |[LT] 内容調整中 | [@Uemmra3](https://twitter.com/Uemmra3) |
 |16:00 | 16:05 |[LT] JetBrainsIDEのDB/SQLツール | [@maepon](https://twitter.com/maepon) |
 |16:05 | 16:10 |[LT] インデックス・ショットガンを現場から補足 | [@masudakz](https://twitter.com/masudakz) |
-|16:20 | 17:20　| 初めてのMySQLチューニング -データベースは怖くない！-（仮） | 間宮 直樹さん[(@mamy1326)](https://twitter.com/mamy1326) |
+|16:20 | 17:20　| 初めてのMySQLチューニング -データベースは怖くない！- | 間宮 直樹さん[(@mamy1326)](https://twitter.com/mamy1326) |
 |17:20 | 17:30　|クロージング(18:00撤収)|
 |18:30 | 21:00　|懇親会(徒歩圏内を予定)|
 
