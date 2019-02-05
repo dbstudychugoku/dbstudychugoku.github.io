@@ -23,7 +23,7 @@ categories: events
 
 ## 会場
 
-[松江市オープンソースラボ](http://www1.city.matsue.shimane.jp/jigyousha/sangyou/ruby/rabo_open.html)
+[松江市オープンソースラボ](http://www1.city.matsue.shimane.jp/jigyousha/sangyou/ruby/open_gaiyou.html)
 
 
 ## 懇親会について
