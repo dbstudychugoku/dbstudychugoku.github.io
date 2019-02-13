@@ -2,7 +2,7 @@
 layout: event
 title: "第27回 中国地方DB勉強会 in 島根（松江）"
 date: 2019-02-03 00:00:00 JST
-event-date: "2019年04月27日(土) 13:00 - 17:30"
+event-date: "2019年05月18日(土) 13:00 - 17:30"
 categories: events
 ---
 
