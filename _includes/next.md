@@ -4,4 +4,4 @@
 
 ### 2019年05月18日(土)  13:00 - 17:30
 
-[connpass準備中](https://dbstudychugoku.connpass.com/)
+[connpass](https://dbstudychugoku.connpass.com/event/120662/)
