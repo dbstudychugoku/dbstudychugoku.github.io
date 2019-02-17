@@ -6,6 +6,10 @@ event-date: "2019年05月18日(土) 13:00 - 17:30"
 categories: events
 ---
 
+## 事前申し込み
+
+* [connpass](https://dbstudychugoku.connpass.com/event/120662/)
+
 ## コンテンツは準備中です。
 
 ## タイムテーブル
