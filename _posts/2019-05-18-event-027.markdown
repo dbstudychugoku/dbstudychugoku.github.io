@@ -20,7 +20,8 @@ categories: events
 |14:00 | 14:10　|オープニング |
 |14:10 | 15:00　| タイトル準備中 | [吉田 貴文(@zephiransas) さん](https://twitter.com/zephiransas) |
 |15:10 | 16:00　| （仮） DMSを使った異種間DB移行で学んだPostgreSQLの面白いところ | [高橋 一騎(@ikkitang)](https://twitter.com/ikkitang) |
-|16:10 | 16:30　| LT枠(1〜4) |  |
+|16:10 | 16:20　| タイトル調整中 | まつひささん [(@hmatsu47)](https://twitter.com/hmatsu47) |
+|16:20 | 16:30　| LT枠(1〜2) |  |
 |16:40 | 17:30　| アプリケーションエンジニアな私がホスティング業界に来て感じたあれこれ | [高橋 邦彦(@kunit)さん](https://twitter.com/kunit) |
 |17:30 | 17:40　| クロージング(18:00撤収)|
 |18:00 | 21:00　| 懇親会(徒歩圏内を予定)|
