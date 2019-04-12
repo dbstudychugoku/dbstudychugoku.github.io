@@ -51,6 +51,12 @@ categories: events
 
 ### LT
 
+### LT1 (仮) Alibaba Cloud Table Storeでなにかやる
+
+#### 講師
+
+まつひささん [(@hmatsu47)](https://twitter.com/hmatsu47)
+
 ### LT2 (仮) PostgreSQL12の新機能をちょっと紹介 
 
 #### 講師
