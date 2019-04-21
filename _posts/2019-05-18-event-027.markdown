@@ -30,15 +30,31 @@ categories: events
 
 ## セッション内容
 
-### タイトル準備中
+### DynamoDB Step Zero to One
 
 #### 講師
 
 吉田 貴文 さん[(@zephiransas)](https://twitter.com/zephiransas)
 
+[クラスメソッド株式会社](https://classmethod.jp/)
+[岡山Javaユーザ会](https://okajug.doorkeeper.jp/)
+
 #### 概要
 
-DynamoDBの話をしていただきます
+AWS DynamoDBはAWSが提供するフルマネージドなNoSQLデータベースです。
+非常に高速かつシームレスなスケーラビリティを兼ね備えていますが、逆にRDSとは異なるテーブル設計のアプローチが求められます。
+本セッションでは
+- DynamoDBの特徴
+- NoSQLを使うと、何が便利なのか？
+- NoSQLに適したテーブル設計の基礎
+- 実際のアーキテクチャ例
+などを示しながら、DynamoDBをうまく使いこなす方法を紹介します。
+
+**対象者**
+- RDS以外のNoSQLを触ったことがない方
+- 大量のトランザクションデータをどこに保存すべきか悩んでいる方
+- クラウドアーキテクチャでNoSQLを使ってスケーラブルな設計をしたい方
+
 
 ### DMSを使った異種間DB移行で学んだPostgreSQLの面白いところ
 
