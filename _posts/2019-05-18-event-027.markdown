@@ -20,7 +20,7 @@ categories: events
 |14:00 | 14:10　|オープニング |
 |14:10 | 15:00　| DynamoDB Step Zero to One | 吉田 貴文 さん[(@zephiransas)](https://twitter.com/zephiransas) |
 |15:10 | 16:00　| （仮） DMSを使った異種間DB移行で学んだPostgreSQLの面白いところ | 高橋 一騎 [(@ikkitang)](https://twitter.com/ikkitang) |
-|16:10 | 16:15　| (仮) Alibaba Cloud Table Storeでなにかやる | まつひささん [(@hmatsu47)](https://twitter.com/hmatsu47) |
+|16:10 | 16:15　| Alibaba CloudのTable Storeでオートインクリメント機能を使ってみた | まつひささん [(@hmatsu47)](https://twitter.com/hmatsu47) |
 |16:15 | 16:20　| (仮) PostgreSQL12の新機能をちょっと紹介 | ぬこ＠横浜 11.2 さん[(@nuko_yokohama)](https://twitter.com/nuko_yokohama) |
 |16:20 | 16:25　| タイトル準備中 | 水尾 峻輔 さん [---] |
 |16:25 | 16:30　|タイトル準備中| 藤原 吉規 さん [(@twingo_b)](https://twitter.com/twingo_b) |
@@ -88,7 +88,7 @@ AWS DynamoDBはAWSが提供するフルマネージドなNoSQLデータベース
 
 ### LT
 
-### LT1 (仮) Alibaba Cloud Table Storeでなにかやる
+### LT1 Alibaba CloudのTable Storeでオートインクリメント機能を使ってみた
 
 #### 講師
 
