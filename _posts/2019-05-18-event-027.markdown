@@ -6,11 +6,9 @@ event-date: "2019年05月18日(土) 13:00 - 17:30"
 categories: events
 ---
 
-## 事前申し込み
+## Twitterまとめ
 
-* [connpass](https://dbstudychugoku.connpass.com/event/120662/)
-
-## コンテンツは準備中です。
+* [Togetter](https://togetter.com/li/1356754)
 
 ## タイムテーブル
 
@@ -31,6 +29,10 @@ categories: events
 ## セッション内容
 
 ### DynamoDB Step Zero to One
+
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="78af69441b32490097102114cfc13496" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 #### 講師
 
@@ -58,6 +60,10 @@ AWS DynamoDBはAWSが提供するフルマネージドなNoSQLデータベース
 
 ### DMSを使った異種間DB移行で学んだPostgreSQLの面白いところ
 
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="413cc4c571854220852218221553dbe6" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
 #### 講師
 
 高橋　一騎 [(@ikkitang)](https://twitter.com/ikkitang)
@@ -78,6 +84,10 @@ AWS DynamoDBはAWSが提供するフルマネージドなNoSQLデータベース
 
 ### アプリケーションエンジニアな私がホスティング業界に来て感じたあれこれ
 
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="abca5859fdb745ebb13463e5964c6c44" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 #### 講師
 
 高橋 邦彦 さん [(@kunit)](https://twitter.com/kunit)
@@ -90,27 +100,46 @@ AWS DynamoDBはAWSが提供するフルマネージドなNoSQLデータベース
 
 ### LT1 Alibaba CloudのTable Storeでオートインクリメント機能を使ってみた
 
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="551a943709c64edf80a94e9afb4084f1" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
 #### 講師
 
 まつひささん [(@hmatsu47)](https://twitter.com/hmatsu47)
 
-### LT2 (仮) PostgreSQL12の新機能をちょっと紹介 
+### LT2 PostgreSQL12 ちょっとだけ紹介 
+
+#### スライド
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2TkMwQRz7NBmgJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 #### 講師
 
 ぬこ＠横浜 11.2 さん[(@nuko_yokohama)](https://twitter.com/nuko_yokohama)
 
-### LT3 タイトル準備中
+### LT3 非エンジニアへのSQL布教 
+
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="aa0e0808073741ee91ccff024814ead6" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 #### 講師
 
-水尾 峻輔 さん [----]
+水尾 峻輔 さん
 
-### LT4 タイトル準備中
+### LT4 AWSのAurora Serverless Database APIの話
 
 #### 講師
 
 藤原 吉規 さん [(@twingo_b)](https://twitter.com/twingo_b)
+
+### LT5 
+
+#### 講師
+
+きむらしのぶさん [(@mix_dvd)](https://twitter.com/mix_dvd)
+
 
 ## 会場
 
