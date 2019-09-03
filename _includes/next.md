@@ -1,7 +1,5 @@
 次回予定
 
-## [第27回 中国地方DB勉強会 in 島根（松江）](events/event-027.html)
+## 第28回 中国地方DB勉強会
 
-### 2019年05月18日(土)  13:00 - 17:30
-
-[connpass](https://dbstudychugoku.connpass.com/event/120662/)
+現在調整中
