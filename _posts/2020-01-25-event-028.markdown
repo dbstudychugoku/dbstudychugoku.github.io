@@ -25,10 +25,6 @@ categories: events
 
 ## 会場
 
-[松江市オープンソースラボ](http://www1.city.matsue.shimane.jp/jigyousha/sangyou/ruby/open_gaiyou.html)
-
-## 会場
-
 [岡山大インキュベータ](http://www.smrj.go.jp/incubation/od-plus/)
 
 - 駐車場は岡山大インキュベータの来客用にお停めください(※台数が多い場合は調整をお願いする場合もあります)。
