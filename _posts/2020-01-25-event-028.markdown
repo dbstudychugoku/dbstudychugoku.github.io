@@ -13,7 +13,7 @@ categories: events
 |13:00 | 13:20　| 受付            |
 |13:20 | 13:30　| オープニング |
 |13:30 | 14:30　| PostgreSQL12 新機能ご紹介 | 高橋 一騎 [(@ikkitang)](https://twitter.com/ikkitang) |
-|14:40 | 15:00　| タイトル調整中 | ゆいなさん ([yuina1056](https://twitter.com/yuina1056)) |
+|14:40 | 15:00　| タイトル調整中 | ゆいなさん [(yuina1056)](https://twitter.com/yuina1056) |
 |15:10 | 16:10　| [LT枠 1 〜 6] |  |
 |16:20 | 17:20　| Amazon RDS + Amazon EC2 + ロジカルレプリケーションを使った低コスト高速全文検索 | 堀本 泰弘さん |
 |17:20 | 17:30　| クロージング(18:00撤収) |
