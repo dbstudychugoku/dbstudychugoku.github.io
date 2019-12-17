@@ -12,16 +12,59 @@ categories: events
 |:------------ |:--------------|:--------------|:-------------
 |13:00 | 13:20　| 受付            |
 |13:20 | 13:30　| オープニング |
-|13:30 | 14:30　| 枠1 | |
-|14:40 | 15:40　| 枠2 | |
-|15:50 | 16:10　| [LT枠 1 〜 4] |  |
-|16:20 | 17:20　| 枠3 | |
+|13:30 | 14:30　| PostgreSQL12 新機能ご紹介 | 高橋 一騎 [(@ikkitang)](https://twitter.com/ikkitang) |
+|14:40 | 15:00　| タイトル調整中 | ゆいなさん [(yuina1056)](https://twitter.com/yuina1056) |
+|15:10 | 16:10　| [LT枠 1 〜 6] |  |
+|16:20 | 17:20　| Amazon RDS + Amazon EC2 + ロジカルレプリケーションを使った低コスト高速全文検索 | 堀本 泰弘さん |
 |17:20 | 17:30　| クロージング(18:00撤収) |
 |18:30 | 21:00　| 懇親会(徒歩圏内を予定) |
 
 ## セッション内容
 
-随時更新予定
+各セッションの概要等は調整中です。
+
+### PostgreSQL12 新機能ご紹介
+
+#### 講師
+
+高橋　一騎 [(@ikkitang)](https://twitter.com/ikkitang)
+
+[株式会社オミカレ](https://party-calendar.net/)
+日本PostgreSQLユーザー会 中国支部長
+
+#### 概要
+
+昨年 2019年の10月にPostgreSQL12がリリースされました。  
+本セッションでは PostgreSQL12 の新機能を "アップグレードするだけで得られるメリット" と "新しく使えるようになる機能" に分けてご紹介させて頂きます！
+
+**対象者**
+- RDBMSを業務で扱っている方
+- PostgreSQLの新機能について興味がある方
+- アプリケーションエンジニア寄りの方
+
+
+### Amazon RDS + Amazon EC2 + ロジカルレプリケーションを使った低コスト高速全文検索
+
+2019年11月に行われた [PostgreSQL Conference Japan 2019](https://www.postgresql.jp/index.php/jpug-pgcon2019) での再演となります！！
+
+#### 講師
+
+堀本 泰弘 さん
+
+#### 概要
+
+PostgreSQL で使用できる全文検索の拡張に PGroonga という高速で高性能な拡張があります。 PGroonga は、全言語対応の超高速全文検索機能を PostgreSQL で使えるようにする拡張で、 安定して高速で、かつ高機能（同義語、表記ゆれや異字体への対応、類似文書検索などが使えます）です。
+
+Amazon RDS は Amazon がクラウド上で提供する RDBS サービスで、データベースのインストールや パッチ適用、スケールアウト、バックアップなどを Amazon が面倒をみてくれるため、 運用上の手間を大幅に減らすことができます。
+
+Amazon RDS は、とても便利なのですが、拡張機能を自由にインストールすることができません。 以下の URL の一覧にある拡張しか使えません。
+https://docs.aws.amazon.com/ja_jp/AmazonRDS/latest/UserGuide/CHAP_PostgreSQL.html#PostgreSQL.Concepts.General.FeatureSupport.Extensions.11x
+
+PGroonga も使えないため、日本語を始めとする多言語対応の超高速全文検索機能を Amazon RDS では使うことができません。
+
+そこで、PostgreSQL 10 から使えるようになった、ロジカルレプリケーションと Amazon EC2 上にインストールした PostgreSQL と PGroonga を使って RDS のメリットである、 運用の負担を少なくしつつ、PGroonga を使用して高速で高機能な全文検索ができるような構成を考えました。
+
+本発表では、どのような構成で Amazon RDS のメリットを活かしつつ、Amazon EC2 上で PGroonga を使った全文検索ができるのかを紹介します。
 
 ## 会場
 
