@@ -13,8 +13,10 @@ categories: events
 |13:00 | 13:20　| 受付            |
 |13:20 | 13:30　| オープニング |
 |13:30 | 14:30　| PostgreSQL12 新機能ご紹介 | 高橋 一騎 [(@ikkitang)](https://twitter.com/ikkitang) |
-|14:40 | 15:00　| マイクロサービスをBIで可視化する | ゆいなさん [(yuina1056)](https://twitter.com/yuina1056) |
-|15:10 | 16:10　| [LT枠 1 〜 6] |  |
+|14:40 | 15:00　| マイクロサービスをBIで可視化する | ゆいなさん [(@yuina1056)](https://twitter.com/yuina1056) |
+|15:10 | 15:20　| [LT枠 1] | 前川 昌幸@オミ岡 さん [(@maepon)](https://twitter.com/maepon)  |
+|15:20 | 15:30　| [LT枠 2] | パトラッシュ@エキスパート職 さん [(@patorash)](https://twitter.com/patorash) |
+|15:10 | 16:10　| [LT枠 3 〜 6] |  |
 |16:20 | 17:20　| Amazon RDS + Amazon EC2 + ロジカルレプリケーションを使った低コスト高速全文検索 | 堀本 泰弘さん |
 |17:20 | 17:30　| クロージング(18:00撤収) |
 |18:30 | 21:00　| 懇親会(徒歩圏内を予定) |
