@@ -15,10 +15,10 @@ categories: events
 |13:30 | 14:30　| PostgreSQL12 新機能ご紹介 | 高橋 一騎 [(@ikkitang)](https://twitter.com/ikkitang) |
 |14:40 | 15:00　| マイクロサービスをBIで可視化する | ゆいなさん [(@yuina1056)](https://twitter.com/yuina1056) |
 |15:10 | 15:20　| [LT枠 1] | 前川 昌幸@オミ岡 さん [(@maepon)](https://twitter.com/maepon)  |
-|15:20 | 15:30　| [LT枠 2] | パトラッシュ@エキスパート職 さん [(@patorash)](https://twitter.com/patorash) |
+|15:20 | 15:30　| Indexの種類 | パトラッシュ@エキスパート職 さん [(@patorash)](https://twitter.com/patorash) |
 |15:30 | 15:40　| [LT枠 3] | もじゃ変 さん [(@razon)](https://twitter.com/razon) |
-|15:40 | 15:50　| [LT枠 4] | らいあ さん [(@ryer)](https://twitter.com/ryer) | 
-|15:50 | 16:00　| [LT枠 5] | 募集中 |
+|15:40 | 15:50　| GoのDBライブラリについて調べてみた | らいあ さん [(@ryer)](https://twitter.com/ryer) | 
+|15:50 | 16:00　| Start-SQLの紹介（仮） | パトラッシュ@エキスパート職 さん [(@patorash)](https://twitter.com/patorash) |
 |16:00 | 16:10　| [LT枠 6] | 募集中 |
 |16:20 | 17:20　| Amazon RDS + Amazon EC2 + ロジカルレプリケーションを使った低コスト高速全文検索 | 堀本 泰弘さん |
 |17:20 | 17:30　| クロージング(18:00撤収) |
