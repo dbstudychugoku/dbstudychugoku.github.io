@@ -1,7 +1,7 @@
 次回予定
 
-## [第28回 中国地方DB勉強会 in 岡山](https://dbstudychugoku.github.io/events/event-028.html)
+## [第29回 中国地方DB勉強会 in 鳥取（米子）](https://dbstudychugoku.github.io/events/event-029.html)
 
-### 2020年01月25日(土)  13:00 - 17:30
+### 2020年03月14日(土)  13:00 - 17:30
 
-[connpass](https://dbstudychugoku.connpass.com/event/158127/)
+[connpass](https://dbstudychugoku.connpass.com/event/167778/)
