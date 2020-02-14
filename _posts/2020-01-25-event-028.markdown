@@ -6,6 +6,10 @@ event-date: "2020年01月25日(土) 13:00 - 17:30"
 categories: events
 ---
 
+## Twitterまとめ
+
+* [Togetter](https://togetter.com/li/1459936)
+
 ## タイムテーブル
 
 | 開始時間 | 終了時間 | タイトル | 講師 |
@@ -14,21 +18,23 @@ categories: events
 |13:20 | 13:30　| オープニング |
 |13:30 | 14:30　| PostgreSQL12 新機能ご紹介 | 高橋 一騎 [(@ikkitang)](https://twitter.com/ikkitang) |
 |14:40 | 15:00　| マイクロサービスをBIで可視化する | ゆいなさん [(@yuina1056)](https://twitter.com/yuina1056) |
-|15:10 | 15:20　| [LT枠 1] | 前川 昌幸@オミ岡 さん [(@maepon)](https://twitter.com/maepon)  |
+|15:10 | 15:20　| DB使わずWordPressのデータ取得 | 前川 昌幸@オミ岡 さん [(@maepon)](https://twitter.com/maepon)  |
 |15:20 | 15:30　| Indexの種類 | パトラッシュ@エキスパート職 さん [(@patorash)](https://twitter.com/patorash) |
-|15:30 | 15:40　| [LT枠 3] | もじゃ変 さん [(@razon)](https://twitter.com/razon) |
+|15:30 | 15:40　| stdev_popとstdev_sampの話 | もじゃ変 さん [(@razon)](https://twitter.com/razon) |
 |15:40 | 15:50　| GoのDBライブラリについて調べてみた | らいあ さん [(@ryer)](https://twitter.com/ryer) | 
-|15:50 | 16:00　| Start-SQLの紹介（仮） | パトラッシュ@エキスパート職 さん [(@patorash)](https://twitter.com/patorash) |
-|16:00 | 16:10　| RDSのSSL/TLS証明書を更新した話（仮） | Yamamoto Kazuhisa さん [(@kazuhisa1976)](https://twitter.com/kazuhisa1976) |
+|15:50 | 16:00　| Start-SQLの紹介 | パトラッシュ@エキスパート職 さん [(@patorash)](https://twitter.com/patorash) |
+|16:00 | 16:10　| RDSのSSL/TLS証明書を更新した話 | Yamamoto Kazuhisa さん [(@kazuhisa1976)](https://twitter.com/kazuhisa1976) |
 |16:20 | 17:20　| Amazon RDS + Amazon EC2 + ロジカルレプリケーションを使った低コスト高速全文検索 | 堀本 泰弘さん |
 |17:20 | 17:30　| クロージング(18:00撤収) |
 |18:30 | 21:00　| 懇親会(徒歩圏内を予定) |
 
 ## セッション内容
 
-各セッションの概要等は調整中です。
-
 ### PostgreSQL12 新機能ご紹介
+
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="c3b6ba23b7ab4b029be1b9cca6370bf8" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 #### 講師
 
@@ -49,6 +55,10 @@ categories: events
 
 ### マイクロサービスをBIで可視化する
 
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="36219d40bee14d608c11747f1353f432" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
 #### 講師
 
 株式会社PREVENT ゆいなさん [(yuina1056)](https://twitter.com/yuina1056)
@@ -59,9 +69,80 @@ BIに対して難しいと思われる方も多いかもしれません。
 でも実際に実装してみるとそこまで難しくもなく、DBの基本をしっかり抑えていれば実装は可能です。
 本セッションでは、私が実務で実装を行った、BIを実装するまでの過程とBIを使うためのETL処理を実装する際の知見を紹介します。
 
+
+### 【LT枠１】DB使わずWordPressのデータ取得  
+
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="17d6a6f420214596b8876c7bb6ce70f7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+#### 講師
+
+前川 昌幸 さん [(@maepon)](https://twitter.com/maepon)  
+
+### 【LT枠２】Indexの種類  
+
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="055dff859113438390db574f24409bf4" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+#### 講師
+
+パトラッシュ＠エキスパート職 さん [(@patorash)](https://twitter.com/patorash) 
+
+### 【LT枠３】stdev_popとstdev_sampの話  
+
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="1a7b41e7c076455e98c52cdff10e7aca" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+#### 講師
+
+もじゃ変 さん [(@razon)](https://twitter.com/razon) 
+
+### 【LT枠４】GoのDBライブラリについて調べてみた 
+
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="76a2a88a864a4e99920d3bd6f5812988" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+#### 講師
+
+らいあ さん [(@ryer)](https://twitter.com/ryer)  
+
+### 【LT枠５】Start-SQLの紹介  
+
+#### スライド
+
+<script async class="speakerdeck-embed" data-id="7cffc4d13c2e412e8bef32890fd1e654" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+#### 講師
+
+パトラッシュ＠エキスパート職 さん [(@patorash)](https://twitter.com/patorash) 
+
+### 【LT枠６】RDSのSSL/TLS証明書を更新した話 
+
+#### 講師
+
+Yamamoto Kazuhisa さん [(@kazuhisa1976)](https://twitter.com/kazuhisa1976) 
+
 ### Amazon RDS + Amazon EC2 + ロジカルレプリケーションを使った低コスト高速全文検索
 
 2019年11月に行われた [PostgreSQL Conference Japan 2019](https://www.postgresql.jp/index.php/jpug-pgcon2019) での再演となります！！
+
+#### スライド
+
+<iframe src="https://slide.rabbit-shocker.org/authors/komainu8/dbstudychugoku-28th/viewer.html"
+        width="640" height="524"
+        frameborder="0"
+        marginwidth="0"
+        marginheight="0"
+        scrolling="no"
+        style="border: 1px solid #ccc; border-width: 1px 1px 0; margin-bottom: 5px"
+        allowfullscreen> </iframe>
+<div style="margin-bottom: 5px">
+  <a href="https://slide.rabbit-shocker.org/authors/komainu8/dbstudychugoku-28th/" title="Amazon RDS+EC2+PGroonga+ロジカルレプリケーションを使った低コスト高速全文検索">Amazon RDS+EC2+PGroonga+ロジカルレプリケーションを使った低コスト高速全文検索</a>
+</div>
 
 #### 講師
 
