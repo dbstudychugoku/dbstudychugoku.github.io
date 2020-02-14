@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "第29回 中国地方DB勉強会 in 岡山"
+title: "第29回 中国地方DB勉強会 in 鳥取（米子）"
 date: 2020-03-14 00:00:00 JST
 event-date: "2020年03月14日(土) 13:00 - 17:00"
 categories: events
