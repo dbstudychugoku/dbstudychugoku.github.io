@@ -1,2 +1,5 @@
 _site
 .ruby-version
+/.bundle/
+/vendor/bundle
+/Gemfile.lock
