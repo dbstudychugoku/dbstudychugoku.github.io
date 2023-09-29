@@ -1,0 +1,90 @@
+---
+layout: event
+title: "第32回 中国地方DB勉強会 in 岡山"
+date: 2023-10-07 00:00:00 JST
+event-date: "2023年10月07日(土) 14:00 - 17:30"
+categories: events
+---
+
+## タイムテーブル   
+
+| 開始時間 | 終了時間 | タイトル | 講師 |
+|:------------ |:--------------|:--------------|:-------------
+|13:30 | 14:00　| 受付            |
+|14:00 | 14:10　| オープニング |  |
+|14:10 | 15:00　| MySQL8.0の振り返りと、MySQL 8.1、MySQL HeatWaveの最新情報 | 山﨑 由章 さん[(@yyamasaki1)](https://twitter.com/yyamasaki1) |
+|15:00 | 15:30　| データベースのメジャーバージョンの軌跡 ~ MySQL、PostgreSQLの最新に追従する ~ | 曽根 壮大(そね たけとも) [(@soudai1025)](https://twitter.com/soudai1025) |
+|15:30 | 15:50　| 休憩 |  |
+|15:50 | 16:10　| [LT枠(1~4枠)] |  |
+|16:10 | 17:00　| 最新機能まで総ざらい！PostgreSQLの注目機能を振り返る（仮） | こば[(@tzkb)](https://twitter.com/tzkb) |
+|17:00 | 17:20　| [LT枠(1~4枠)] |  |
+|17:20 | 17:30　| クロージング |  |
+|18:00 | 21:00　| 懇親会(徒歩圏内を予定) |
+
+※ 今回はLTを設けておりません。
+
+## セッション内容
+
+各セッションの概要等は調整中です。
+
+### MySQL8.0の振り返りと、MySQL 8.1、MySQL HeatWaveの最新情報
+
+#### 講師
+
+山﨑 由章 さん [(@yyamasaki1)](https://twitter.com/yyamasaki1) 
+
+#### プロフィール
+
+日本オラクル株式会社  
+日本MySQLユーザー会(MyNA)
+
+#### 概要
+
+2023年7月にMySQLの新しいリリースモデルとして、LTS(Long-Term Support)とInnovationリリースが発表されました。
+
+それに伴い、長らく機能追加が続いていたMySQL8.0が今後バグフィックスとセキュリティフィックスのみのバージョンとなり、別途最新バージョンとしてMySQL 8.1がリリースされています。
+
+そこで今回は、この新しいリリースモデルについて解説すると共に、MySQL 8.0を振り返り、MySQL 8.1についても解説します。
+
+更に、2023年9月にラスベガスで開催されるOracle CloudWorld 2023で発表されたMySQL及びMySQL HeatWave関連の最新情報も紹介します！！
+
+### データベースのメジャーバージョンの軌跡 ~ MySQL、PostgreSQLの最新に追従する ~
+
+MySQL 5.7が2023/09に、PostgreSQL 11が2023/11にEOLを迎えます。
+Cloudで如何に運用が便利になっても、バージョンアップは自分たちで頑張る必要があります。
+そこで今回はバージョンアップの際の罠と実際にバージョンアップするときのコツとアプローチについてご紹介します。
+
+#### 講師
+
+曽根 壮大(そね たけとも) [(@soudai1025)](https://twitter.com/soudai1025)
+
+##### 所属
+
+- [合同会社 Have Fun Tech](https://have-fun.tech/) 代表社員
+- [株式会社 Linkage](https://linkage-inc.co.jp/) CTO
+
+##### コミュニティ
+日本PostgreSQLユーザ会 理事 勉強会分科会座長
+
+##### 自己紹介
+合同会社 Have Fun Tech 代表社員、株式会社 Linkage CTO。数々の業務システム、Webサービスなどの開発・運用を担当し、2017年に株式会社はてなでサービス監視サービス「Mackerel」のCRE（Customer Reliability Engineer）、株式会社オミカレの副社長/CTOなどを経て、合同会社 Have Fun Techを起業。 その後、LinkageのCTOとしてJOINし、HaveFunTechの経営と二足の草鞋を履きこなしている。 コミュニティでは、Microsoft MVPをはじめ、日本PostgreSQLユーザ会の理事として勉強会の開催を担当し、各地で登壇している。  
+builderscon 2017、YAPC::Kansaiなどのイベントでベストスピーカーを受賞し、分かりやすく実践的な内容のトークに定評がある。  
+他に、岡山Python勉強会を主催し、オープンラボ備後にも所属。著書に『Software Design』誌で、データベースに関する連載「RDBアンチパターン」をまとめた [『失敗から学ぶRDBの正しい歩き方』](https://www.amazon.co.jp/%E5%A4%B1%E6%95%97%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6RDB%E3%81%AE%E6%AD%A3%E3%81%97%E3%81%84%E6%AD%A9%E3%81%8D%E6%96%B9-Software-Design-plus-%E6%9B%BD%E6%A0%B9/dp/4297104083)を執筆。
+
+### 最新機能まで総ざらい！PostgreSQLの注目機能を振り返る（仮）
+
+最新バージョンの16までPostgreSQLは順調に進化を続けてきました。
+近年のバージョンアップ時の注目機能について、使いどころを分かりやすくご紹介します。
+
+#### 講師
+
+こば @再出発のDBエンジニア [(@tzkb)](https://twitter.com/tzkb)
+
+##### 自己紹介
+データベースエンジニアでDBソムリエ。クラウドネイティブなDBやNewSQLに関する連載( http://itmedia.co.jp/author/228847/ )を持ち、「詳説 データベース」の監訳を担当。 http://amzn.to/3boBdBp
+
+## 会場
+
+[岡山国際交流センター 3F 研修室](http://www.opief.or.jp/oicenter/access.html)
+
+当日の情報については [参加申込みページ](https://dbstudychugoku.connpass.com/event/292246/)をご覧ください。
